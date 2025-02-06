@@ -29,9 +29,9 @@ jobs:
       run: |
         python radio-broser-search.py
         
-        - name: Commit changes
-        run: |
-          git config --local user.email "kevin.satizabal@outlook.com"
-          git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Update file" -a
+    - name: Commit changes
+      run: |
+        git config --local user.email "kevin.satizabal@outlook.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update file" -a
