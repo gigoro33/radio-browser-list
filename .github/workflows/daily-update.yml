@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
       with:
         fetch-depth: 0
         
@@ -29,9 +29,6 @@ jobs:
       run: |
         python radio-broser-search.py
         
-    - name: Commit changes
-      run: |
-        git config --global user.name 'Gigoro33'
-        git config --global user.email 'kevin.satizabal@outlook.com'
-        git commit -am "Automated report"
-        git push
+    - uses: actions/checkout@v4
+      with:
+          ref: ${{ github.event.pull_request.head.sha }}
