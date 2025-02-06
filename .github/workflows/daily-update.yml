@@ -1,0 +1,42 @@
+name: Daily Python Script
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Ejecuta el workflow a las 00:00 UTC todos los días
+
+jobs:
+
+  update-file:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+        
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        
+    - name: Run Python script
+      run: |
+        python radio-broser-search.py
+        
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update file" -a
+        
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
