@@ -1,5 +1,5 @@
 import requests
-r = requests.get('http://nl1.api.radio-browser.info/json/stations/bylanguage/spanish')
+r = requests.get('http://nl1.api.radio-browser.info/json/stations')
 if r.status_code == 200:
     data = r.json()
     # Nombre del archivo que se va a crear
