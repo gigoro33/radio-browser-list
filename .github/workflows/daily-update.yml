@@ -31,7 +31,7 @@ jobs:
         
     - name: Commit changes
       run: |
-        git config user.name "github-actions[bot]"
+        git config user.name "gigoro33"
         git config user.email "kevin.satizabal@outlook.com"
         git push
         git commit -m "generated"
