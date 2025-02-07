@@ -1,9 +1,8 @@
 name: Daily Python Script
 
 on:
-  push: 
-  # schedule:
-    # - cron: '0 0 * * *'  # Ejecuta el workflow a las 00:00 UTC todos los días
+  schedule:
+    - cron: '0 0 * * *'  # Ejecuta el workflow a las 00:00 UTC todos los días
   workflow_dispatch:  # Permite ejecutar manualmente desde la interfaz de GitHub
 
 jobs:
