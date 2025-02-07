@@ -35,4 +35,5 @@ jobs:
         git config --local user.name "GitHub Action"
         git add .
         git commit -m "Update file" -a
-        git push origin main
+        git push
+        git push --follow-tags
