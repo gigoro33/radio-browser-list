@@ -36,4 +36,3 @@ jobs:
         git add .
         git commit -m "Update file" -a
         git push
-        git push --follow-tags
