@@ -501,6 +501,9 @@ http://ice-the.musicradio.com/Capital
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/767/la-mexicana-1051-fm.1024c01f.png",CAPULLO FM 105.1 (Francisco I. Madero) - 105.1 FM - XHYD-FM - GPS Media - Francisco I. Madero, Coahuila
 https://stream.zeno.fm/3qv5hnktu4rvv
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s220532/images/logod.png",CAXCÁN FM 95.1 (Jalpa) - 95.1 FM - XHJRS-FM - Grupo Radiofónico ZER - Jalpa, Zacatecas
+https://cast.zuperdns.net/8008/stream/;stream.mp3?nochache=0.3141970676706438
+
 #EXTINF:1 radio="true" tvg-logo="",Chamber Pop
 http://79.111.14.76:8000/chamberpop
 
@@ -512,6 +515,9 @@ https://stream.radio.co/s938b68214/listen
 
 #EXTINF:1 radio="true" tvg-logo="",Chill trax
 http://server1.chilltrax.com:9000/;
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-classic-106-9-fm-mexico.webp",CLASSIC 106.9 (MTY) - 106.9 FM - XHPJ-FM - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/673788019b826f0dc1842750/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://www.clubsabrosoradioshow.com/favicon.ico",Club Sabroso Radio
 http://s5.radio.co/s688b80b65/listen
@@ -767,6 +773,9 @@ https://streaming.escuchanosonline.com/8410/stream
 
 #EXTINF:1 radio="true" tvg-logo="http://pic.qtfm.cn/2017/0413/20170413034613.jpeg",FM100.8 包河之声
 https://lhttp-hw.qtfm.cn/live/5022668/64k.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://d371i8ihhgym7w.cloudfront.net/46558758.png",FORMULA MELÓDICA 97.9 (GDL) - 97.9 FM - XETIA-FM - Grupo Unidifusión - Guadalajara, Jalisco
+https://s2.yesstreaming.net:9085/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/MGTJJFtv/frecuencia.jpg",FRECUENCIA 106.9 (CDMX) - 106.9 FM - XHSCCA-FM - Comunicadores Comunitarios del Arte y la Cultura, A.C. - Ciudad de México
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/frecuencia.stream/playlist.m3u8
@@ -2990,12 +2999,3 @@ https://radio.sk8ter.org:8443/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/TM3dkqqQ/top-100-CLUB-CHARTS-26.png",* TOP 100 CLUB CHARTS * | DJ TOP 100 | UP-TO-DATE | DJ CHARTS - CLUBBING HITS - - DEEP HOUSE - LOUNGE -  DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - LOUNGE - URBAN - HIP HOP - RNB - SUMMER IBIZA HOUSE - HARDSTYLE & HARDCORE - REMIX & MIXTAPE | FESTIVAL RADIO
 https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/7twTMMLZ/VOLKSMUSIK.png",* VOLKSMUSIK || Traditionell, Alpenmusik, Heimatklang, Blasmusik, Volksfest, Stimmung, Schlagernah, Mitsingen, Gute Laune, Regional, Brauchtum, Tanzmusik, Gesellig, Klassisch, Kult
-https://0nlineradio.radioho.st/0r-volksmusik?ref=rb26
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/breakz/playlist",*CLUB CHARTS TOP 100 || IMMER AKTUELL || DJ CHARTS || HOUSE, EDM, DEEP HOUSE - TECH HOUSE - TECHNO - MELODIC TECHNO - EDM - ELECTRONIC DANCE MUSIC - CLUB - DJ - DJ MIX - REMIX - FESTIVAL - FESTIVAL RADIO - IBIZA - IBIZA HOUSE - SUMMER HOUSE - BEACH CLUB - CHILLOUT - LOUNGE - RAVE - PARTY MUSIC - NIGHTLIFE - URBAN - HIP HOP - RNB - AFRO HOUSE - LATIN HOUSE - TRANCE - HARDSTYLE - HARDCORE
-https://breakz-2012-high.rautemusik.fm/?ref=N1CLUBBING26
-
-#EXTINF:1 radio="true" tvg-logo="",*Duuu
-https://duuu.out.airtime.pro/duuu_a
