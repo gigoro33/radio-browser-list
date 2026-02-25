@@ -156,8 +156,14 @@ https://27283.live.streamtheworld.com:443/XHPOPFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/J4K5Xkqz/mix.jpg",MIX: 80's, 90's y Más
 https://18443.live.streamtheworld.com:443/XHDFMFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ee43258c4c5167991940231",MVS NOTICIAS: El Poder de las Palabras
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/FHjNX8q9/oye.jpg",OYE: Se Oye
 http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bd35fe16217a1eceece2270",PIANO LANDSCAPES: Música instrumental para relajarte
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR23_s01AAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/0QzYbY7z/disney.png",RADIO DISNEY: Te Llega
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac
@@ -2993,9 +2999,3 @@ https://0nlineradio.radioho.st/technolovers-hypertechno?ref=radio-browser26
 
 #EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/zVqzn51m/0-R-Karneval.png",* KARNEVAL || Fasching, Fastnacht, Alaaf, Helau, Jeck, Jeckenparty, Karnevalsparty, Schunkeln, Stimmungsmusik, Feierlaune, Gute-Laune-Hits, Mitsinghits, Kölsche Hits, Karnevalshits, Rosenmontag, Weiberfastnacht, Straßenkarneval, Kostümparty, Narrensession, Büttenrede, Prunksitzung, Après-Ski, Ballermann, Schlagerparty, Partyklassiker, Festzeltstimmung, Tanzparty, Konfetti, Ausnahmezustand
 https://karneval-high.rautemusik.fm/stream.mp3?ref=rb26
-
-#EXTINF:1 radio="true" tvg-logo="https://memeradio.org/favicon_meme.png",* Meme dans les orties *
-https://radio.sk8ter.org:8443/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/TM3dkqqQ/top-100-CLUB-CHARTS-26.png",* TOP 100 CLUB CHARTS * | DJ TOP 100 | UP-TO-DATE | DJ CHARTS - CLUBBING HITS - - DEEP HOUSE - LOUNGE -  DANCE - TECHNO - RAVE - EDM - HOUSE - TECHHOUSE - REMIX - TRANCE - HARDSTYLE - MINIMAL - IBIZA - CHILLOUT - LOUNGE - URBAN - HIP HOP - RNB - SUMMER IBIZA HOUSE - HARDSTYLE & HARDCORE - REMIX & MIXTAPE | FESTIVAL RADIO
-https://breakz-high.rautemusik.fm/?ref=rb26-t100clubcharts
