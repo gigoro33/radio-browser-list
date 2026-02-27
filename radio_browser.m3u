@@ -96,6 +96,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/C15C4837/beat-2025.jpg",BEAT: Total Music
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/68507f96166c04a064910e82",CHILANGO RADIO: La Radio Que Viene, Viene
+https://stream.radio.co/s938b68214/listen
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0cb167ec97a064f3322d1",EL FONÓGRAFO: Música las 24 Horas
+https://18313.live.streamtheworld.com:443/XEJP_AMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s16514/images/logod.jpg",EL FONÓGRAFO: Música Ligada a tu Recuerdo
 https://19263.live.streamtheworld.com:443/XEN_AMAAC.aac
 
@@ -2993,9 +2999,3 @@ https://0nlineradio.radioho.st/0r-edm-festival?ref=rb26
 
 #EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/BHsTFjH4/FRENCHCORE.png",* FRENCHCORE || Hardcore, Frenchcore, Uptempo, Hard Dance, Rave, Industrial, Speedcore, Bass, Extreme, Dark, Energy, Festival, Underground, Aggressive, Peak Time
 https://0nlineradio.radioho.st/technolovers-frenchcore?ref=rb26
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/JRb5Cj0K/Hypertechno.png",* HYPERTECHNO || Techno, Hard Techno, Hands Up, Industrial Techno, Rave, Acid Techno, Peak Time, Warehouse, Underground, Driving Beats, High Energy, Dark, Fast BPM, Club, Festival, Night
-https://0nlineradio.radioho.st/technolovers-hypertechno?ref=radio-browser26
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/zVqzn51m/0-R-Karneval.png",* KARNEVAL || Fasching, Fastnacht, Alaaf, Helau, Jeck, Jeckenparty, Karnevalsparty, Schunkeln, Stimmungsmusik, Feierlaune, Gute-Laune-Hits, Mitsinghits, Kölsche Hits, Karnevalshits, Rosenmontag, Weiberfastnacht, Straßenkarneval, Kostümparty, Narrensession, Büttenrede, Prunksitzung, Après-Ski, Ballermann, Schlagerparty, Partyklassiker, Festzeltstimmung, Tanzparty, Konfetti, Ausnahmezustand
-https://karneval-high.rautemusik.fm/stream.mp3?ref=rb26
