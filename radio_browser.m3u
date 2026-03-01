@@ -120,11 +120,20 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/MGTJJFtv/frecuencia.jpg",FRECUENCIA: Radio Comunitaria
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/frecuencia.stream/playlist.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-formula-103-3-fm-mexico.webp",GRUPO FÓRMULA (103.3): Abriendo la Conversación
+https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://laradiodemexico.com/assets/images/logos/Radio-Formula-104.1-FM.png",GRUPO FÓRMULA (104.1): Abriendo la Conversación
+https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/69123130bb13926ddacf04e4",HERALDO RADIO: La "H" Que Sí Suena
 https://stream.radiojar.com/0pqyt47etbkvv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s50611/images/logod.png",IBERO: El Milagro de la Radio
 http://noasrv.caster.fm:10182/live
+
+#EXTINF:1 radio="true" tvg-logo="https://images.squarespace-cdn.com/content/5a0dd6831f318dcf5130a0d5/1581466614784-8XDEWPOQM3PZLJ7B5KXS/iberodos.png",IBERO.2: Música Para Pensar
+https://shaincast.caster.fm:20866/listen.mp3
 
 #EXTINF:1 radio="true" tvg-logo="",ICE RADIO
 https://stream.iceradio.nl/iceradiohq?ver=30283
@@ -855,6 +864,9 @@ https://stream.revma.ihrhls.com/zc7785
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s50611/images/logod.png",IBERO 90.9 (CDMX) - 90.9 FM - XHUIA-FM - Universidad Iberoamericana - Ciudad de México
 http://noasrv.caster.fm:10182/live
 
+#EXTINF:1 radio="true" tvg-logo="https://images.squarespace-cdn.com/content/5a0dd6831f318dcf5130a0d5/1581466614784-8XDEWPOQM3PZLJ7B5KXS/iberodos.png",IBERO.2 90.9 (CDMX) - 90.9 HD2 - XHUIA-FM - Universidad Iberoamericana - Ciudad de México
+https://shaincast.caster.fm:20866/listen.mp3
+
 #EXTINF:1 radio="true" tvg-logo="",iHeart Radio Café
 http://stream.revma.ihrhls.com/zc6951/hls.m3u8
 
@@ -1346,6 +1358,12 @@ http://stream.radiojar.com/qpv58fef3p8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ec7121cc405ed8eed73d097",RADIO FÓRMULA 89.1 (Veracruz) - 89.1 FM - XHAVR-FM - Grupo Fórmula - Boca del Río, Veracruz
 http://n07.radiojar.com/u9zvqwen3p8uv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ec8486516ae36fb1eabb14d",RADIO FÓRMULA 950 (Tijuana) - 950 AM - XEKAM-AM - Grupo Fórmula - Tijuana, Baja California
+https://stream.radiojar.com/nce1peen3p8uv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ec81a6f16ae36fb1eabb143",RADIO FÓRMULA 97.5 (La Paz) - 97.5 FM - XHNT-FM - Grupo Fórmula - La Paz, Baja California Sur
+https://stream.radiojar.com/n9nz7y4n3p8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ea0948ae7d1b1b0a6421949",RADIO FÓRMULA 970 (CDMX) - 970 AM - XERFR-AM - Grupo Fórmula - Ciudad de México
 https://mdstrm.com/audio/61e1e0125e404b0836c1e402/live.m3u8
@@ -2981,21 +2999,3 @@ http://mp3.magic-radio.net/320
 
 #EXTINF:1 radio="true" tvg-logo="",@Magic Radio
 http://mp3.magic-radio.net/320
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/674Yy9b8/2000s.png",* 2000s || 2000er, Pop, Charts, Dance, Electro, RnB, Club Hits, Party, Radio Hits, Mainstream, Teen Pop, Eurodance, Feel Good, Throwback, Klassiker
-https://0nlineradio.radioho.st/0r-2000er?ref=rb26
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/B2YbXkQG/70s.png",* 70s || Oldies, 70er, Disco, Funk, Soul, Classic Pop, Retro, Kultsongs, Evergreens, Vinyl Vibes, Groovy, Feel Good, Nostalgie, Zeitlos, Charts
-https://0nlineradio.radioho.st/0r-70s?ref=rb26
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/gbM5ns1q/Afro-House.png",* AFRO HOUSE || Afro Tech, Deep House, Organic House, Tribal House, Melodic House, Tropical House, Ethnic House, Latin House, Percussion House, Beach Vibes, Summer Vibes, Sunset Grooves, Ibiza Vibes, Warm Up Grooves
-https://0nlineradio.radioho.st/technolovers-afro-house?ref=radio-browser26
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/GyTyFSC/Country.png",* COUNTRY || Country Pop, Country Rock, Nashville, Americana, Folk, Southern Rock, Roadtrip, Storytelling, Acoustic, Feel Good, Heartland, Modern Country, Classic Country, Chill, Roots
-https://0nlineradio.radioho.st/0r-country?ref=rb26
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/fV1R2Br2/EDM-Festival.png",* EDM FESTIVAL || Festival EDM, Big Room, Mainstage, Electro House, Progressive House, Hard EDM, Drops, Anthems, Party, Energy, Club, Rave, Future EDM, Bass, Peak Time
-https://0nlineradio.radioho.st/0r-edm-festival?ref=rb26
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/BHsTFjH4/FRENCHCORE.png",* FRENCHCORE || Hardcore, Frenchcore, Uptempo, Hard Dance, Rave, Industrial, Speedcore, Bass, Extreme, Dark, Energy, Festival, Underground, Aggressive, Peak Time
-https://0nlineradio.radioho.st/technolovers-frenchcore?ref=rb26
