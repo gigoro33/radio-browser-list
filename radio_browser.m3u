@@ -90,6 +90,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR03_s01AAC.
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/FKgrF3cw/amor.jpg",AMOR: Sólo Música Romántica
 https://22973.live.streamtheworld.com:443/XHSHFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-arroba-fm-stream-ciudad-de-mexico-mexico.webp",ARROBA FM: Te Conecta
+https://stream.zeno.fm/6vtcayf9d78uv
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bc5ed95c7977ca1c9302289",AZUL 89: El Color de la Música
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.aac
 
@@ -224,6 +227,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHFO_FMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/9fZ9LHcm/vox.png",VOX: Radio Hits
 https://streamingcwsradio30.com/8292/vox
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24545/images/logod.jpg",W DEPORTES: Conectamos Tu Pasión
+https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s16553/images/logod.jpg",W RADIO: Si es Radio, es W
 https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac
@@ -1257,6 +1263,15 @@ https://stream.punkrockers-radio.de:8443/prr.ogg
 #EXTINF:1 radio="true" tvg-logo="https://valeverdefm.com.br/img/b1477f6674fb80a945ea178ecb46e51c.png",R.VALE VERDE FM 96,66
 https://ice.fabricahost.com.br/valeverdefm
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/624f52a70315729495f3b4ff",RADAR 107.5 (Querétaro) - 107.5 FM - XHQRO-FM - Grupo Radar - Querétaro, Querétaro
+https://radios.radiohd.com.mx/8268/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/631fb7fbbd946d644930c789",RADAR 88.9 (León) - 88.9 FM - XHXV-FM - Grupo Radar - León, Guanajuato
+https://radios.radiohd.com.mx/8382/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/69794e900dfe61e77da2a20d",RADAR 94.3 (Irapuato) - 94.3 FM - XHJTA-FM - Grupo Radar - Irapuato, Guanajuato
+https://radios.radiohd.com.mx/8118/stream
+
 #EXTINF:1 radio="true" tvg-logo="",Radio 70 80 90 Marche
 https://rblive.it:8020/radio.mp3
 
@@ -1590,6 +1605,12 @@ https://streamingcwsradio30.com/8292/stream
 #EXTINF:1 radio="true" tvg-logo="https://www.wdeportes.com/pf/resources/wdeportes/touch-icon-ipad.png?d=168",W DEPORTES - 730 AM - XEX-AM - Radiópolis - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/CxTd36hf/wdeportes.png",W DEPORTES 1010 (GDL) - 1010 AM - XEHL-AM - Grupo Radio Cañón - Guadalajara, Jalisco
+
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/CxTd36hf/wdeportes.png",W DEPORTES 1010 (GDL) - 1010 AM - XEHL-AM - Grupo Radio Cañón - Guadalajara, Jalisco
+https://streamingcwsradio30.com/8294/;
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-w-deportes-730-am-mexico.webp",W DEPORTES 730 (CDMX) - 730 AM - XEX-AM - Radiópolis - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC.aac
 
@@ -1658,6 +1679,9 @@ https://streaming.servicioswebmx.com/8264/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90136/images/logod.png",W RADIO 92.9 (Xalapa) - 92.9 FM - XHJH-FM - Grupo Radio Cañón - Xalapa, Veracruz
 https://streaming.servicioswebmx.com/8294/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/358/radio-canon-1100-am.71915044.jpg",W RADIO 94.3 (Fresnillo) - 94.3 FM - XHPFRZ-FM - Grupo Radio Cañon - Fresnillo, Zacatecas
+https://streaming.servicioswebmx.com/8300/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/358/radio-canon-1100-am.71915044.jpg",W RADIO 94.3 (Fresnillo) - 94.3 FM - XHPFRZ-FM - Grupo Radio Cañón - Fresnillo, Zacatecas
 https://streaming.servicioswebmx.com/8294/stream
@@ -2975,27 +2999,3 @@ https://stream.zeno.fm/pp1aypg9d78uv
 
 #EXTINF:1 radio="true" tvg-logo="",@FM (Guadalajara) - 88.7 FM - XHGDL-FM - Radiorama de Occidente - Guadalajara, Jalisco
 https://stream.zeno.fm/es06s1g9d78uv
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (León) - 99.3 FM - XHSD-FM - Radiorama Bajío - León, Guanajuato
-https://stream-154.zeno.fm/883nc8g9d78uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ODNuYzhnOWQ3OHV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiMGJJSjFPUS1SRXltMGo5ZzZra2lRQSIsImlhdCI6MTc2ODQ1MDM3NSwiZXhwIjoxNzY4NDUwNDM1fQ.9MRLxUGQBS9u3AzUZdTqoREawubAlAJgb_y3GpTB5Ew
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Piedras Negras) - 101.7 FM - XHCPN-FM - Radiorama - Piedras Negras, Coahuila
-https://stream.zeno.fm/p7xefup9d78uv
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Poza Rica) - 89.3 FM - XHRRR-FM - Radiorama Poza Rica - Poza Rica, Veracruz
-https://stream.zeno.fm/dctbwwp9d78uv
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Puebla) - 96.1 FM - XHEZAR-FM - Radiorama Puebla - Puebla, Puebla
-https://stream.zeno.fm/pfyc6yp9d78uv
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Reynosa) - 95.3 FM - XHRT-FM - Radiorama - Reynosa, Tamaulipas
-https://stream.zeno.fm/b04err5zfkhvv
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Tampico) - 93.5 FM - XHPP-FM - Radiorama - Tampico, Tamaulipas
-https://stream.zeno.fm/y57qb0p9d78uv
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Tepic) - 98.5 FM - XHEPIC-FM - Radiorama Nayarit - Tepic, Nayarit
-https://stream.zeno.fm/csvzw6ypu98uv
-
-#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fdze95zgdryj.png",@Magic Radio
-http://mp3.magic-radio.net/320
