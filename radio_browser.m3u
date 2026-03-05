@@ -129,6 +129,9 @@ https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://laradiodemexico.com/assets/images/logos/Radio-Formula-104.1-FM.png",GRUPO FÓRMULA (104.1): Abriendo la Conversación
 https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87907/images/logod.png",HERALDO RADIO HD2: Música Continua. 24 horas al día
+https://stream.radiojar.com/4bgpz3xpwhcwv
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/69123130bb13926ddacf04e4",HERALDO RADIO: La "H" Que Sí Suena
 https://stream.radiojar.com/0pqyt47etbkvv
 
@@ -140,6 +143,9 @@ https://shaincast.caster.fm:20866/listen.mp3
 
 #EXTINF:1 radio="true" tvg-logo="",ICE RADIO
 https://stream.iceradio.nl/iceradiohq?ver=30283
+
+#EXTINF:1 radio="true" tvg-logo="https://mx.radio.net/300/imagen.png",IMAGEN RADIO: Poniendo a México en la misma Sintonía
+https://mdstrm.com/audio/64a44d807cb6630627ab0c82/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-imagen-90-5-fm-mexico.webp",IMAGEN RADIO: Poniendo a México en la misma sintonía
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFMAAC.aac
@@ -182,6 +188,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bd35fe16217a1eceece2270",PIANO LANDSCAPES: Música instrumental para relajarte
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR23_s01AAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gkRxssgb/polifonia.png",POLIFONÍA de RADIO IPN: Música para todos los oídos
+
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/0QzYbY7z/disney.png",RADIO DISNEY: Te Llega
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac
@@ -879,6 +888,9 @@ http://stream.revma.ihrhls.com/zc6951/hls.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://myradioenvivo.mx/public/uploads/radio_img/imagen-radio/play_250_250.webp",IMAGEN RADIO 90.5 (CDMX) - 90.5 FM - XEDA-FM - Grupo Imagen - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/m2X5WVrB/imagenradio.png",IMAGEN RADIO 90.5 (CDMX) - 90.5 FM - XEDA-FM - Grupo Imagen - Ciudad de Mexico
+https://mdstrm.com/audio/64a44d807cb6630627ab0c82/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fRZCHPLh/Imagen-Radio-Veracruz.png",IMAGEN RADIO 92.5 (Veracruz) - 92.5 FM - XHQRV-FM - Grupo Imagen - Veracruz, Veracruz
 http://veracruz.radio.wnsol.com:8310/;stream.mp3
 
@@ -1248,6 +1260,9 @@ https://stream.zeno.fm/fr1m9xwfp4guv
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s47689/images/logod.jpg",OYE 89.7 (CDMX) - 89.7 FM - XEOYE-FM - NRM Comunicaciones - Ciudad de México
 http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gkRxssgb/polifonia.png",POLIFONÍA 95.7 (CDMX) - 95.7 HD2 - XHIPN-FM - IPN (Instituto Politécnico Nacional) - Ciudad de México
+
+
 #EXTINF:1 radio="true" tvg-logo="https://manager.uber.radio/static/uploads/station/127496a8-d79b-4b7b-9981-a7112fb3922c.png",Positively Stress Relief -om
 https://nl4.mystreaming.net/pr/stressrelief/icecast.audio
 
@@ -1397,6 +1412,9 @@ https://stream-149.zeno.fm/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 
 #EXTINF:1 radio="true" tvg-logo="https://imgur.com/a/cgkxgIq",Rádio Lance Oficial
 https://stm16.xcast.com.br:9928/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s44443/images/logod.png",RADIO LATINA 104.5 (Tijuana) - 104.5 FM - XHLTN-FM - Grupo Imagen - Tijuana, Baja California
+https://mdstrm.com/audio/698f8c71e9899b0d0ceab9c0/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-metropoli-1150-am-mexico.webp",RADIO METRÓPOLI 1150 (GDL) - 1150 AM - XEAD-AM - Grupo Unidifusión - Guadalajara, Jalisco
 https://s2.yesstreaming.net:9088/stream
@@ -1606,9 +1624,6 @@ https://streamingcwsradio30.com/8292/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/CxTd36hf/wdeportes.png",W DEPORTES 1010 (GDL) - 1010 AM - XEHL-AM - Grupo Radio Cañón - Guadalajara, Jalisco
-
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/CxTd36hf/wdeportes.png",W DEPORTES 1010 (GDL) - 1010 AM - XEHL-AM - Grupo Radio Cañón - Guadalajara, Jalisco
 https://streamingcwsradio30.com/8294/;
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-w-deportes-730-am-mexico.webp",W DEPORTES 730 (CDMX) - 730 AM - XEX-AM - Radiópolis - Ciudad de México
@@ -1671,6 +1686,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91948/images/logod.png",W RADIO 91.5 (Tapachula) - 91.5 FM - XHTAC-FM - Grupo Radio Cañón - Tapachula, Chiapas
 https://streaming.servicioswebmx.com/8248/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/887/abc-radio-puebla.99b63f30.png",W RADIO 92.1 (Chetumal) - 92.1 FM - XHCCBQ-FM - Grupo Radio Cañón - Chetumal, Quintana Roo
+https://streaming.servicioswebmx.com/8256/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cache.usercontentapp.com/logo/57278.png",W RADIO 92.1 (Puebla) - 92.1 FM - XHEG-FM - Grupo Radio Cañón - Puebla, Puebla
 https://streaming.servicioswebmx.com/8212/stream
 
@@ -1693,6 +1711,9 @@ https://streaming.servicioswebmx.com/8284/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://wradio98-5.mx/img/Logo-W-Radio-Costa.png",W RADIO 98.5 (Tututepec) - 98.5 FM - XHPVTS-FM - Grupo Rojas - Tututepec, Oaxaca
+https://stream11.mexiserver.com:9031/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://www.allradio.net/500/2IDKxzFdJebdIF451xDZl.webp",W RADIO 98.5 (Tututepec) - 98.5 FM - XHPVTS-FM - Grupo ROJAZ - Tututepec, Oaxaca
 https://stream11.mexiserver.com:9031/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/XEEW_W1420_logo.png",W1420 (Matamoros) - 1420 AM - XEEW-AM - RadioDual - Matamoros, Tamaulipas
@@ -2978,24 +2999,3 @@ http://a9.radioheart.ru:8049/rocktime
 
 #EXTINF:1 radio="true" tvg-logo="",[XRM] - Electronic
 http://stream.xrm.fm:8000/xrm-ele.aac
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Celaya)  - 99.5 FM - XHAF-FM - Radiorama - Celaya, GT
-https://stream.zeno.fm/179rk7f9d78uv
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Celaya) - 99.5 FM - XHAF-FM - Radiorama - Celaya, Guanajuato
-https://stream.zeno.fm/179rk7f9d78uv
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Chihuahua) - 1360 AM - XEDI-AM - Radiorama - Chihuahua, Chihuahua
-https://stream.zeno.fm/hv5u0bg9d78uv
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Chihuahua) - 88.5 FM - XHDI-FM - Radiorama - Chihuahua, Chihuahua
-https://stream.zeno.fm/hv5u0bg9d78uv
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87734/images/logod.png",@FM (Cuernavaca) - 93.3 FM - XHTB-FM - Radiorama Morelos - Cuernavaca, Morelos
-https://stream.zeno.fm/yt2efgg9d78uv
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Durango)  - 99.7 FM - XHOH-FM - Radiorama - Durango, GR
-https://stream.zeno.fm/pp1aypg9d78uv
-
-#EXTINF:1 radio="true" tvg-logo="",@FM (Guadalajara) - 88.7 FM - XHGDL-FM - Radiorama de Occidente - Guadalajara, Jalisco
-https://stream.zeno.fm/es06s1g9d78uv
