@@ -627,6 +627,9 @@ http://stream.radiojar.com/g33sp4yqd6quv
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s327478/images/logod.png",EL KUINO 96.1 (La Piedad) - 96.1 FM - XHPLPM-FM - Grupo Radiofónico ZER - La Piedad, Michoacán
 https://live.zuperdns.net/1961/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/373/el-lobo-1061-fm.4ae7015f.jpg",EL LOBO 106.1 (Chihuahua) - 106.1 FM - XHSU-FM - Sistema Radio Lobo - Chihuahua, Chihuahua
+https://streamingcwsradio30.com/8172/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/746/la-poderosa-983-fm.1b5f0b73.png",EL VIEJÓN 98.3 (San Pedro) - 98.3 FM - XHBF-FM - GPS Media - San Pedro, Coahuila
 https://stream.zeno.fm/pwezjsgefu9tv
 
@@ -810,6 +813,9 @@ https://streaming.escuchanosonline.com/8410/stream
 #EXTINF:1 radio="true" tvg-logo="http://pic.qtfm.cn/2017/0413/20170413034613.jpeg",FM100.8 包河之声
 https://lhttp-hw.qtfm.cn/live/5022668/64k.mp3
 
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-fmtu-stream-monterrey-mexico.webp",FMTÚ (MTY) - Online - www.mmradio.com - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/672a54544e93395908e74234/icecast.audio
+
 #EXTINF:1 radio="true" tvg-logo="https://d371i8ihhgym7w.cloudfront.net/46558758.png",FORMULA MELÓDICA 97.9 (GDL) - 97.9 FM - XETIA-FM - Grupo Unidifusión - Guadalajara, Jalisco
 https://s2.yesstreaming.net:9085/stream
 
@@ -936,6 +942,12 @@ https://cast4.my-control-panel.com/proxy/televis4/kiss977
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s6004/images/logod.jpg",KISS UK: The Biggest Dance and R&B - Londres, Inglaterra
 https://live-kiss.sharp-stream.com/kiss100.mp3
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s344078/images/logod.png",KY 104.5 (MTY) - 104.5 FM - XHMF-FM - Grupo Audiorama Comunicaciones - Monterrey, Nuevo León
+https://cdn1.onstream.audio/proxy/xhmf/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-ky-94-7-fm-guadalajara-mexico.webp",KY 94.7 (GDL) - 94.7 FM - XHDK-FM - Grupo Audiorama Comunicaciones - Guadalajara, Jalisco
+https://ss1.audiorama.com.mx:6576/stream
+
 #EXTINF:1 radio="true" tvg-logo="",L-radio
 https://air.unmixed.ru/lradio256
 
@@ -965,6 +977,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHRDAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f777a29e3907725cbd10a62",LA COMADRE 105.5 (Puebla) - 105.5 FM - XHHIT-FM - Grupo ACIR - Puebla, Puebla
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEHITAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-comadre-107-1-fm-mexico.webp",LA COMADRE 107.1 (Matamoros) - 107.1 FM - XHVTH-FM - Multimedios Radio - Matamoros, Tamaulipas
+https://mdstrm.com/audio/6737c1d31f0ca80ddd994f5e/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/610315469403c396b6b0da17",LA COMADRE 1260 (CDMX) - 1260 AM - XEL-AM - Grupo ACIR - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XELAMAAC.aac
@@ -1068,6 +1083,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/BESAMEAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/vDFqD54K/laradiodesudcalifornia.png",LA RADIO DE SUDCALIFORNIA 99.1 (La Paz) - 99.1 FM - XHBCP-FM - Instituto Estatal de Radio y Televisión de Baja California Sur - La Paz, Baja California Sur
 https://stream.zeno.fm/z4yhsevc998uv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/rsGXLWCK/laradiodesudcalifornia2.png",LA RADIO DE SUDCALIFORNIA 99.1 (Los Cabos) - 99.1 FM - XHLUC-FM - Instituto Estatal de Radio y Televisión de Baja California Sur - Cabo San Lucas, Baja California Sur
+https://stream.zeno.fm/69hk1a8x5rhvv
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s141473/images/logod.png",LA RANCHERA 106.1 (Aguascalientes) - 106.1 FM - XHLTZ-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
 https://cast.zuperdns.net/8022/stream/
 
@@ -1104,6 +1122,9 @@ https://cast.zuperdns.net/8028/stream/
 #EXTINF:1 radio="true" tvg-logo="https://xhepl.mx/img/logo-dark.png",LA SÚPER ESTACIÓN 550 (Cuauhtémoc) - 550 AM - XEPL-AM - Cuauhtémoc, Chihuahua
 https://listen.mixlr.com/e84453b53ffa763e52deb4144497cd0a
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a8c99cfe9a2dcd3a8fb928",LA T GRANDE 990 (MTY) - 990 AM - XET-AM - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/672a602bce5982a130a01a1d/icecast.audio
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-tapatia-103-5-fm-mexico.webp",LA TAPATIA 103.5 (GDL) - 103.5 FM - XHRX-FM - Radiorama de Occidente - Guadalajara, Jalisco
 https://stream-143.zeno.fm/urxmpmn1qa0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1cnhtcG1uMXFhMHV2IiwiaG9zdCI6InN0cmVhbS0xNDMuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoickhyWEdpamFRbjY3YzZ1a2lpdTVjZyIsImlhdCI6MTc2ODQ0MTcwMiwiZXhwIjoxNzY4NDQxNzYyfQ.LgRjJ22jGLwI-fj5pqgUjxkmdsXh-VfHwyXzgfo_JNs
 
@@ -1112,6 +1133,9 @@ https://us9.maindigitalstream.com/ssl/latop102
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s91471g.png",LA TREMENDA 560 (Santiago Papasquiaro) - 560 AM - XESRD-AM - Grupo Garza Limón - Santiago Papasquiaro, Durango
 https://radio.latremenda.com.mx/Santiago
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/TwqmKVmc/lavozmonterrey.png",LA VOZ 1190 (MTY) - 1190 AM - XECT-AM - La Voz Radio / Núcleo Radio Monterrey - Monterrey, Nuevo León
+https://streamingcwsradio30.com/8240/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fypX8pch/La-Voz-830.jpg",LA VOZ 830 (CDMX) - 830 AM - XEITE-AM - Capital Media - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEITEAAC.aac
@@ -1215,6 +1239,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfc",MATCH 90.3 (GDL) - 90.3 FM - XHEMIA-FM - Grupo ACIR - Guadalajara, Jalisco
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEMIAAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1df6",MATCH 97.5 (León) - 97.5 FM - XHPQ-FM - Grupo ACIR - León, Guanajuato
+https://17813.live.streamtheworld.com:443/XHPQFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6384eaaf8b8b276d3b4de0b7",MATCH 97.9 (Querétaro) - 97.9 FM - XHQTO-FM - Grupo ACIR - Querétaro, Querétaro
+https://14093.live.streamtheworld.com:443/XHQTOAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa",MATCH 99.3 (CDMX) - 99.3 FM - XHPOP-FM - Grupo ACIR - Ciudad de México
 https://16603.live.streamtheworld.com:443/XHPOPFMAAC.aac
 
@@ -1233,6 +1263,12 @@ https://liveaudio.lamusica.com/LA_KXOL_icy
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/mexiquense-radio-1600-am-estado-de-mexico-mexico.webp",MEXIQUENSE RADIO 1600 (Metepec) - 1600 AM - XEGEM-AM - Sistema Mexiquense de Medios Públicos - Metepec, Estado de México
 https://streamingcwsradio30.com:7046/
 
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/milenio-radio-103-7-fm-monterrey-mexico.webp",MILENIO RADIO 103.7 (MTY) - 103.7 HD3 - XHTKR-FM - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/672a6584ae352d9e9725f5f6/icecast.audio
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-milenio-radio-1090-am-monterrey-mexico.webp",MILENIO RADIO 1090 (MTY) - 1090 AM - XEAU-AM - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/672a64d1334617594f464d9d/icecast.audio
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/9a46fddb-921b-41a9-b09b-750dd8f9bc9e?ops=fit(960%2C960)%2Cresize(0%2C390)",MIX 101.7 (Morelia) - 101.7 FM - XHEMM-FM - Grupo ACIR - Morelia, Michoacán
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEMMAAC.aac
 
@@ -1241,6 +1277,9 @@ https://18233.live.streamtheworld.com:443/XHDFMFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/c6d5e262-600f-457d-b681-b8b4da6f40d1",MIX 580 (Cancún) - 580 AM - XEYI-AM - Grupo ACIR - Cancún, Quintana Roo
 https://14923.live.streamtheworld.com:443/XHYIFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bd34da7b81494900fc9e152",MIX 91.7 (Puebla) - 91.7 FM - XHRC-FM - Grupo ACIR - Puebla, Puebla
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e55c5f1f2e817641ab904b2",MIX 92.7 (Puerto Vallarta) - 92.7 FM - XHVAY-FM - Grupo ACIR - Puerto Vallarta, Jalisco
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHVAYFMAAC.aac
@@ -1371,9 +1410,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87719/images/logod.png",RADIO DISNEY 95.7 (Pachuca) - 95.7 FM - XHMY-FM - Grupo Siete - Pachuca, Hidalgo
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPCAFMAAC.aac
 
-#EXTINF:1 radio="true" tvg-logo="",Radio Dunkle Welle
-
-
 #EXTINF:1 radio="true" tvg-logo="https://top-radio.ru/assets/image/radio/180/radio-euro-disco.png",Radio Euro Disco
 https://broadcast.miami/proxy/eurodisco?mp=/stream/;
 
@@ -1451,6 +1487,9 @@ https://navairan.com/;stream.nsv
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-ranchito-99-7-fm-aguascalientes-mexico.webp",RADIO RANCHITO 99.7 (Calvillo) - 99.7 FM - XHPLVI-FM - Grupo ULTRA México - Calvillo, Aguascalientes
 https://streamingcwsradio30.com:7006/stream.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90693/images/logog.png",RADIO RECUERDO 860 (MTY) - 860 AM - XENL-AM - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/672a5df773078862801f389f/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s16515/images/logod.jpg",RADIO RED 1110 (CDMX) - 1110 AM - XERED-AM - Grupo Radio Centro - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
@@ -1574,6 +1613,9 @@ https://stream.technolovers.fm/vocal-trance
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s337003/images/logod.png",TITÁN 106.3 (Villahermosa) - 106.3 FM - XHRVI-FM - PUBLILUM (PubliLu Medios) - Villahermosa, Tabasco
 http://master.shoutcast.com:8000/titan-fm-106-3
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-tkr-1480-am-mexico.webp",TKR 1480 (MTY) - 1480 AM - XETKR-AM - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/672a61c2bef01359b6913aea/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s90559d.png",TOP MUSIC 91.7 (Querétaro) - 91.7 FM - XHKH-FM - Respuesta Radiofónica - Querétaro, Querétaro
 https://secure.radiorama.mx:2125/
@@ -2957,45 +2999,3 @@ https://bluford.torontocast.com/proxy/iimfoptl/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://tisvloms.eu/wp-content/uploads/2017/10/tis-vloms-logo-400.png",'t Is Vloms
 https://bluford.torontocast.com/proxy/iimfoptl/stream
-
-#EXTINF:1 radio="true" tvg-logo="","name": "'undefined' -> 'AFN 360 Benelux'",
-http://27793.live.streamtheworld.com:3690/AFNE_BLX_SC
-
-#EXTINF:1 radio="true" tvg-logo="http://www.wa2fnq.com/1290/gliban.jpg","The Mighty"1290 GLI
-https://streaming.live365.com/a33394
-
-#EXTINF:1 radio="true" tvg-logo="https://cache.wefunkradio.com/images-small/pxl-clr.gif",((( WEFUNK Radio ))) . raw uncut funk . classic & underground hip-hop . playlist & archive on wefunkradio.com
-https://www.wefunkradio.com/play/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="",(((EBM-Radio)))
-http://www.ebm-radio.org:7000/hq
-
-#EXTINF:1 radio="true" tvg-logo="https://beufm.kz/template/logo_white.png",((beu))
-https://stream.beufm.kz/beufm
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/81111.v7.png",((La Reina Putumayo 106.3 Fm))
-https://radio25.virtualtronics.com/proxy/reinaputumayo?mp=/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://www.radyodinle.one/img/205x205/igdir-fm.jpg",(93.0) IGDIR FM
-https://yayin.yayindakiler.com:4158/;
-
-#EXTINF:1 radio="true" tvg-logo="https://www.reyfm.de/_nuxt/icons/icon_64x64.88ab9f.png",(New!) REYFM - #nightlife
-https://listen.reyfm.de/nightlife_192kbps.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",(𝕎𝕏𝔻𝕁) 𝔼𝕃 ℕ𝕌𝔼𝕍𝕆 ℤ𝕆𝕃 𝟙𝟘𝟞.𝟟
-https://liveaudio.lamusica.com/MIA_WXDJ_icy
-
-#EXTINF:1 radio="true" tvg-logo="https://vinylstacks.uncool.club/favicon.png",[ vinyl stacks ]
-https://vinylstacks.uncool.club/vinyl-stacks.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://logodix.com/logos/1638541",[Infowars] [The War Room With Owen Shroyer] ACC+ [32] [https] [Streams1]
-https://streams1.infowars.com/stream/4/
-
-#EXTINF:1 radio="true" tvg-logo="https://logodix.com/logos/1638541",[Infowars] [The War Room With Owen Shroyer] ACC+ [32] [https] [Streams1]
-https://streams1.infowars.com/stream/4/
-
-#EXTINF:1 radio="true" tvg-logo="",[laut.fm] fallout
-http://stream.laut.fm/fallout
-
-#EXTINF:1 radio="true" tvg-logo="",[laut.fm] Freakquency
-https://freakquency.stream.laut.fm/freakquency?pl=pls&t302=2026-01-15_07-18-13&uuid=5162a938-aa72-4ea6-9bca-c737541068ff
