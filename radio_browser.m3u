@@ -630,6 +630,9 @@ https://live.zuperdns.net/1961/stream
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/373/el-lobo-1061-fm.4ae7015f.jpg",EL LOBO 106.1 (Chihuahua) - 106.1 FM - XHSU-FM - Sistema Radio Lobo - Chihuahua, Chihuahua
 https://streamingcwsradio30.com/8172/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-el-patron-104-9-fm-mexico.webp",EL PATRÓN 104.9 (Xalapa) - 104.9 FM - XHBD-FM - Oliva Radio - Xalapa, Veracruz
+http://ssc.cnwks.ws:8365/;
+
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/746/la-poderosa-983-fm.1b5f0b73.png",EL VIEJÓN 98.3 (San Pedro) - 98.3 FM - XHBF-FM - GPS Media - San Pedro, Coahuila
 https://stream.zeno.fm/pwezjsgefu9tv
 
@@ -996,6 +999,9 @@ https://cast4.my-control-panel.com/proxy/televiso/comadremid
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87815/images/logod.png",LA FIERA (Veracruz) - 94.1 FM - XHHV-FM - Grupo Pazos - Veracruz, Veracruz
 https://sg.centrocibernetico.com/lafiera
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62aa5469c3d9660566bd74d2",LA GRAN AW 1280 (MTY) - 1280 AM - XEAW-AM - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/672a54e1064f16625e497b86/icecast.audio
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s44068/images/logod.png",LA GRAN D 1050 (Mexicali) - 1050 AM - XED-AM - Radio Cadena Enciso - Mexicali, Baja California
 https://edge.mixlr.com/channel/lcezl
 
@@ -1034,6 +1040,9 @@ https://mdstrm.com/audio/67378a1158fddafa2d92caf9/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91474/images/logod.png",LA LUPE 95.3 (Chetumal) - 95.3 FM - XHROO-FM - Multimedios Radio / Grupo SIPSE Radio - Chetumal, Quintana Roo
 https://cast4.asurahosting.com/proxy/radiocan/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-magnifica-95-5-fm-puebla-mexico.webp",LA MAGNÍFICA 95.5 (Puebla) - 95.5 FM - XHZT-FM - Tribuna Comunicación - Puebla, Puebla
+https://stream.zeno.fm/zskjbd7n200tv
 
 #EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/de/53/de5362728a4c73f5b6fbaf2c807971e5.png",LA MÁS PICUDA 104.7 (Parral) - 104.7 FM - XHEHB-FM - Radiorama Parral - Hidalgo del Parral, Chihuahua
 https://stream-156.zeno.fm/p45k5uz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNDVrNXV6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZmh5QmlqUmVRX2FYQUVpb0Z0dEI1QSIsImlhdCI6MTc2ODQ0MjM4MywiZXhwIjoxNzY4NDQyNDQzfQ.-L0fU4Jz7xB-0QtNXvMOQpj_IiEVaGrwB5sEinNLwYU
@@ -1482,6 +1491,9 @@ https://stream.zeno.fm/9b3xff05dkhvv
 #EXTINF:1 radio="true" tvg-logo="https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png",Radio Mitre
 http://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC_SC
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2815/images/logod.jpg",RADIO MUJER 92.7 (GDL) - 92.7 FM - XHEAAA-FM - Grupo Promomedios Radio - Guadalajara, Jalisco
+https://strcdn.klm99.com/8118/stream/1/
+
 #EXTINF:1 radio="true" tvg-logo="https://www.navahang.com/apple-touch-icon.png",Radio Navahang
 https://navairan.com/;stream.nsv
 
@@ -1595,6 +1607,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/485/stereo-cien-1001-fm.640ab4a2.jpg",STEREO CIEN 1000 (CDMX) - 1000 AM - XEOY-AM - NRM Comunicaciones - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90986/images/logod.png",STEREO SALTILLO 93.5 (Saltillo) - 93.5 FM - XHQC-FM - Multimedios Radio - Saltillo, Coahuila
+https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s190003/images/logod.png",STEREOREY 100.9 (Aguascalientes) - 100.9 FM - XHCAA-FM - Radio Universal - Aguascalientes, Aguascalientes
 https://hls.gvstream.live/radiouniversal/life1009.stream/playlist.m3u8
@@ -1826,6 +1841,9 @@ https://sgaudio.centrocibernetico.com/yafmveracruz
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s143833/images/logog.jpg",YA! FM 95.7 (Villahermosa) - 95.7 FM - XHTAB-FM - Grupo Pazos - Villahermosa, Tabasco
 https://sg.centrocibernetico.com/yafmvillahermosa
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s151580/images/logod.jpg",YEAH FM 89.9 (La Piedad) - 89.9 FM - XHLP-FM - Guizar Comunicación Integral - La Piedad, Michoacán
+https://stream.zeno.fm/fc7ydby53hhvv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s27943/images/logod.png",Z 92 92.3 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida, EUA
 https://liveaudio.lamusica.com/MIA_WCMQ_icy
@@ -2981,21 +2999,3 @@ https://qurango.net/radio/almukhtasar_fi_alsiyra
 
 #EXTINF:1 radio="true" tvg-logo="",.مختصر السيرة
 https://qurango.net/radio/almukhtasar_fi_alsiyra
-
-#EXTINF:1 radio="true" tvg-logo="",' t Is Vloms Affligem, be
-http://bluford.torontocast.com:8093/stream
-
-#EXTINF:1 radio="true" tvg-logo="",' t Is Vloms Affligem, be
-http://bluford.torontocast.com:8093/stream
-
-#EXTINF:1 radio="true" tvg-logo="",' t Is Vloms Affligem, be
-http://bluford.torontocast.com:8093/stream
-
-#EXTINF:1 radio="true" tvg-logo="",' t Is Vloms Affligem, be
-http://bluford.torontocast.com:8093/stream
-
-#EXTINF:1 radio="true" tvg-logo="",' t Is Vloms Affligem, be
-https://bluford.torontocast.com/proxy/iimfoptl/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://tisvloms.eu/wp-content/uploads/2017/10/tis-vloms-logo-400.png",'t Is Vloms
-https://bluford.torontocast.com/proxy/iimfoptl/stream
