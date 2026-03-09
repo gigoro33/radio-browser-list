@@ -1086,6 +1086,9 @@ https://secure.radiorama.mx:2001/
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-poderosa-93-1-fm-veracruz-mexico.webp",LA PODEROSA 93.1 (Tuxpan) - 93.1 FM - XHCRA-FM - Radiorama Tuxpan - Tuxpan, Veracruz
 https://stream.zeno.fm/qwmf9kf0fkhvv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/YCPHqxFc/laprimera.png",LA PRIMERA 88.9 (Saltillo) - 88.9 FM - XHAJ-FM - Grupo Multimedia El Diario de Coahuila - Saltillo, Coahuila
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHAJFMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24529/images/logod.png",LA Q 940 (CDMX) - 940 AM - XEQ-AM - Radiópolis - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAMEAAC.aac
 
@@ -1238,6 +1241,9 @@ https://stream.zeno.fm/eyh5yzn3f78uv
 
 #EXTINF:1 radio="true" tvg-logo="",MARSANARYAS
 https://www.marsanaryas.com/radio/live/
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s282298/images/logod.jpg",MAS FM 99.3 (San Luis Potosí) - 99.3 FM - XHTL-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://masfm.b-cdn.net/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://maslatina.com.mx/wp-content/uploads/2020/12/logo_MasLatina.png",MÁS LATINA 96.5 (Veracruz) - 96.5 FM - XHRN-FM - RN Radio Networks - Veracruz, Veracruz
 https://cast3.my-control-panel.com/proxy/maslatina/stream
@@ -1608,6 +1614,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/485/stereo-cien-1001-fm.640ab4a2.jpg",STEREO CIEN 1000 (CDMX) - 1000 AM - XEOY-AM - NRM Comunicaciones - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k4ntM98G/stereofresnillo.jpg",STEREO FRESNILLO 91.1 (Fresnillo) - 91.1 FM - XHRRA-FM - Grupo Radiofónico ZER - Fresnillo, Zacatecas
+https://cast.zuperdns.net/8018/stream/
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90986/images/logod.png",STEREO SALTILLO 93.5 (Saltillo) - 93.5 FM - XHQC-FM - Multimedios Radio - Saltillo, Coahuila
 https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio
 
@@ -1683,6 +1692,9 @@ https://cast3.asurahosting.com/proxy/gabriel/stream
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fUUCyJC8RU.png",Vox FM Honduras - Tegucigalpa 101.7 FM - San Pedro Sula 106.1 FM
 https://ice42.securenetsystems.net/VOXFM
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sgFMnDtk/vox1001fm.png",VOX FM Radio Hits 100.1 (Cuernavaca) - 100.1 FM - XHTIX-FM - Cuernavaca, Morelos
+https://stream9.mexiserver.com:8342/steam
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90135/images/logod.png",VOX FM Radio Hits 89.3 (Tampico) - 89.3 FM - XHTOT-FM - Grupo Radio Cañón - Tampico, Tamaulipas
 https://streaming.servicioswebmx.com/8280/stream
 
@@ -1725,11 +1737,20 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_GDLAAC.
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/ZRXNqXVN/w-toluca.png",W RADIO 102.9 (Toluca) - 102.9 FM - XHTOL-FM - Grupo Radio Cañón - Toluca, Estado de México
 https://streaming.servicioswebmx.com/8268/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/g0gMmRKS/wradio1020.jpg",W RADIO 1020 (Cañitas de Felipe Pescador) - 1020 AM - XECCCG-AM - Grupo Radio Cañon - Cañitas de Felipe Pescador, Zacatecas
+https://streaming.servicioswebmx.com/8300/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/w-radio-1030-am-guanajuato-mexico.webp",W RADIO 1030 (León) - 1030 AM - XEROPJ-AM - GlobalMedia - Lagos de Moreno, Jalisco
 https://playradio.mx/proxy/wleon?mp=/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4xyp6t5x/wradio1043.jpg",W RADIO 104.3 (Mazatlán) - 104.3 FM - XHENX-FM - Grupo Radio Cañón - Mazatlán, Sinaloa
+https://streaming.servicioswebmx.com/8278/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s185059/images/logod.png",W RADIO 104.5 (Córdoba) - 104.5 FM - XHEVC-FM - Grupo Radio Cañón - Córdoba, Veracruz
 https://streaming.servicioswebmx.com/8262/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/QxHFjnLk/wradio1049.png",W RADIO 104.9 (Zacatecas y Guadalupe) - 104.9 FM - XHCCFL-FM - Grupo Radio Cañón - Zacatecas, Zacatecas
+https://streaming.servicioswebmx.com/8300/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91618/images/logod.png",W RADIO 105.1 (Chilpancingo) - 105.1 FM - XHEZUM-FM - Grupo Radio Cañón - Chilpancingo, Guerrero
 https://streamingcwsradio30.com/8122/stream
@@ -1745,6 +1766,9 @@ http://playradio.mx/proxy/wqueretaro?mp=/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/611/w-radio-885-fm.7743dece.png",W RADIO 740 (Villahermosa) - 740 AM - XEKV-AM - Grupo Radio Cañón - Villahermosa, Tabasco
 https://streamingcwsradio30.com/8274/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/w-radio-770-am-zacatecas-mexico.webp",W RADIO 770 (Zacatecas) - 770 AM - XEFRTM-AM - GlobalMedia - Zacatecas, Zacatecas
+http://playradio.mx/proxy/wzacatecas?mp=/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/611/w-radio-885-fm.7743dece.png",W RADIO 88.5 (Villahermosa) - 88.5 FM - XHKV-FM - Grupo Radio Cañon - Villahermosa, Tabasco
 https://streamingcwsradio30.com/8274/stream
@@ -1823,6 +1847,9 @@ http://live.str3am.com:2240/live
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/7dcdd442-e119-4245-8877-09872e290fcc",XEH 1420, Antología Vallenata (MTY) - 1420 AM - XEH-AM - Grupo Radio Centro - Monterrey, Nuevo León
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEH_AMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88432/images/logod.png",XEHK 960 (GDL) - 960 AM - XEHK-AM - Radiorama de Occidente - Guadalajara, Jalisco
+https://stream.zeno.fm/cp9zxxm2mg8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87588/images/logog.jpg",XEU 98.1 (Veracruz) - 98.1 FM - XHU-FM - Grupo Pazos Radio - Veracruz, Veracruz
 http://sgaudio.centrocibernetico.com/xeu
@@ -2972,30 +2999,3 @@ https://qurango.net/radio/mohammed_ayyub
 
 #EXTINF:1 radio="true" tvg-logo="",.القرآن
 https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",.القرآن
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",.القرآن الكريم
-https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A
-
-#EXTINF:1 radio="true" tvg-logo="",.شهر رمضان
-https://qurango.net/radio/ramadan
-
-#EXTINF:1 radio="true" tvg-logo="",.صور من حياة الصحابة
-https://qurango.net/radio/sahabah
-
-#EXTINF:1 radio="true" tvg-logo="",.صور من حياة الصحابة
-https://qurango.net/radio/sahabah
-
-#EXTINF:1 radio="true" tvg-logo="",.صور من حياة الصحابة
-https://qurango.net/radio/sahabah
-
-#EXTINF:1 radio="true" tvg-logo="",.ماهر المعيقلي
-https://backup.qurango.net/radio/maher
-
-#EXTINF:1 radio="true" tvg-logo="",.مختصر السيرة
-https://qurango.net/radio/almukhtasar_fi_alsiyra
-
-#EXTINF:1 radio="true" tvg-logo="",.مختصر السيرة
-https://qurango.net/radio/almukhtasar_fi_alsiyra
