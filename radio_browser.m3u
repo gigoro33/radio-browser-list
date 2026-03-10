@@ -573,6 +573,9 @@ https://stm11.xcast.com.br:9640/;
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90059/images/logod.png",CRYSTAL 1240 (Ciudad Juárez) - 1240 AM - XEWG-AM - Grupo Siete - Ciudad Juárez, Chihuahua
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEWGAMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6286d9dd4820546084492257",D99 98.9 (MTY) - 98.9 FM - XHJD-FM - Multimedios Radio - Monterrey, Nuevo León
+https://mdstrm.com/audio/662800a9c30cbb3e2e61f44b/icecast.audio
+
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/XHPAL_Digimix95_logo.jpg",DIGIMIX 95 95.9 (La Paz) - 95.9 FM - XHPAL-FM - Promomedios California - La Paz, Baja California
 https://stream.zeno.fm/pgs4nreif6yvv
 
@@ -798,6 +801,9 @@ https://secure.radiorama.mx:2184/
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/108/fiesta-mexicana-909-fm.7a88d4cb.jpg",FIESTA MEXICANA (Autlán) - 90.9 FM - XHANV-FM - Promosat de México - Autlán, Jalisco
 https://stream.zeno.fm/2r1xxtznq68uv
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2996/images/logod.jpg",FIESTA MEXICANA 92.3 (GDL) - 92.3 FM - XHBIO-FM  - Grupo Promomedios - Guadalajara, Jalisco
+https://stream.promomedios.com:8002/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2996/images/logod.jpg",FIESTA MEXICANA 92.3 (GDL) - 92.3 FM - XHBIO-FM - Grupo Promomedios - Guadalajara, Jalisco
 https://strcdn.klm99.com:8130/stream/
 
@@ -851,6 +857,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHPFFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/XHAG_LOGO_NOV_2024.png",Globo 102.1 (Córdoba) - 102.1 FM - XHAG-FM - Radio Comunicaciones de las Altas Montañas - Córdoba, Veracruz
 http://hd.digitalradio.mx:5906/;stream
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s341257/images/logod.jpg",GLOBO 102.1 (Córdoba) - 102.1 FM - XHAG-FM - Radio Comunicaciones de las Altas Montañas - Córdoba, Veracruz
+https://streaming.sistemasmvsradio.com/proxy/afixhag/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/P5nQmFqw/Globo-102-7.png",Globo 102.7 (Poza Rica) - 102.7 FM - XHPR-FM - MVS Poza Rica (Estudio 101.9) - Poza Rica, Veracruz
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPRFMAAC.aac
@@ -1052,6 +1061,9 @@ https://stream.zeno.fm/mxi4pryyw4pvv
 
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/XHHS_LaMejor90.9-540_logo.png",LA MEJOR 540 (Los Mochis) - 540 AM - XEHS-AM - Grupo RSN - Los Mochis, Sinaloa
 https://a6.asurahosting.com:7920/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-mejor-zacatecas-107-9-fm-mexico.webp",LA MEJOR FM 107.9 (Fresnillo) - 107.9 FM - XHEMA-FM - Grupo Radiofónico B15 - Fresnillo, Zacatecas
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEMAAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24607/images/logod.png",LA MEJOR FM 90.7 (Tijuana) - 90.7 FM - XHTIM-FM - MVS Radio - Tijuana, Baja California
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIMAAC.aac
@@ -1499,6 +1511,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC_SC
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2815/images/logod.jpg",RADIO MUJER 92.7 (GDL) - 92.7 FM - XHEAAA-FM - Grupo Promomedios Radio - Guadalajara, Jalisco
 https://strcdn.klm99.com/8118/stream/1/
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6245d46c4d5d887d2360b449",RADIO MUNDO 89.3 (Mérida) - 89.3 FM - XHMIA-FM - Mérida, Yucatán
+https://cento02.mipanelradio.com/proxy/radiomu5?mp=/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://www.navahang.com/apple-touch-icon.png",Radio Navahang
 https://navairan.com/;stream.nsv
@@ -2984,18 +2999,3 @@ https://backup.qurango.net/radio/maher
 
 #EXTINF:1 radio="true" tvg-logo="",.إذاعة ماهر المعيقلي
 https://backup.qurango.net/radio/maher
-
-#EXTINF:1 radio="true" tvg-logo="",.إذاعة ماهر المعيقلي
-https://backup.qurango.net/radio/maher
-
-#EXTINF:1 radio="true" tvg-logo="",.القارئ محمد أيوب
-https://qurango.net/radio/mohammed_ayyub
-
-#EXTINF:1 radio="true" tvg-logo="",.القارئ محمد أيوب
-https://qurango.net/radio/mohammed_ayyub
-
-#EXTINF:1 radio="true" tvg-logo="",.القارئ محمد أيوب
-https://qurango.net/radio/mohammed_ayyub
-
-#EXTINF:1 radio="true" tvg-logo="",.القرآن
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
