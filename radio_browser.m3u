@@ -489,6 +489,9 @@ https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Cxy1B0J8/xhctn.jpg",BRISAS DE MONTEBELLO 89.9 (La Trinitaria) - 89.9 FM - XHCTN-FM - Sistema Chiapaneco de Radio, Televisión y Cinematografía - La Trinitaria, Chiapas
 http://streamingcwsradio10.com:9350/;
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s350025/images/logod.png",BUENAVISTA RADIO 102.9 (Ciudad Valles) - 102.9 FM - XHCSBY-FM - Medios Digitales Culturales de la Huasteca, A.C. - Ciudad Valles, San Luis Potosí
+https://cast1.asurahosting.com/proxy/bnavista/;
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-buenisiima-103-9-fm-acapulco-mexico.webp",BUENISIIMA 103.9 (Acapulco) - 103.9 FM - XHPO-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
 https://ss1.audiorama.com.mx:6606/stream
 
@@ -798,6 +801,9 @@ https://factor.b-cdn.net/stream
 #EXTINF:1 radio="true" tvg-logo="https://kuasark.com/files/stations-logos/fantasia-radio.png",FANTASÍA W RADIO 89.1 - 89.1 FM - XHZTM-FM - Zitácuaro, Michoacán
 https://streamingcwsradio30.com/8216/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/XYbcpSqT/fiesta.jpg",FIESTA 94.5 (Delicias) - 94.5 FM - XHCDS-FM - Delicias, Chihuahua
+https://strcdn.klm99.com/8132/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s142100/images/logod.png",FIESTA 94.9 (Veracruz) - 94.9 FM - XHFM-FM - Grupo AvanRadio Radiorama - Veracruz, Veracruz
 https://secure.radiorama.mx:2184/
 
@@ -1032,6 +1038,9 @@ https://cast.zuperdns.net/8024/stream/
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87744/images/logod.png",LA KALIENTE 90.7 (Hermosillo) - 90.7 FM - XHHLL-FM - Grupo Imagen - Hermosillo, Sonora
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHHLLAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="",La Ke Te Prende 107.1 FM
+
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/J4ytxwrG/la-kebuena-cadereyta.jpg",LA KEBUENA 92.3 (Cadereyta) - 92.3 FM - XHPCMQ-FM - Grupo Edikam - Cadereyta, Querétaro
 https://laradiossl.online:10567/;
 
@@ -1094,6 +1103,9 @@ https://streamingcwsradio30.com/8132/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s331224/images/logod.png",LA PATRONA 94.5 (Santiago) - 94.5 FM - XHSI-FM - Alica Medios - Santiago Ixcuintla, Nayarit
 https://tv.radiohosting.online:8140/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/964/la-perrona.fa0fb94c.png",LA PERRONA 92.5 (Irapuato) - 92.5 FM - XHSAG-FM - Grupo El Salmantino - Irapuato, Guanajuato
+https://streaming.shoutcast.com/laperrona
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s90779g.png",LA PODEROSA 107.7 (Aguascalientes) - 107.7 FM - XHYZ-FM - Radiogrupo - Aguascalientes, Aguascalientes
 https://secure.radiorama.mx:2001/
@@ -2987,15 +2999,3 @@ https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6
 
 #EXTINF:1 radio="true" tvg-logo="",.Quran radio
 https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A
-
-#EXTINF:1 radio="true" tvg-logo="https://i.imgur.com/NRikHzn.png",.restradio
-https://stream.restradio.online/live
-
-#EXTINF:1 radio="true" tvg-logo="",.إذاعة القرآن الكريم
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-
-#EXTINF:1 radio="true" tvg-logo="",.إذاعة ماهر المعيقلي
-https://backup.qurango.net/radio/maher
-
-#EXTINF:1 radio="true" tvg-logo="",.إذاعة ماهر المعيقلي
-https://backup.qurango.net/radio/maher
