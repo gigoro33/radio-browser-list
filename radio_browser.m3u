@@ -315,6 +315,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ABC_NOTICIAS_6
 #EXTINF:1 radio="true" tvg-logo="https://grupoabcmedia.com/wp-content/uploads/2025/01/noticias.png",ABC NOTICIAS 1310 (MTY) - 1310 AM - XEVB-AM - Grupo Radio Alegría - Monterrey, Nuevo León
 https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91373/images/logod.jpg",ACUSTIK RADIO 1150 (CDMX) - 1150 AM - XEJP-AM - Grupo Acustik - Ciudad de México
+https://server2.sit-mexico.com:2199/proxy/acustik?mp=/stream&1769272990469
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/adictivo-radio-90-3-fm-coahuila-mexico.webp",ADICTIVO RADIO 90.3 (Torreón) - 90.3 FM - XHBP-FM - GPS Media - Torreón, Coahuila
 http://s22.myradiostream.com:9504/
 
@@ -426,6 +429,9 @@ https://stream.zeno.fm/179rk7f9d78uv
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-arroba-fm-99-7-fm-durango-mexico.webp",ARROBA FM 99.7 (Durango) - 99.7 FM - XHOH-FM - Radiorama Durango - Durango, Durango
 https://stream.zeno.fm/pp1aypg9d78uv
 
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-arya-88-5-fm-merida-mexico.webp",ARYA 88.5 (Mérida) - 88.5 FM - XHRRF-FM - Península Studios - Mérida, Yucatán
+
+
 #EXTINF:1 radio="true" tvg-logo="",ASPOR
 http://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 
@@ -530,6 +536,9 @@ http://sp3.servidorrprivado.com:3334/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s333271/images/logod.jpg",CAPITAL ANTHEMS UK: The Songs Capital Made Famous - Londres, Inglaterra
 https://media-ssl.musicradio.com/CapitalAnthemsMP3
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logod.jpg",CAPITAL DANCE: The UK's Official Dance Station - Londres, Inglaterra
+https://media-ssl.musicradio.com/CapitalDance
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logod.jpg",CAPITAL UK: The UK's No.1 Hit Music Station - Londres, Inglaterra
 http://ice-the.musicradio.com/Capital
@@ -708,6 +717,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCBB.mp3
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fLh4vmCg/Exa-FM-Acambaro.jpg",EXA FM 90.5 (Acámbaro) - 90.5 FM - XHVW-FM - Organización Radiofónica de Acámbaro - Acámbaro, Guanajuato
 https://radios.radiohd.com.mx:7140/;
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90288/images/logod.png",EXA FM 91.9 (Ciudad Mante) - 91.9 FM - XHRLM-FM - ORT Radio - Ciudad Mante, Tamaulipas
+https://cast1.my-control-panel.com/proxy/examante/stream/;stream.mp3
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90984/images/logod.png?t=637460020780000000",EXA FM 93.3 (Veracruz) - 93.3 FM - XHPS-FM - MVS Radio - Veracruz, Veracruz
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
 
@@ -731,6 +743,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMPMAAC.AAC
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s8104/images/logod.png",EXA FM 99.3 (Acapulco) - 99.3 FM - XHNQ-FM - MVS Radio - Acapulco, Guerrero
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHNQAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91296/images/logod.png",EXA FM 99.3 (Ciudad Obregón) - 99.3 FM - XHOX-FM - Radio Grupo García de León - Ciudad Obregón, Sonora
+https://streamingcwsradio30.com:7056/
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/787/exa-fm-913.ef80cc58.jpg",EXA FM 99.7 (Ciudad del Carmen) - 99.7 FM / 1070 AM - XHIT-FM / XEIT-AM - Radiorama - Ciudad del Carmen, Campeche
 https://ss1.audiorama.com.mx:6674/stream
@@ -1014,6 +1029,9 @@ https://14623.live.streamtheworld.com:443/XHCLIFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6449a081208140d9b995fce4",LA COMADRE 98.5 (Mérida) - 98.5 FM - XHMT-FM - Grupo SIPSE Radio - Mérida, Yucatán
 https://cast4.my-control-panel.com/proxy/televiso/comadremid
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sx6zxk5G/lacoyotera.jpg",LA COYOTERA 102.3 (GDL) - 102.3 FM - XHSCDQ-FM - Comunica-Acción y Cultura del Occidente de México, A.C. - Guadalajara, Jalisco
+https://streaming.servicioswebmx.com:7058/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87815/images/logod.png",LA FIERA (Veracruz) - 94.1 FM - XHHV-FM - Grupo Pazos - Veracruz, Veracruz
 https://sg.centrocibernetico.com/lafiera
 
@@ -1037,9 +1055,6 @@ https://cast.zuperdns.net/8024/stream/
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87744/images/logod.png",LA KALIENTE 90.7 (Hermosillo) - 90.7 FM - XHHLL-FM - Grupo Imagen - Hermosillo, Sonora
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHHLLAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="",La Ke Te Prende 107.1 FM
-
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/J4ytxwrG/la-kebuena-cadereyta.jpg",LA KEBUENA 92.3 (Cadereyta) - 92.3 FM - XHPCMQ-FM - Grupo Edikam - Cadereyta, Querétaro
 https://laradiossl.online:10567/;
@@ -1272,6 +1287,9 @@ https://www.marsanaryas.com/radio/live/
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s282298/images/logod.jpg",MAS FM 99.3 (San Luis Potosí) - 99.3 FM - XHTL-FM - MG Radio - San Luis Potosí, San Luis Potosí
 https://masfm.b-cdn.net/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/435/mas-latina-965.10a769e9.jpg",MAS LATINA 96.5 (Veracruz) - 96.5 FM - XHRN-FM - RN Radio Networks - Veracruz, Veracruz
+https://cast3.my-control-panel.com/proxy/maslatina/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://maslatina.com.mx/wp-content/uploads/2020/12/logo_MasLatina.png",MÁS LATINA 96.5 (Veracruz) - 96.5 FM - XHRN-FM - RN Radio Networks - Veracruz, Veracruz
 https://cast3.my-control-panel.com/proxy/maslatina/stream
 
@@ -1349,6 +1367,9 @@ https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s18771/images/logod.jpg",ONDAS DE VIDA 1440 (CDMX) - 1440 AM - XEEST-AM - Grupo Siete - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-opus-94-94-5-fm-mexico.webp",OPUS 94 94.5 (CDMX) - 94.5 FM - XHIMER-FM - IMER - Ciudad de México
+
 
 #EXTINF:1 radio="true" tvg-logo="https://radio-en-vivo-mx.com/storage/radios/14663/20749/conversions/orbita-digital-106-1-lg.webp",ORBITA DIGITAL 106.1 (Juchitán) - 106.1 FM - XHGCY-FM - Guna Caa Yuni Xhiña, A.C. - Juchitán, Oaxaca
 https://sp3.servidorrprivado.com:10854/stream/1/
@@ -1514,6 +1535,9 @@ https://stm16.xcast.com.br:9928/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s44443/images/logod.png",RADIO LATINA 104.5 (Tijuana) - 104.5 FM - XHLTN-FM - Grupo Imagen - Tijuana, Baja California
 https://mdstrm.com/audio/698f8c71e9899b0d0ceab9c0/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/636aa36d3aa70c4aee5d5106",RADIO LOBO 88.3 (San José Iturbide) - 88.3 FM - XHSJI-FM - Grupo Radar - San José Iturbide, Guanajuato
+https://radios.radiohd.com.mx/8270/;
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-metropoli-1150-am-mexico.webp",RADIO METRÓPOLI 1150 (GDL) - 1150 AM - XEAD-AM - Grupo Unidifusión - Guadalajara, Jalisco
 https://s2.yesstreaming.net:9088/stream
@@ -2975,27 +2999,3 @@ https://backup.qurango.net/radio/ahmad_khader_altarabulsi
 
 #EXTINF:1 radio="true" tvg-logo="",.Quran
 https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",.Quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",.Quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",.quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",.Quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",.Quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",.Quran radio
-https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A
-
-#EXTINF:1 radio="true" tvg-logo="",.Quran Radio
-https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A
-
-#EXTINF:1 radio="true" tvg-logo="",.Quran radio
-https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A
