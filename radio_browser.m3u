@@ -429,9 +429,6 @@ https://stream.zeno.fm/179rk7f9d78uv
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-arroba-fm-99-7-fm-durango-mexico.webp",ARROBA FM 99.7 (Durango) - 99.7 FM - XHOH-FM - Radiorama Durango - Durango, Durango
 https://stream.zeno.fm/pp1aypg9d78uv
 
-#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-arya-88-5-fm-merida-mexico.webp",ARYA 88.5 (Mérida) - 88.5 FM - XHRRF-FM - Península Studios - Mérida, Yucatán
-
-
 #EXTINF:1 radio="true" tvg-logo="",ASPOR
 http://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 
@@ -1368,9 +1365,6 @@ https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s18771/images/logod.jpg",ONDAS DE VIDA 1440 (CDMX) - 1440 AM - XEEST-AM - Grupo Siete - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac
 
-#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-opus-94-94-5-fm-mexico.webp",OPUS 94 94.5 (CDMX) - 94.5 FM - XHIMER-FM - IMER - Ciudad de México
-
-
 #EXTINF:1 radio="true" tvg-logo="https://radio-en-vivo-mx.com/storage/radios/14663/20749/conversions/orbita-digital-106-1-lg.webp",ORBITA DIGITAL 106.1 (Juchitán) - 106.1 FM - XHGCY-FM - Guna Caa Yuni Xhiña, A.C. - Juchitán, Oaxaca
 https://sp3.servidorrprivado.com:10854/stream/1/
 
@@ -1592,6 +1586,9 @@ https://stream.zeno.fm/cu717gz92hhvv
 
 #EXTINF:1 radio="true" tvg-logo="https://zenoimages.s3.us-west-001.backbl azeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICIlKu_yQoMCxIOU3RhdGlvblByb2ZpbGUYgICI1v3YtggMogEEemVubw/cards/77a4d7ff-318a-4efc-af4e-23455f3fe52f",RADIO UNIVERSIDAD DE GUADALAJARA 105.5 (Ameca) - 105.5 FM - XHUGA-FM - Universidad de Guadalajara - Ameca, Jalisco
 https://stream.zeno.fm/cu717gz92hhvv
+
+#EXTINF:1 radio="true" tvg-logo="https://universidadefm.com.br/favicon.ico",Rádio Universidade 105.1 FM
+
 
 #EXTINF:1 radio="true" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_173306308.jpg?alt=media&token=a87d4cff-689b-461f-b2ce-33169f60754e",RADIO WIELKOPOLSKA
 http://217.182.76.63:8000/webstream
@@ -2993,6 +2990,9 @@ https://qurango.net/radio/salma
 
 #EXTINF:1 radio="true" tvg-logo="",.mohammed ayyub
 https://qurango.net/radio/mohammed_ayyub
+
+#EXTINF:1 radio="true" tvg-logo="",.Quran
+https://backup.qurango.net/radio/ahmad_khader_altarabulsi
 
 #EXTINF:1 radio="true" tvg-logo="",.Quran
 https://backup.qurango.net/radio/ahmad_khader_altarabulsi
