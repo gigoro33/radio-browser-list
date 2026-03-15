@@ -636,6 +636,9 @@ https://stream.radiojar.com/0pqyt47etbkvv
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f2b2f358a19fc0df00598cd",EL HERALDO RADIO 98.5 (CDMX) - 98.5 FM - XHDL-FM - Heraldo Media Group - Ciudad de México
 http://stream.radiojar.com/g33sp4yqd6quv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/VNPby6Bp/heraldoradiohd2.png",EL HERALDO RADIO HD2 98.5 (CDMX) - 98.5 HD2 - XHDL-FM - Heraldo Media Group - Ciudad de México
+https://stream.radiojar.com/4bgpz3xpwhcwv
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s327478/images/logod.png",EL KUINO 96.1 (La Piedad) - 96.1 FM - XHPLPM-FM - Grupo Radiofónico ZER - La Piedad, Michoacán
 https://live.zuperdns.net/1961/stream
 
@@ -963,6 +966,9 @@ https://stream.revma.ihrhls.com/zc4276
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s321341/images/logod.png",KISS DANCE UK: The biggest dance anthems 24/7 - Londres, Inglaterra
 https://stream-kiss.hellorayo.co.uk/kissdance.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s321341/images/logod.png",KISS DANCE: The Biggest Dance Anthems 24/7
+https://stream-kiss.hellorayo.co.uk/kissdance.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
+
 #EXTINF:1 radio="true" tvg-logo="https://sipseplay.com/favicon.ico",Kiss FM (Chetumal) - 95.3 FM - XHROO-FM - Grupo SIPSE Radio - Chetumal, Quintana Roo
 https://cast4.asurahosting.com/proxy/radiocan/stream
 
@@ -974,6 +980,15 @@ https://cast4.my-control-panel.com/proxy/televis4/kiss977
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s6004/images/logod.jpg",KISS UK: The Biggest Dance and R&B - Londres, Inglaterra
 https://live-kiss.sharp-stream.com/kiss100.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logod.png",KISSTORY UK: Non-Stop Old Skool & Anthems
+https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logod.png",KISSTORY: Non-Stop Old Skool & Anthems
+
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logod.png",KISSTORY: Non-Stop Old Skool & Anthems
+https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s344078/images/logod.png",KY 104.5 (MTY) - 104.5 FM - XHMF-FM - Grupo Audiorama Comunicaciones - Monterrey, Nuevo León
 https://cdn1.onstream.audio/proxy/xhmf/stream
@@ -1320,6 +1335,9 @@ https://liveaudio.lamusica.com/LA_KXOL_icy
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/mexiquense-radio-1600-am-estado-de-mexico-mexico.webp",MEXIQUENSE RADIO 1600 (Metepec) - 1600 AM - XEGEM-AM - Sistema Mexiquense de Medios Públicos - Metepec, Estado de México
 https://streamingcwsradio30.com:7046/
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/YCyWnx0R/mezklafm.png",MEZKLA FM 104.7 (San Andrés Tuxtla) - 104.7 FM - XHPTLA-FM - Grupo Mezkla - San Andrés Tuxtla, Veracruz
+http://198.7.59.28:2199/stream.php?port=8104
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/milenio-radio-103-7-fm-monterrey-mexico.webp",MILENIO RADIO 103.7 (MTY) - 103.7 HD3 - XHTKR-FM - Multimedios Radio - Monterrey, Nuevo León
 https://mdstrm.com/audio/672a6584ae352d9e9725f5f6/icecast.audio
 
@@ -1409,6 +1427,9 @@ https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sXQ6qLmR/Radio-Activa.jpg",Radio Activa 89.7 (Hermosillo) - 89.7 FM - XHEDL-FM - Grupo RADIO SA - Hermosillo, Sonora
 https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="",Rádio Alece 96.7
+
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-altiplano-96-5-fm-tlaxcala-mexico.webp",RADIO ALTIPLANO 96.5 (Tlaxcala) - 96.5 FM - XHTLAX-FM - CORACYT - Tlaxcala, Tlaxcala
 https://radio11.mega00.com/8018/stream
@@ -1588,7 +1609,7 @@ https://stream.zeno.fm/cu717gz92hhvv
 https://stream.zeno.fm/cu717gz92hhvv
 
 #EXTINF:1 radio="true" tvg-logo="https://universidadefm.com.br/favicon.ico",Rádio Universidade 105.1 FM
-
+https://stm20.srvstm.com:7264/;?type=https&nocache=1
 
 #EXTINF:1 radio="true" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_173306308.jpg?alt=media&token=a87d4cff-689b-461f-b2ce-33169f60754e",RADIO WIELKOPOLSKA
 http://217.182.76.63:8000/webstream
@@ -1664,6 +1685,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/485/stereo-cien-1001-fm.640ab4a2.jpg",STEREO CIEN 1000 (CDMX) - 1000 AM - XEOY-AM - NRM Comunicaciones - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/624f52a70315729495f3b4fe",STEREO CRISTAL 101.1 (Querétaro) - 101.1 FM - XHJHS-FM - Grupo Radar - Querétaro, Querétaro
+https://radios.radiohd.com.mx:8274/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65c430f7e0d5b6bdb0583cf5",STEREO CRISTAL 96.7 (Celaya) - 96.7 FM - XHY-FM - Grupo Radar - Celaya, Guanajuato
+https://radios.radiohd.com.mx:8264/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k4ntM98G/stereofresnillo.jpg",STEREO FRESNILLO 91.1 (Fresnillo) - 91.1 FM - XHRRA-FM - Grupo Radiofónico ZER - Fresnillo, Zacatecas
 https://cast.zuperdns.net/8018/stream/
@@ -2742,6 +2769,9 @@ https://cast1.my-control-panel.com/proxy/eventas/stream
 #EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/jbJkcvt/BREAKZ-FM-LOGO.png",!DEEJAY MIXES!
 https://breakz-high.rautemusik.fm/?ref=radiobrowser-deejay
 
+#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/tM4fpmfC/favicon-6.jpg",!MODA
+https://server5.mediasector.es:8180/moda.mp3
+
 #EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/jbJkcvt/BREAKZ-FM-LOGO.png",!REMIX! MASHUP RADIO
 https://breakz-high.rautemusik.fm/?ref=radiobrowser27
 
@@ -2969,33 +2999,3 @@ http://27273.live.streamtheworld.com/977_OLDIES_SC
 
 #EXTINF:1 radio="true" tvg-logo="",.977 Smooth Jazz
 http://14543.live.streamtheworld.com/977_SMOOJAZZ_SC
-
-#EXTINF:1 radio="true" tvg-logo="",.977 The Mix
-http://26343.live.streamtheworld.com:3690/977_MIX_SC
-
-#EXTINF:1 radio="true" tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",.Al quran radio
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-
-#EXTINF:1 radio="true" tvg-logo="",.al quran radio
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-
-#EXTINF:1 radio="true" tvg-logo="",.assalam
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",.Beautiful recitation
-https://qurango.net/radio/salma
-
-#EXTINF:1 radio="true" tvg-logo="",.beautiful recitation
-https://qurango.net/radio/salma
-
-#EXTINF:1 radio="true" tvg-logo="",.mohammed ayyub
-https://qurango.net/radio/mohammed_ayyub
-
-#EXTINF:1 radio="true" tvg-logo="",.Quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",.Quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",.Quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
