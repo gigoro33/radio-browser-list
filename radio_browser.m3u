@@ -750,8 +750,14 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHNQAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91296/images/logod.png",EXA FM 99.3 (Ciudad Obregón) - 99.3 FM - XHOX-FM - Radio Grupo García de León - Ciudad Obregón, Sonora
 https://streamingcwsradio30.com:7056/
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91784/images/logod.png",EXA FM 99.3 (Mérida) - 99.3 FM - XHMRA-FM - MVS Radio - Mérida, Yucatán
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMRAAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/787/exa-fm-913.ef80cc58.jpg",EXA FM 99.7 (Ciudad del Carmen) - 99.7 FM / 1070 AM - XHIT-FM / XEIT-AM - Radiorama - Ciudad del Carmen, Campeche
 https://ss1.audiorama.com.mx:6674/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-exa-fm-99-7-fm-colima-mexico.webp",EXA FM 99.7 (Colima) - 99.7 FM - XHCOC-FM - JA Radio - Colima, Colima
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCOCFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2",EXA FM Honduras: Tegucigalpa 100.5 FM / San Pedro Sula 89.3 FM / Choluteca 95.9 FM / Litoral 93.9 FM
 https://stream.zeno.fm/0n4tnx3wd5zuv
@@ -1205,6 +1211,12 @@ https://enlinea-r1.rancherita.com.mx/listen/rancherita_del_aire/radio.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88334/images/logod.png",LA RAZA 105.1 (Hermosillo) - 105.1 FM - XHMMO-FM - Grupo RADIOSA - Hermosillo, Sonora
 https://stream.zeno.fm/wy9eauldjwavv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jqn1hWBn/lasabrosita925.jpg",LA SABROSITA 92.5 (Ciudad Victoria) - 92.5 FM - XHCCCN-FM - Grupo Radio Alegría - Ciudad Victoria, Tamaulipas
+https://pedro.spressweb.com:8000/radio.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-sabrosita-95-7-fm-mexico.webp",LA SABROSITA 95.7 (MTY) - 95.7 FM - XHRK-FM - Grupo Radio Alegría - Monterrey, Nuevo León
+https://playerservices.streamtheworld.com/api/livestream-redirect/LASABROSITA_957FMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-sanmarquena-100-1-fm-aguascalientes-mexico.webp",LA SANMARQUEÑA 100.1 (Aguascalientes) - 100.1 FM - XHARZ-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
 https://cast.zuperdns.net/8028/stream/
@@ -2987,15 +2999,3 @@ http://54.154.49.88:8000/HipHop/HypeFM
 
 #EXTINF:1 radio="true" tvg-logo="",..:: KIDS HIT - ДЕТСКИЙ ХИТ - РЕЗЕРВ ::..
 https://deti.amgradio.ru/Deti
-
-#EXTINF:1 radio="true" tvg-logo="",..87,5!. Nantes
-https://listen.radioking.com/radio/15130/stream/28217
-
-#EXTINF:1 radio="true" tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",..al quran radio
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-
-#EXTINF:1 radio="true" tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",..al quran radio
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-
-#EXTINF:1 radio="true" tvg-logo="",..mohammed_ayyub
-https://qurango.net/radio/mohammed_ayyub
