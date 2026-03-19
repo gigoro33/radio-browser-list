@@ -30,6 +30,9 @@ https://streaming.radiomargherita.com/stream/radiomargherita
 #EXTINF:1 radio="true" tvg-logo="https://www.radiorecord.ru/icons/apple-touch-icon.png",Radio Record - Russian Gold
 https://radiorecord.hostingradio.ru/russiangold96.aacp
 
+#EXTINF:1 radio="true" tvg-logo="https://aliman.id/site/wp-content/uploads/2019/01/logo-250-150x150.png",Radio Suara Al-Iman 846 AM Surabaya
+https://radioislamindonesia.com/aliman.mp3
+
 #EXTINF:1 radio="true" tvg-logo="https://www.radiotesanj.ba/assets/site/assets/images/logo-white-mobile.png",Radio Tešanj 92.2MHz
 http://radio.daj.ba:8082/stream
 
@@ -1026,6 +1029,9 @@ https://ss1.audiorama.com.mx:6584/
 #EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/DtvjZJD/La-Bestia-Grupera-CDMX.png",La Bestia Grupera 540 (CDMX) - 540 AM - XEWF-AM - Grupo Audiorama Comunicaciones - Ciudad de México
 https://ss1.audiorama.com.mx:6584/
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s90519d.png",LA BESTIA GRUPERA 95.3 (Acapulco) - 95.3 FM - XHEVP-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
+https://sg.centrocibernetico.com/audiorama-xhevp
+
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/055/la-bestia-grupera-chilpancingo.1933a103.png",LA BESTIA GRUPERA 99.7 (Chilpancingo) - 99.7 FM - XHEPI-FM - Grupo Audiorama Comunicaciones - Chilpancingo, Guerrero
 https://sg.centrocibernetico.com/audiorama-xhepi
 
@@ -1169,6 +1175,9 @@ https://secure.radiorama.mx:2001/
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-poderosa-93-1-fm-veracruz-mexico.webp",LA PODEROSA 93.1 (Tuxpan) - 93.1 FM - XHCRA-FM - Radiorama Tuxpan - Tuxpan, Veracruz
 https://stream.zeno.fm/qwmf9kf0fkhvv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/2yfVFJvW/lapoderosa937.jpg",LA PODEROSA 93.7 (Acapulco) - 93.7 FM - XHPA-FM - Grupo Radio Comunicación - Acapulco, Guerrero
+https://stream.freepi.io:8108/live
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/YCPHqxFc/laprimera.png",LA PRIMERA 88.9 (Saltillo) - 88.9 FM - XHAJ-FM - Grupo Multimedia El Diario de Coahuila - Saltillo, Coahuila
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHAJFMAAC.aac
@@ -2990,12 +2999,3 @@ http://cmr-hosting.com:8010/stream?type=http&nocache=401572
 
 #EXTINF:1 radio="true" tvg-logo="",..:: CLUB MUSIC RADIO ::....:: LOVE SONG ::..
 http://cmr-hosting.com:8040/stream?type=http&nocache=869535
-
-#EXTINF:1 radio="true" tvg-logo="https://clubmusic-1.com/favicon.ico",..:: CLUB MUSIC RADIO ::....:: TAMBURA ::..
-http://cmr-hosting.com:8070/stream?type=http&nocache=646624
-
-#EXTINF:1 radio="true" tvg-logo="https://hypefm.ru/wp-content/uploads/2020/08/cropped-nobg-2.png",..:: HYPE FM - ХАЙП FM - РЕЗЕРВ ::..
-http://54.154.49.88:8000/HipHop/HypeFM
-
-#EXTINF:1 radio="true" tvg-logo="",..:: KIDS HIT - ДЕТСКИЙ ХИТ - РЕЗЕРВ ::..
-https://deti.amgradio.ru/Deti
