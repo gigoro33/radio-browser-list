@@ -741,11 +741,17 @@ https://a6.asurahosting.com:8020/radio.mp3
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24575/images/logod.png",EXA FM 98.3 (El Paso) - 98.3 FM - XHPX-FM - MVS Radio - Ciudad Juárez, Chihuahua
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPXAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-exa-fm-98-5-fm-oaxaca-mexico.webp",EXA FM 98.5 (Oaxaca) - 98.5 FM - XHNR-FM - Organización Radiofónica de Oaxaca (ORO) - Oaxaca, Oaxaca
+http://ororadio2.serverroom.us:4638/
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91971/images/logod.png",EXA FM 98.5 (Tuxtla) - 98.5 FM - XHCQ-FM - Valanci Media Group - Tuxtla Gutiérrez, CHiapas
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCQ.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s140832/images/logog.jpg",EXA FM 98.9 (Los Mochis) - 98.9 FM - XHMPM-FM - Grupo RSN - Los Mochis, Sinaloa
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMPMAAC.AAC
+
+#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/4wGPxkfm/exa991.jpg",EXA FM 99.1 (San Juan del Río) - 99.1 FM - XHVI-FM - San Juan del Río, Querétaro
+https://tv.radiohosting.online:8352/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s8104/images/logod.png",EXA FM 99.3 (Acapulco) - 99.3 FM - XHNQ-FM - MVS Radio - Acapulco, Guerrero
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHNQAAC.aac
@@ -1602,6 +1608,9 @@ https://stm16.xcast.com.br:9928/stream
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s44443/images/logod.png",RADIO LATINA 104.5 (Tijuana) - 104.5 FM - XHLTN-FM - Grupo Imagen - Tijuana, Baja California
 https://mdstrm.com/audio/698f8c71e9899b0d0ceab9c0/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/69794e990dfe61e77da2a20f",RADIO LOBO 106.3 (Irapuato) - 106.3 FM - XHITO-FM - Grupo Radar - Irapuato, Guanajuato
+https://radios.radiohd.com.mx/8140/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/636aa36d3aa70c4aee5d5106",RADIO LOBO 88.3 (San José Iturbide) - 88.3 FM - XHSJI-FM - Grupo Radar - San José Iturbide, Guanajuato
 https://radios.radiohd.com.mx/8270/;
 
@@ -1838,6 +1847,9 @@ https://streaming.servicioswebmx.com/8272/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/HsXBYwFD/vox965.png",VOX FM Radio Hits 96.5 (Villahermosa) - 96.5 FM - XHOP-FM - Grupo Radio Cañón - Villahermosa, Tabasco
 https://streaming.servicioswebmx.com/8298/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/HLn34nWC/vox967.png",VOX FM Radio Hits 96.7 (Puerto Vallarta) - 96.7 FM - XHCCBA-FM - Grupo Radio Cañón - Puerto Vallarta, Jalisco
+https://streaming.servicioswebmx.com/8142/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://globalmediarocks.s3.us-west-1.amazonaws.com/LOGOS/LOGO_VOX.jpg",VOX FM Radio Hits 96.9 (San Luis Potosí) - 96.9 FM - XHOD-FM - Global Media - San Luis Potosí, San Luis Potosí
 https://voxfm.b-cdn.net/stream
@@ -2987,15 +2999,3 @@ https://qurango.net/radio/mukhtasartafsir
 
 #EXTINF:1 radio="true" tvg-logo="",..:: CLUB MUSIC RADIO ::....:: 70s 80s 90s ::..
 http://cmr-hosting.com:8030/stream?type=http&nocache=773949
-
-#EXTINF:1 radio="true" tvg-logo="https://clubmusic-1.com/favicon.ico",..:: CLUB MUSIC RADIO ::....:: CRO HITS ::..
-http://cmr-hosting.com:8060/stream?type=http&nocache=823456
-
-#EXTINF:1 radio="true" tvg-logo="",..:: CLUB MUSIC RADIO ::....:: ExYU POP-ROCK ::..
-http://cmr-hosting.com:8080/stream?type=http&nocache=13098
-
-#EXTINF:1 radio="true" tvg-logo="",..:: CLUB MUSIC RADIO ::....:: Folk ::..
-http://cmr-hosting.com:8010/stream?type=http&nocache=401572
-
-#EXTINF:1 radio="true" tvg-logo="",..:: CLUB MUSIC RADIO ::....:: LOVE SONG ::..
-http://cmr-hosting.com:8040/stream?type=http&nocache=869535
