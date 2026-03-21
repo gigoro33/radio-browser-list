@@ -156,6 +156,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24508/images/logod.jpg",JOYA: La Radio Inteligente
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-bestia-grupera-103-5-fm-nogales-mexico.webp",LA BESTIA GRUPERA: Dejando Huella
+https://sg.centrocibernetico.com/audiorama-xewf
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/mD0WQyvV/la-comadre.png",LA COMADRE: Puros Éxitos!!!
 https://playerservices.streamtheworld.com/api/livestream-redirect/XELAMAAC.aac
 
@@ -1227,6 +1230,9 @@ https://enlinea-r1.rancherita.com.mx/listen/rancherita_del_aire/radio.mp3
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88334/images/logod.png",LA RAZA 105.1 (Hermosillo) - 105.1 FM - XHMMO-FM - Grupo RADIOSA - Hermosillo, Sonora
 https://stream.zeno.fm/wy9eauldjwavv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gkyy0bFR/lareinadelasierra.png",LA REINA DE LA SIERA 99.1 (Nacozari de García) - 99.1 FM - XHNZI-FM - Grupo Radio Guaymas - Nacozari de García, Sonora
+https://sp5.servidorrprivado.com/8064/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jqn1hWBn/lasabrosita925.jpg",LA SABROSITA 92.5 (Ciudad Victoria) - 92.5 FM - XHCCCN-FM - Grupo Radio Alegría - Ciudad Victoria, Tamaulipas
 https://pedro.spressweb.com:8000/radio.mp3
 
@@ -1724,6 +1730,9 @@ http://79.120.77.11:8000/punkru
 
 #EXTINF:1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/0XMM-2Dh3GdjsEdw0DvNvDuNdNMRDiYVdDxX0SuuPqlTXhI2mijGcRD_2Qr25IyVdCSh=w240-h480-rw",SABROSITA 590 y 1410 (CDMX) - 590 AM / 1410 AM - XEPH-AM / XEBS-AM - NRM Comunicaciones - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://api.somafm.com/logos/256/sf1033256.png",SF 10-33
+https://ice5.somafm.com/sf1033-128-aac
 
 #EXTINF:1 radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png",Sky News Australia Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
@@ -2990,12 +2999,3 @@ https://qurango.net/radio/mukhtasartafsir
 
 #EXTINF:1 radio="true" tvg-logo="",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
-
-#EXTINF:1 radio="true" tvg-logo="",.. مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
-
-#EXTINF:1 radio="true" tvg-logo="",.. مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
-
-#EXTINF:1 radio="true" tvg-logo="",..:: CLUB MUSIC RADIO ::....:: 70s 80s 90s ::..
-http://cmr-hosting.com:8030/stream?type=http&nocache=773949
