@@ -1095,6 +1095,12 @@ https://stream.zeno.fm/zpd5he3sz7zuv
 #EXTINF:1 radio="true" tvg-logo="https://www.allradio.net/500/7xbmF_FvuVag4AvuuuvMA.webp",LA INIGUALABLE 91.3 (Amatepec) - 91.3 FM - XHPAMM-FM - Amatepec, Estado de México
 http://streaming.dinesat.com:7026/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s351462/images/logod.png",LA INTERESANTE 88.5 (Los Mochis) - 88.5 FM - XHSIG-FM - AP Grupo Radio - Los Mochis, Sinaloa
+https://stream.soyradioinc.com:8150/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/15nDr5H4/lainteresante945.jpg",LA INTERESANTE 94.5 (Guasave) - 94.5 FM - XHGVE-FM - AP Grupo Radio - Guasave, Sinaloa
+https://stream.soyradioinc.com:8292/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s141431/images/logod.png",LA INVASORA 98.9 (Aguascalientes) - 98.9 FM - XHERO-FM - Radiogrupo - Aguascalientes, Aguascalientes
 http://201.159.48.105:8080/
 
@@ -1106,6 +1112,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHHLLAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/bv7BPgKw/lakebuena1039.jpg",LA KEBUENA 103.9 (San Andrés Tuxtla) - 103.9 FM - XHDQ-FM - Quatro Media - San Andrés Tuxtla, Veracruz
 https://streaming.servicioswebmx.com/8146/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s352534/images/logod.jpg",LA KEBUENA 89.7 (Oaxaca) - 89.7 FM - XHOCA-FM - Grupo Radio Cañón - Oaxaca, Oaxaca
+https://streaming.servicioswebmx.com/8270/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/J4ytxwrG/la-kebuena-cadereyta.jpg",LA KEBUENA 92.3 (Cadereyta) - 92.3 FM - XHPCMQ-FM - Grupo Edikam - Cadereyta, Querétaro
 https://laradiossl.online:10567/;
@@ -1121,6 +1130,9 @@ https://radios.lunamedios.mx:8308/;
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/6qJy9gXB/lakebuena971.jpg",LA KEBUENA 97.1 (GDL) - 97.1 FM - XEBA-FM - Radiópolis - Guadalajara, Jalisco
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENA_GDLAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/nrtJQFYq/lakebuenaacapulco.png",LA KEBUENA 98.5 (Acapulco) - 98.5 FM - XHMAR-FM - Grupo Radio Cañón - Acapulco, Guerrero
+https://streaming.servicioswebmx.com/8252/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://nexostreaming.com/apgruporadio/wp-content/uploads/2024/11/Logotipo-La-KeBuena-El-Fuerte-Sinaloa-98.5-FM_Mesa-de-trabajo-1-copia-qhuu1v2zoi41zbu3dbcu40ks7kj4cmrqojwk9vla4w.png",LA KEBUENA 98.5 FM (El Fuerte) - 98.5 FM - XHCCCD-FM - Ap Grupo Radio - El Fuerte, Sinaloa
 https://stream.soyradioinc.com:8274/stream
@@ -1244,6 +1256,9 @@ https://cast.zuperdns.net/8028/stream/
 
 #EXTINF:1 radio="true" tvg-logo="https://xhepl.mx/img/logo-dark.png",LA SÚPER ESTACIÓN 550 (Cuauhtémoc) - 550 AM - XEPL-AM - Cuauhtémoc, Chihuahua
 https://listen.mixlr.com/e84453b53ffa763e52deb4144497cd0a
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/nrCdQ3J3/lasupergrupera.png",LA SUPER GRUPERA 102.1 (Guaymas) - 102.1 FM - XHEPS-FM - 	Grupo Radio Guaymas - Guaymas, Sonora
+https://sp5.servidorrprivado.com/8062/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a8c99cfe9a2dcd3a8fb928",LA T GRANDE 990 (MTY) - 990 AM - XET-AM - Multimedios Radio - Monterrey, Nuevo León
 https://mdstrm.com/audio/672a602bce5982a130a01a1d/icecast.audio
@@ -2978,21 +2993,6 @@ http://radios.topymedia.com:8000/stream/;.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-180x180.png",.. Atlantica Soleil..
 http://radios.topymedia.com:8054/stream/;.mp3
-
-#EXTINF:1 radio="true" tvg-logo="",.. مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
-
-#EXTINF:1 radio="true" tvg-logo="",.. مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
-
-#EXTINF:1 radio="true" tvg-logo="",.. مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
-
-#EXTINF:1 radio="true" tvg-logo="",.. مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
-
-#EXTINF:1 radio="true" tvg-logo="",.. مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
 
 #EXTINF:1 radio="true" tvg-logo="",.. مختصر التفسير
 https://qurango.net/radio/mukhtasartafsir
