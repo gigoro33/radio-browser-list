@@ -1113,6 +1113,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHHLLAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/bv7BPgKw/lakebuena1039.jpg",LA KEBUENA 103.9 (San Andrés Tuxtla) - 103.9 FM - XHDQ-FM - Quatro Media - San Andrés Tuxtla, Veracruz
 https://streaming.servicioswebmx.com/8146/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/d1WwTmfx/lakebuenavillahermosa.png",LA KEBUENA 89.3 (Villahermosa) - 89.3 FM - XHQQQ-FM - Radio Núcleo - Villahermosa, Tabasco
+https://stream.freepi.io:8328/live
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s352534/images/logod.jpg",LA KEBUENA 89.7 (Oaxaca) - 89.7 FM - XHOCA-FM - Grupo Radio Cañón - Oaxaca, Oaxaca
 https://streaming.servicioswebmx.com/8270/stream
 
@@ -1124,6 +1127,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENAAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-ke-buena-93-9-fm-mexico.webp",LA KEBUENA 93.9 (Acayucan) - 93.9 FM - XHEVZ-FM - Acayucan, Veracruz
 https://secure.radiorama.mx:2170/
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91096/images/logod.png",LA KEBUENA 94.3 (Apatzingán) - 94.3 FM - XHCJ-FM - Cadena RASA - Apatzingán, Michoacán
+https://stream-157.zeno.fm/s1ay1szrzv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzMWF5MXN6cnp2OHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZG9USjdoQk9TLWFMN2VJSFI5LVJ6USIsImlhdCI6MTc3NDE0MjI5MiwiZXhwIjoxNzc0MTQyMzUyfQ.BgANQtbgewrhOvtWsMcJwFEh2QUqxCiCt573wDmgusA
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s299113/images/logod.png",LA KEBUENA 95.5 (Colima) - 95.5 FM - XHCMM-FM - 95.5 FM - Luna Medios - Coalcomán, Michoacán
 https://radios.lunamedios.mx:8308/;
@@ -1304,6 +1310,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEITEAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s148725/images/logod.png",LOS40 100.5 (Delicias) - 100.5 FM - XHBZ-FM - Sigma Radio - Delicias, Chihuahua
 https://ssl.sigmaradio.stream:9004/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90776/images/logod.png",LOS40 101.5 (Villahermosa) - 101.5 FM - XHEPAR - Radio Núcleo - Villahermosa, Tabasco
+https://stream.freepi.io/8326/live
 
 #EXTINF:1 radio="true" tvg-logo="http://cdn-profiles.tunein.com/s47704/images/logoq.png?t=155784",LOS40 101.7 (CDMX) - 101.7 FM - XEX-FM - Radiópolis - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac
@@ -2990,12 +2999,3 @@ http://radios.topymedia.com:8052/stream/;.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-180x180.png",.. Atlantica Radio..
 http://radios.topymedia.com:8000/stream/;.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-180x180.png",.. Atlantica Soleil..
-http://radios.topymedia.com:8054/stream/;.mp3
-
-#EXTINF:1 radio="true" tvg-logo="",.. مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
-
-#EXTINF:1 radio="true" tvg-logo="",.. مختصر التفسير
-https://qurango.net/radio/mukhtasartafsir
