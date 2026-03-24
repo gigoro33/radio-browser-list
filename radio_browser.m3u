@@ -12,6 +12,9 @@ http://stream.funradio.sk:8000/fun128.mp3
 #EXTINF:1 radio="true" tvg-logo="",Hard Rock Radio FM
 http://67.249.184.45:8015/
 
+#EXTINF:1 radio="true" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2174/2023/09/26121503/launch_icon.png",KLVZ Legends 810AM/95.3 FM - Denver, CO
+https://ais-sa8.cdnstream1.com/p1w7r97sb0k/c2g93fu0iqz
+
 #EXTINF:1 radio="true" tvg-logo="http://www.radio.bialystok.pl/favicon.ico",Polskie Radio Bialystok
 http://stream4.nadaje.com:15476/radiobialystok
 
@@ -585,8 +588,14 @@ https://streamingcwsradio30.com/8270/stream
 #EXTINF:1 radio="true" tvg-logo="https://www.allradio.net/500/lDlaUwul_r__U4G5lP7_3.webp",CONTACTO 98.9 (Chalco) - 98.9 FM - XHCHAL-FM - Comunicaciones en Contacto, Cultura y Bienestar Social, A.C. - Chalco, Estado de México
 https://stm11.xcast.com.br:9640/;
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/901wmSVt/crystal1061.png",CRYSTAL 106.1 (Pachuca) - 106.1 FM - XHPCA-FM - Grupo Siete - Pachuca, Hidalgo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMYFMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90059/images/logod.png",CRYSTAL 1240 (Ciudad Juárez) - 1240 AM - XEWG-AM - Grupo Siete - Ciudad Juárez, Chihuahua
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEWGAMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88438/images/logod.png",CRYSTAL 93.3 (Toluca) - 93.3 FM - XHEDT-FM - Grupo Siete - Toluca, Estado de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHEDTFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a939bf8df38373f2253e2b",D95 94.9 (Chihuahua) - 94.9 FM - XHCHH-FM - Multimedios Radio - Chihuahua, Chihuahua
 https://mdstrm.com/audio/672cf2d514e0b3ed57c840c5/icecast.audio
@@ -1209,6 +1218,9 @@ https://stream.freepi.io:8108/live
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/YCPHqxFc/laprimera.png",LA PRIMERA 88.9 (Saltillo) - 88.9 FM - XHAJ-FM - Grupo Multimedia El Diario de Coahuila - Saltillo, Coahuila
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHAJFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/dVsvRpJp/laq820.png",LA Q 820 (GDL) - 820 AM - XEBA-AM - Grupo Radio Cañón - Guadalajara, Jalisco
+https://streaming.servicioswebmx.com/8266/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24529/images/logod.png",LA Q 940 (CDMX) - 940 AM - XEQ-AM - Radiópolis - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/BESAMEAAC.aac
 
@@ -1325,6 +1337,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MTYAAC.a
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s141437/images/logod.png",LOS40 95.7 (Aguascalientes) - 95.7 FM - XHAGA-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
 https://cast.zuperdns.net/8030/stream/
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s186233/images/logod.jpg",LOS40 96.9 (Mérida) - 96.9 FM - XHUL-FM - Cadena RASA - Mérida, Yucatán
+https://stream.zeno.fm/44t6wqmc4p8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/FH9chpLG/xhpply.jpg",LOS40 Playa del Carmen - 96.1 FM - XHPPLY-FM - CJR Radio - Playa del Carmen, Quintana Roo
 http://stream.zeno.fm/8pnsdde1sy8uv
@@ -1505,6 +1520,9 @@ https://radios.radiohd.com.mx/8382/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/69794e900dfe61e77da2a20d",RADAR 94.3 (Irapuato) - 94.3 FM - XHJTA-FM - Grupo Radar - Irapuato, Guanajuato
 https://radios.radiohd.com.mx/8118/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/mD0hbHPc/radio620.png",RADIO 6.20 (CDMX) - Online - www.cadenarasa.com - Cadena RASA - Ciudad de México
+https://stream.zeno.fm/smm679phup8uv
 
 #EXTINF:1 radio="true" tvg-logo="",Radio 70 80 90 Marche
 https://rblive.it:8020/radio.mp3
@@ -1736,6 +1754,9 @@ http://ro1.reformatorischeomroep.nl:8003/live
 
 #EXTINF:1 radio="true" tvg-logo="https://www.radiobells.com/stations/relaxfmchillout.webp",Relax FM Chillout
 https://pub0201.101.ru/stream/trust/mp3/128/24?
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/p2931180/images/logod.png",RETRO 103.1 (Mérida) - 103.1 FM - XHPYM-FM - Cadena RASA - Mérida, Yucatán
+https://stream.zeno.fm/yxnr8zs7v68uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Fzm8qNPq/Retro-107-5.jpg",Retro 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guadalajara, Jalisco
 https://ss1.audiorama.com.mx:6574/vibefm
@@ -2978,24 +2999,3 @@ https://qurango.net/radio/mohammed_ayyub
 
 #EXTINF:1 radio="true" tvg-logo="",. القارئ محمد أيوب
 https://qurango.net/radio/mohammed_ayyub
-
-#EXTINF:1 radio="true" tvg-logo="",. القارئ محمد أيوب
-https://qurango.net/radio/mohammed_ayyub
-
-#EXTINF:1 radio="true" tvg-logo="",. القارئ محمد أيوب
-https://qurango.net/radio/mohammed_ayyub
-
-#EXTINF:1 radio="true" tvg-logo="",. القارئ محمد أيوب
-https://qurango.net/radio/mohammed_ayyub
-
-#EXTINF:1 radio="true" tvg-logo="",. مختصر السيرة
-https://qurango.net/radio/almukhtasar_fi_alsiyra
-
-#EXTINF:1 radio="true" tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",.. Al quran radio
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-
-#EXTINF:1 radio="true" tvg-logo="https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-180x180.png",.. atlantica oldies..
-http://radios.topymedia.com:8052/stream/;.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.atlantica-radio.fr/storage/2017/08/cropped-logo_altantica_radio-180x180.png",.. Atlantica Radio..
-http://radios.topymedia.com:8000/stream/;.mp3
