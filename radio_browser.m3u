@@ -459,6 +459,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHQQ_FMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-bandolera-92-3-fm-ciudad-del-carmen-mexico.webp",BANDOLERA 92.3 (Ciudad del Carmen) - 92.3 FM - XHPCDC-FM - Grupo Audiorama Comunicaciones / NRM Comunicaciones - Ciudad del Carmen, Campeche
 https://cdn1.onstream.audio/proxy/xhpcdc/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s347238/images/logod.png",BBC RADIO 1 DANCE UK: The biggest current, future and classic dance vibes. Londres, Inglaterra
+http://151.80.56.90:8090/bbc_radio_one_dance.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s347238/images/logod.png",BBC RADIO 1 DANCE: The biggest current, future and classic dance vibes
+http://151.80.56.90:8090/bbc_radio_one_dance.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logod.png",BBC RADIO 1 UK: The biggest new pop and all-day vibes. Londres, Inglaterra
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8
 
@@ -750,6 +756,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSMTYFMAAC.a
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90924/images/logod.jpg",EXA FM 98.1 (Guasave) - 98.1 FM - XHGSE-FM - Grupo RSN - Guasave, Sinaloa
 https://a6.asurahosting.com:8020/radio.mp3
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s302064/images/logod.jpg",EXA FM 98.1 (Zamora) - 98.1 FM - XHPZAM-FM - Grupo Rey - Zamora, Michoacán
+https://streaming.sistemasmvsradio.com/proxy/afixhgse/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24575/images/logod.png",EXA FM 98.3 (El Paso) - 98.3 FM - XHPX-FM - MVS Radio - Ciudad Juárez, Chihuahua
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPXAAC.aac
 
@@ -1020,6 +1029,9 @@ https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s198663/images/logod.png",KISS XTRA: Black Music & Culture
 https://live-bauerkiss.sharp-stream.com/kissfresh.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s333201/images/logod.png",KISSTORY R&B UK: The Hottest R&B tracks from KISSTORY - Londres, Inglaterra
+https://live-bauerkiss.sharp-stream.com/kisstoryrb.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s333201/images/logod.png",KISSTORY R&B: The Hottest R&B tracks from KISSTORY
 https://live-bauerkiss.sharp-stream.com/kisstoryrb.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
 
@@ -1052,6 +1064,9 @@ https://sg.centrocibernetico.com/audiorama-xhevp
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/055/la-bestia-grupera-chilpancingo.1933a103.png",LA BESTIA GRUPERA 99.7 (Chilpancingo) - 99.7 FM - XHEPI-FM - Grupo Audiorama Comunicaciones - Chilpancingo, Guerrero
 https://sg.centrocibernetico.com/audiorama-xhepi
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s87889d.png",LA BUENA ONDA 101.9 (GDL) - 101.9 FM - XEAD-FM - Grupo Unidifusión - Guadalajara, Jalisco
+https://s2.yesstreaming.net:9094/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/321/la-campera-929.aef70a35.jpg",LA CAMPERA 92.9 (Jiménez) - 92.9 FM - XHJZ-FM - VMedia Comunicaciones - Jiménez, Chihuahua
 https://stream.zeno.fm/4nmspyoqrjdvv
@@ -1109,6 +1124,9 @@ https://stream.soyradioinc.com:8150/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/15nDr5H4/lainteresante945.jpg",LA INTERESANTE 94.5 (Guasave) - 94.5 FM - XHGVE-FM - AP Grupo Radio - Guasave, Sinaloa
 https://stream.soyradioinc.com:8292/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s218380/images/logod.png",LA INVASORA 88.9 (Perote) - 88.9 FM - XHBE-FM - Molina Comunicaciones - Perote, Veracruz
+https://sp2.servidorrprivado.com/8244/stream;
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s141431/images/logod.png",LA INVASORA 98.9 (Aguascalientes) - 98.9 FM - XHERO-FM - Radiogrupo - Aguascalientes, Aguascalientes
 http://201.159.48.105:8080/
@@ -1718,6 +1736,9 @@ https://stream.zeno.fm/cu717gz92hhvv
 
 #EXTINF:1 radio="true" tvg-logo="https://universidadefm.com.br/favicon.ico",Rádio Universidade 105.1 FM
 https://stm20.srvstm.com:7264/;?type=https&nocache=1
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-vital-1310-am-jalisco-mexico.webp",RADIO VITAL 1310 (Guadalajara) - 1310 AM - XETIA-AM - Grupo Unidifusión - Guadalajara, Jalisco
+https://s2.yesstreaming.net:9097/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240110_173306308.jpg?alt=media&token=a87d4cff-689b-461f-b2ce-33169f60754e",RADIO WIELKOPOLSKA
 http://217.182.76.63:8000/webstream
@@ -2978,24 +2999,3 @@ https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2
 
 #EXTINF:1 radio="true" tvg-logo="",. Al quran radio
 https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-
-#EXTINF:1 radio="true" tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",. Al quran radio
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
-
-#EXTINF:1 radio="true" tvg-logo="",. beautiful recitation
-https://qurango.net/radio/salma
-
-#EXTINF:1 radio="true" tvg-logo="",. quran
-https://backup.qurango.net/radio/ahmad_khader_altarabulsi
-
-#EXTINF:1 radio="true" tvg-logo="",. إذاعة ماهر المعيقلي
-https://backup.qurango.net/radio/maher
-
-#EXTINF:1 radio="true" tvg-logo="",. القارئ محمد أيوب
-https://qurango.net/radio/mohammed_ayyub
-
-#EXTINF:1 radio="true" tvg-logo="",. القارئ محمد أيوب
-https://qurango.net/radio/mohammed_ayyub
-
-#EXTINF:1 radio="true" tvg-logo="",. القارئ محمد أيوب
-https://qurango.net/radio/mohammed_ayyub
