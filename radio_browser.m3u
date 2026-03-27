@@ -747,6 +747,9 @@ https://cast1.my-control-panel.com/proxy/examante/stream/;stream.mp3
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90984/images/logod.png?t=637460020780000000",EXA FM 93.3 (Veracruz) - 93.3 FM - XHPS-FM - MVS Radio - Veracruz, Veracruz
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91207/images/logod.png",EXA FM 94.5 (Ciudad Victoria) - 94.5 FM - XHBJ-FM - ORT Radio - Ciudad Victoria, Tamaulipas
+https://cast1.my-control-panel.com/proxy/exavictoria/stream/;stream.mp3
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88038/images/logod.jpg",EXA FM 97.3 (Aguascalientes) - 97.3 FM - XHAGC-FM - Radio Universal - Aguascalientes, Aguascalientes
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGCAAC.aac
 
@@ -1224,6 +1227,9 @@ https://tv.radiohosting.online:8140/stream
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/964/la-perrona.fa0fb94c.png",LA PERRONA 92.5 (Irapuato) - 92.5 FM - XHSAG-FM - Grupo El Salmantino - Irapuato, Guanajuato
 https://streaming.shoutcast.com/laperrona
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s87831d.png",LA PODEROSA 106.9 (Veracruz) - 106.9 FM - XHQT-FM - AvanRadio Radiorama - Veracruz, Veracruz
+https://s2.mexside.net/8314/;
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s90779g.png",LA PODEROSA 107.7 (Aguascalientes) - 107.7 FM - XHYZ-FM - Radiogrupo - Aguascalientes, Aguascalientes
 https://secure.radiorama.mx:2001/
 
@@ -1332,6 +1338,9 @@ https://stream.zeno.fm/9ty3tty0ra0uv
 #EXTINF:1 radio="true" tvg-logo="",Life Radio Tirol - MUSIC ONLY
 https://stream.liferadio.tirol/MUONLY/mp3-192/link
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s211943/images/logod.png",LIKE FM 101.3 (Delicias) - 101.3 FM - XHBN-FM - GRD Multimedia - Delicias, Chihuahua
+https://streamingcwsradio30.com:7082/;
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87661/images/logod.png",LIKE FM 98.3 (Cuauhtémoc) - 98.3 FM - XHDT-FM - GRD Multimedia - Cuauhtémoc, Chihuahua
 https://streamingcwsradio30.com:7085/;
 
@@ -1358,6 +1367,9 @@ https://cast.zuperdns.net/8030/stream/
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s186233/images/logod.jpg",LOS40 96.9 (Mérida) - 96.9 FM - XHUL-FM - Cadena RASA - Mérida, Yucatán
 https://stream.zeno.fm/44t6wqmc4p8uv
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s185135/images/logod.jpg",LOS40 98.9 (Veracruz) - 98.9 FM - XHWB-FM - Radiópolis - Boca del Río, Veracruz
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/FH9chpLG/xhpply.jpg",LOS40 Playa del Carmen - 96.1 FM - XHPPLY-FM - CJR Radio - Playa del Carmen, Quintana Roo
 http://stream.zeno.fm/8pnsdde1sy8uv
@@ -1499,6 +1511,9 @@ https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s18771/images/logod.jpg",ONDAS DE VIDA 1440 (CDMX) - 1440 AM - XEEST-AM - Grupo Siete - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-opus-94-94-5-fm-mexico.webp",OPUS 94 94.5 (CDMX) - 94.5 FM - XHIMER-FM - IMER - Ciudad de México
+
 
 #EXTINF:1 radio="true" tvg-logo="https://radio-en-vivo-mx.com/storage/radios/14663/20749/conversions/orbita-digital-106-1-lg.webp",ORBITA DIGITAL 106.1 (Juchitán) - 106.1 FM - XHGCY-FM - Guna Caa Yuni Xhiña, A.C. - Juchitán, Oaxaca
 https://sp3.servidorrprivado.com:10854/stream/1/
@@ -1713,6 +1728,9 @@ https://nl1.streamingpulse.com/ssl/radiorougeitaly
 #EXTINF:1 radio="true" tvg-logo="https://www.radioxevd.com/templates/contructionco-tg/images/logo.png",RADIO SENSACIONAL DIGITAL 93.9 (Allende) - 93.9 FM - XHVD-FM - Allende, Coahuila
 https://usa6.fastcast4u.com/proxy/xevd?mp=/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s89119/images/logod.jpg",RADIO TURQUESA 105.1 (Cancún) - 105.1 FM - XHNUC-FM - Grupo Turquesa - Cancún, Quintana Roo
+https://stream.miradio.in/proxy/rt1051/live
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91810/images/logod.jpg",RADIO UAA 94.5 (Aguascalientes) - 94.5 FM - XHUAA-FM - UAA (Universidad Autónoma de Aguascalientes) - Aguascalientes, Aguascalientes
 https://streamingcwsradio30.com/8148/stream
 
@@ -1818,6 +1836,9 @@ https://securestream.mxradio.xyz/chetumal/
 #EXTINF:1 radio="true" tvg-logo="",Solteros
 https://jpdofunk3.com.br/stream/solteros
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/CKGB1bbR/soyfm.png",SOY FM 101.7 (Veracruz) - 101.7 FM - XHPR-FM - Valanci Media Group - Boca del Río, Veracruz
+https://stream.zeno.fm/uemgdeyam5zuv
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s329513/images/logod.jpg",STEREO 100 99.9 (Morelia) - 99.9 FM - XHSCHP-FM - FH Comunicadores de Michoacán - Morelia/Tarímbaro, Michoacán
 http://154.38.167.185:8040/;
 
@@ -1862,6 +1883,9 @@ https://mdstrm.com/audio/672a61c2bef01359b6913aea/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s90559d.png",TOP MUSIC 91.7 (Querétaro) - 91.7 FM - XHKH-FM - Respuesta Radiofónica - Querétaro, Querétaro
 https://secure.radiorama.mx:2125/
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ec71348c405ed8eed73d099",TRIÓN 106.1 (Veracruz) - 106.1 FM - XHETF-FM - Grupo Fórmula - Boca del Río, Veracruz
+http://stream.radiojar.com/a5qpu2en3p8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ea788257ba15486d603ab74",Trión Ciudad de México - 103.3 HD4 - XERFR-FM - Grupo Fórmula - Ciudad de México
 https://stream.radiojar.com/4f89tufzv9duv
@@ -2975,27 +2999,3 @@ https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 
 #EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg",. Al quran radio
-https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
