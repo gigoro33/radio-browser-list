@@ -1194,6 +1194,9 @@ https://stream.zeno.fm/mxi4pryyw4pvv
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/XHHS_LaMejor90.9-540_logo.png",LA MEJOR 540 (Los Mochis) - 540 AM - XEHS-AM - Grupo RSN - Los Mochis, Sinaloa
 https://a6.asurahosting.com:7920/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87635/images/logod.png",LA MEJOR FM 100.5 (Veracruz) - 100.5 FM - XHVE-FM - MVS Radio - Boca del Río, Veracruz
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHVEFMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-mejor-zacatecas-107-9-fm-mexico.webp",LA MEJOR FM 107.9 (Fresnillo) - 107.9 FM - XHEMA-FM - Grupo Radiofónico B15 - Fresnillo, Zacatecas
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEMAAAC.aac
 
@@ -1512,9 +1515,6 @@ https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s18771/images/logod.jpg",ONDAS DE VIDA 1440 (CDMX) - 1440 AM - XEEST-AM - Grupo Siete - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac
 
-#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-opus-94-94-5-fm-mexico.webp",OPUS 94 94.5 (CDMX) - 94.5 FM - XHIMER-FM - IMER - Ciudad de México
-
-
 #EXTINF:1 radio="true" tvg-logo="https://radio-en-vivo-mx.com/storage/radios/14663/20749/conversions/orbita-digital-106-1-lg.webp",ORBITA DIGITAL 106.1 (Juchitán) - 106.1 FM - XHGCY-FM - Guna Caa Yuni Xhiña, A.C. - Juchitán, Oaxaca
 https://sp3.servidorrprivado.com:10854/stream/1/
 
@@ -1817,6 +1817,9 @@ http://79.120.77.11:8000/punkru
 
 #EXTINF:1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/0XMM-2Dh3GdjsEdw0DvNvDuNdNMRDiYVdDxX0SuuPqlTXhI2mijGcRD_2Qr25IyVdCSh=w240-h480-rw",SABROSITA 590 y 1410 (CDMX) - 590 AM / 1410 AM - XEPH-AM / XEBS-AM - NRM Comunicaciones - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/WbxtzCZb/sensacion.jpg",SENSACIÓN 95.5 (Xalapa) - 95.5 FM - XHTP-FM - Oliva Radio - Xalapa, Veracruz
+http://sss.cnwks.ws:8322/stream?type=http&nocache=11558
 
 #EXTINF:1 radio="true" tvg-logo="https://api.somafm.com/logos/256/sf1033256.png",SF 10-33
 https://ice5.somafm.com/sf1033-128-aac
@@ -2986,9 +2989,6 @@ https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://mp3islam.com/favicon.ico",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 
 #EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
