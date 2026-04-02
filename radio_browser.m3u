@@ -198,8 +198,8 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bd35fe16217a1eceece2270",PIANO LANDSCAPES: Música instrumental para relajarte
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR23_s01AAC.aac
 
-#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/094/tropicalisima-1350-am-mexico.360636dd.jpg",RADIO 710: Pura Música Mexicana
-
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/CL2stsxj/radiochapultepec.png",RADIO CHAPULTEPEC: UNA RADIO MEXICANA
+https://cast6.asurahosting.com/proxy/radchap0mx/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/0QzYbY7z/disney.png",RADIO DISNEY: Te Llega
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac
@@ -1146,14 +1146,23 @@ https://sp2.servidorrprivado.com/8244/stream;
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s141431/images/logod.png",LA INVASORA 98.9 (Aguascalientes) - 98.9 FM - XHERO-FM - Radiogrupo - Aguascalientes, Aguascalientes
 http://201.159.48.105:8080/
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/BnvrQcWZ/lajl.png",LA JL 99.3 (Guamúchil) - 99.3 FM - XHJL-FM - Grupo Chávez Radio - Guamúchil, Sinaloa
+https://streaming.shoutcast.com/la-jl
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91721/images/logod.png",LA KALIENTE 102.9 (Aguascalientes) - 102.9 FM - XHEY-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
 https://cast.zuperdns.net/8024/stream/
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87744/images/logod.png",LA KALIENTE 90.7 (Hermosillo) - 90.7 FM - XHHLL-FM - Grupo Imagen - Hermosillo, Sonora
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHHLLAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k55qz6FY/lakanona.jpg",LA KAÑONA 94.3 (Escuinapa) - 94.3 FM - XHQE-FM - Megamedios Sur - Escuinapa, Sinaloa
+https://radios.blumhost.es/8120/;
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/bv7BPgKw/lakebuena1039.jpg",LA KEBUENA 103.9 (San Andrés Tuxtla) - 103.9 FM - XHDQ-FM - Quatro Media - San Andrés Tuxtla, Veracruz
 https://streaming.servicioswebmx.com/8146/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/zvbvs8VM/lakebuena1051.png",LA KEBUENA 105.1 (Mazatlán) - 105.1 FM - XHERJ-FM - GPM (Grupo Promomedios) - Mazatlán, Sinaloa
+https://radioweb.stream/sinaloa.mazatlan/xerj.aac/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/d1WwTmfx/lakebuenavillahermosa.png",LA KEBUENA 89.3 (Villahermosa) - 89.3 FM - XHQQQ-FM - Radio Núcleo - Villahermosa, Tabasco
 https://stream.freepi.io:8328/live
@@ -1200,6 +1209,9 @@ https://stream-161.zeno.fm/u2vpn3hh5pkvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/de/53/de5362728a4c73f5b6fbaf2c807971e5.png",LA MÁS PICUDA 104.7 (Parral) - 104.7 FM - XHEHB-FM - Radiorama Parral - Hidalgo del Parral, Chihuahua
 https://stream-156.zeno.fm/p45k5uz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNDVrNXV6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiZmh5QmlqUmVRX2FYQUVpb0Z0dEI1QSIsImlhdCI6MTc2ODQ0MjM4MywiZXhwIjoxNzY4NDQyNDQzfQ.-L0fU4Jz7xB-0QtNXvMOQpj_IiEVaGrwB5sEinNLwYU
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Vsnwt60y/lamaxi921.png",LA MAXI 92.1 (Guamúchil) - 92.1 FM - XHGML-FM - Grupo Chávez Radio - Guamúchil, Sinaloa
+https://streaming.shoutcast.com/la-maxi-gml
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Dw3CJh9W/La-Mega-106-1.jpg",LA MEGA 106.1 (Agua Dulce) - 106.1 FM - XHSCID-FM - Comunicación Hidromila - Agua Dulce, Veracruz
 https://stream.zeno.fm/mxi4pryyw4pvv
 
@@ -1229,6 +1241,9 @@ https://stream.zeno.fm/0foxzyrupdutv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88037d.png",LA MEXICANA 91.3 (Aguascalientes) - 91.3 FM - XHPLA-FM - Radio Universal - Aguascalientes, Aguascalientes
 http://tunein.gvstream.net:9040/;
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fbNrF6cF/lamorrita953.png",LA MORRITA 95.3 (El Fuerte) - 95.3 FM - XHPFRT-FM - Luz Network - El Fuerte, Sinaloa
+https://audiostreaming.luz.network/stream/5/
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-patrona-92-5-fm-escuinapa-mexico.webp",LA PATRONA 570 (Escuinapa) - 570 AM - XETD-AM - Alica Medios - Escuinapa, Sinaloa
 http://www.radiohosting.online/stream/?puerto=9884
@@ -1692,6 +1707,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/GALLITO_GDLAAC
 #EXTINF:1 radio="true" tvg-logo="https://c22.radioboss.fm/w/artwork/144.jpg",Radio Gameplay
 https://c22.radioboss.fm:8144/GamePlay
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s10687/images/logod.png",RADIO IPN 95.7 (CDMX) - 95.7 FM - XHIPN-FM - IPN (Instituto Politécnico Nacional) - CDMX
+
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s10687/images/logod.png",RADIO IPN 95.7 (CDMX) - 95.7 FM - XHIPN-FM - IPN (Instituto Politécnico Nacional) - Ciudad de México
 https://broadcast.radio.ipn.mx/RadioIPN
 
@@ -1928,6 +1946,9 @@ http://201.159.48.106:1407/
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/6pCtsH2P/xecsac.jpg",VALLES DIGITAL RADIO 1210 (El Arenal) - 1210 AM - XECSAC-AM - El Arenal, Jalisco
 https://shoutcast.uplinkmx.com:8000/;stream/1
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/PxGfwFh8/vibra951.png",VIBRA RADIO 95.1 (Guamúchil) - 95.1 FM - XHCCCI-FM - Grupo Vibra Medios - Guamúchil, Sinaloa
+https://sp3.servidorrprivado.com:10829/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/b4/14/b4142e9275d74e8cfbce0692822e56f9.jpg",VIDA AZUL 99.5 (Tuxpan) - 99.5 FM - XHTVR-FM - Radiorama - Tuxpan, Veracruz
 http://stream.zeno.fm/47zpzaa0fkhvv
@@ -2975,27 +2996,6 @@ https://panel.retrolandigital.com:8160/listen
 
 #EXTINF:1 radio="true" tvg-logo="",??????? ????? (RUSSIAN WAVE)
 http://ru1.volna.top/RuWave48
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
-https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
 
 #EXTINF:1 radio="true" tvg-logo="null",. Abdulbasit Abdulsamad
 https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
