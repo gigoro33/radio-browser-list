@@ -999,6 +999,9 @@ http://162.244.81.98:8130/listen
 #EXTINF:1 radio="true" tvg-logo="https://radio-24.ru/img/logo/logo-1547.png",Invoice  радио
 https://listen.myrh.ru/id079040
 
+#EXTINF:1 radio="true" tvg-logo="https://www.irib.ir/irib-radio-international",IRIB Radio International
+
+
 #EXTINF:1 radio="true" tvg-logo="https://istmo949.com/wp-content/uploads/2025/01/gran.png",ISTMO 94.9 (Acayucan) - 94.9 FM - XHPTEA-FM - Acayucan, Veracruz
 https://cast.tunzilla.com/http://streaming.delsurnet.com:8116/stream
 
@@ -1469,6 +1472,9 @@ https://stream.zeno.fm/bqerr3t91rhvv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90268/images/logod.png",MAGIA DIGITAL 89.9 (GDL) - 89.9 FM - XHRA-FM - MegaRadio - Guadalajara, Jalisco
 https://stream.zeno.fm/zrwy79s91rhvv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/9FPp1Lx1/magica.jpg",MAGICA 100.1 (Parral) - 100.1 FM - XHHPC-FM - Hidalgo del Parral, Chihuahua
+https://secure.radiorama.mx:2042/
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s3139/images/logod.png",MAR FM 99.7 (Veracruz) - 99.7 FM - XHPB-FM - Grupo FM Multimedios - Boca del Río, Veracruz
 https://stream.zeno.fm/eyh5yzn3f78uv
@@ -2993,9 +2999,3 @@ https://1a-weihnachten.radionetz.de/1a-weihnachten.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-weihnachten_600x600.jpg",- 1 A - Weihnachten von 1A Radio
 https://1a-weihnachten.radionetz.de/1a-weihnachten.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/vzVWgBK/einfach-nur-charts-Kopie.jpg",- CHARTS <3 EINFACH....DEIN LIEBLINGSRADIO <3, BEST OF REMIXES, CLUB, DANCE, HANDSUP, MASHUP, REMIX, DJ / DEEJAY, LIVE, TANZMUSIK, GROOVE, EDM, HARD, RAVE, DEEP HOUSE, CHILLOUT, TOP 100, TOP 40, REMIX RADIO, MIX, LOUNGE, SUNSET, AFRO HOUSE, HARDSTYLE, EDM, BLACK, RNB, HIP HOP, MIX, DEEP, SLOW, SLEEP, GERMAN DEEJAY RADIO,  MIXED DJ SET, FESTIVAL, MAINSTREAM,  DE, US, EN RADIO
-https://breakz-high.rautemusik.fm/?ref=radiobrowser-LOVE
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/b7gfKT6/TOP-100-DJ-CHARTS-GPT.jpg",- TOP 100 - DJ Charts - / - REMIX DEEJAY RADIO - CLUB RADIO - HOUSE - EDM - TECHHOUSE - TECHNO - DANCE - TOP100 - TOP40 - RNB - BLACKMUSIC - HIPHOP - URBAN - REGGEATON - MIXTAPE RADIO - RAVE MUSIC -  LIVE DEEJAY RADIO - LIVE EVENTS
-https://radio2.breakz.fm/?ref=rb-gpt-t100
