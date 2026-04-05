@@ -663,6 +663,9 @@ https://19473.live.streamtheworld.com:443/XEN_AMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0cb167ec97a064f3322d1",EL FONÓGRAFO, Música las 24 horas (CDMX) - Online - Grupo Radio Centro - Ciudad de México
 https://22203.live.streamtheworld.com:443/XEJP_AMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/CLsX6b7S/heraldoradiogdl.png",EL HERALDO RADIO 100.3 (GDL) - 100.3 FM - XHAV-FM - Heraldo Media Group - Guadalajara, Jalisco
+https://stream.radiojar.com/2at2c3ububkvv
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f2b2f358a19fc0df00598cd",EL HERALDO RADIO 98.5 (CDMX) - 98.5 FM - XHDL-FM - Heraldo Media Group - Ciudad de MéxicO
 https://stream.radiojar.com/0pqyt47etbkvv
 
@@ -698,6 +701,9 @@ https://radioweb.stream/ags.ags/xhmr.aac/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://radioenvivo.com.mx/uploads/img/estereo-romance-la-paz.png",ESTÉREO ROMANCE 100.7 (La Paz) - 100.7 FM - XHZPL-FM - Promomedios California - La Paz, Baja California
 https://stream.zeno.fm/rkh7xul6uf8vv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/q7YgvmFQ/estereotiempo.png",ESTÉREO TIEMPO 100.3 (Monclova) - 100.3 FM - XHTF-FM - Monclova, Coahuila
+https://stream9.mexiserver.com/8246/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-estereo-vida-93-1-fm-ciudad-del-carmen-mexico.webp",ESTÉREO VIDA 93.1 (Ciudad del Carmen) - 93.1 FM - XHPEBS-FM - Ciudad del Carmen, Campeche
 https://stream.zeno.fm/5y45gqtbcchvv
@@ -891,6 +897,9 @@ https://strcdn.klm99.com/8132/stream
 #EXTINF:1 radio="true" tvg-logo="",FM BAND NEWS 89.5
 https://streaming01.shockmedia.com.ar:10486/
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90995/images/logod.png",FM CENTRO 100.3 (Apizaco) - 100.3 FM - XHXZ-FM - Apizaco, Tlaxcala
+
+
 #EXTINF:1 radio="true" tvg-logo="https://ceresdiario.com/home/wp-content/uploads/2019/02/cropped-logo-ceresdiarioss-1-32x32.jpg",FM CERES  98.7
 https://streaming.escuchanosonline.com/8410/stream
 
@@ -969,6 +978,9 @@ https://media-ssl.musicradio.com/HeartUK
 #EXTINF:1 radio="true" tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/wwYkKshlr8K1X3i0JLV-I51b8dt3bzZXTKlYyMf6F-o/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1E5SWJRdHdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFvNFM2aWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTM3NDkxOTAwMA.webp",Hip Hop Workout Radio
 https://stream.revma.ihrhls.com/zc7785
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/wBpBMm4j/hits1001.png",HITS 100.1 (Huajuapan) - 100.1 FM - XHPHUA-FM - Enza Telecom - Huajuapan de León, Oaxaca
+https://stream.zeno.fm/1ozriqxnwr0uv
+
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/278/hits-fm-1045.8f8d4bf8.png",HITS FM (Chihuahua) - Online - www.mmradio.com - Multimedios Radio - Chihuahua, Chihuahua
 https://mdstrm.com/audio/672cf08df19248c08339a8f4/icecast.audio
 
@@ -998,9 +1010,6 @@ http://162.244.81.98:8130/listen
 
 #EXTINF:1 radio="true" tvg-logo="https://radio-24.ru/img/logo/logo-1547.png",Invoice  радио
 https://listen.myrh.ru/id079040
-
-#EXTINF:1 radio="true" tvg-logo="https://www.irib.ir/irib-radio-international",IRIB Radio International
-
 
 #EXTINF:1 radio="true" tvg-logo="https://istmo949.com/wp-content/uploads/2025/01/gran.png",ISTMO 94.9 (Acayucan) - 94.9 FM - XHPTEA-FM - Acayucan, Veracruz
 https://cast.tunzilla.com/http://streaming.delsurnet.com:8116/stream
@@ -1089,6 +1098,9 @@ https://sg.centrocibernetico.com/audiorama-xhepi
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s87889d.png",LA BUENA ONDA 101.9 (GDL) - 101.9 FM - XEAD-FM - Grupo Unidifusión - Guadalajara, Jalisco
 https://s2.yesstreaming.net:9094/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/2yKxZXGL/lacalurosa.png",LA CALUROSA 100.3 (Ensenada) - 100.3 FM - XHDX-FM - Esquina 32 - Ensenada, Baja California
+https://cast2.my-control-panel.com/proxy/smashco1/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/321/la-campera-929.aef70a35.jpg",LA CAMPERA 92.9 (Jiménez) - 92.9 FM - XHJZ-FM - VMedia Comunicaciones - Jiménez, Chihuahua
 https://stream.zeno.fm/4nmspyoqrjdvv
 
@@ -1167,6 +1179,9 @@ https://radios.blumhost.es/8120/;
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s337740/images/logod.jpg",LA KEBUENA 100.1 (Tuxtla) - 100.1 FM - XHUD-FM - Radio Núcleo - Tuxtla Gutiérrez, Chiapas
 https://stream.freepi.io/8306/live
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/vmMKn3wN/lakebuena1003.png",LA KEBUENA 100.3 (Cancún) - 100.3 FM - XHPTOM-FM - CJR Radio - Cancún, Quintana Roo
+https://stream.zeno.fm/g09h55d1sy8uv
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s324385/images/logod.png",LA KEBUENA 101.3 (Mexicali) - 101.3 FM - XHABCA-FM - Grupo Radio Cañón - Mexicali, Baja California
 http://streaming.servicioswebmx.com/8286/stream
 
@@ -1239,6 +1254,12 @@ https://stream.zeno.fm/mxi4pryyw4pvv
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/71/XHHS_LaMejor90.9-540_logo.png",LA MEJOR 540 (Los Mochis) - 540 AM - XEHS-AM - Grupo RSN - Los Mochis, Sinaloa
 https://a6.asurahosting.com:7920/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91957/images/logod.png",LA MEJOR FM 100.1 (Acapulco) - 100.1 FM - XHSE-FM - MVS Radio - Acapulco, Guerrero
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSEAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90359/images/logod.png",LA MEJOR FM 100.1 (Tampico) - 100.1 FM - XHJT-FM - MVS Radio - Tampico, Tamaulipas
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJTAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87635/images/logod.png",LA MEJOR FM 100.5 (Veracruz) - 100.5 FM - XHVE-FM - MVS Radio - Boca del Río, Veracruz
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHVEFMAAC.aac
 
@@ -1278,6 +1299,9 @@ https://tv.radiohosting.online:8140/stream
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/964/la-perrona.fa0fb94c.png",LA PERRONA 92.5 (Irapuato) - 92.5 FM - XHSAG-FM - Grupo El Salmantino - Irapuato, Guanajuato
 https://streaming.shoutcast.com/laperrona
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91306/images/logod.png",LA PODEROSA 100.1 (Oaxaca) - 100.1 FM - XHOQ-FM - Grupo AS Comunicación - Oaxaca, Oaxaca
+https://stream.zeno.fm/yg63h9ekvjhvv
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s87831d.png",LA PODEROSA 106.9 (Veracruz) - 106.9 FM - XHQT-FM - AvanRadio Radiorama - Veracruz, Veracruz
 https://s2.mexside.net/8314/;
 
@@ -1295,6 +1319,9 @@ https://stream.freepi.io:8108/live
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88041/images/logod.png",LA PODEROSA 96.9 (Mexicali) - 96.9 FM - XHMUG-FM - Radiorama Mexicali - Mexicali, Baja California
 https://sg.centrocibernetico.com/poderosa969
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90948/images/logod.png",LA PRIMERA 101.7 (Ojinaga) - 101.7 FM - XHOG-FM - Grupo BM Radio - Ojinaga, Chihuahua
+https://stream.zeno.fm/069xrm8ub84tv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/YCPHqxFc/laprimera.png",LA PRIMERA 88.9 (Saltillo) - 88.9 FM - XHAJ-FM - Grupo Multimedia El Diario de Coahuila - Saltillo, Coahuila
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHAJFMAAC.aac
@@ -1404,6 +1431,9 @@ https://streamingcwsradio30.com:7085/;
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/HkbKwh5c/453729983-484006877704186-2087352485023397767-n.jpg",Lokura 830 (CDMX) - 830 AM - XEITE-AM - Capital Media - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEITEAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s349586/images/logod.jpg",LOS40 100.1 (Coatzacoalcos) - 100.1 FM - XHNE-FM - Liberal del Sur - Coatzacoalcos, Veracruz
+https://streaming.servicioswebmx.com/8104/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s148725/images/logod.png",LOS40 100.5 (Delicias) - 100.5 FM - XHBZ-FM - Sigma Radio - Delicias, Chihuahua
 https://ssl.sigmaradio.stream:9004/stream
 
@@ -1491,6 +1521,9 @@ https://cast3.my-control-panel.com/proxy/maslatina/stream
 #EXTINF:1 radio="true" tvg-logo="https://maslatina.com.mx/wp-content/uploads/2020/12/logo_MasLatina.png",MÁS LATINA 96.5 (Veracruz) - 96.5 FM - XHRN-FM - RN Radio Networks - Veracruz, Veracruz
 https://cast3.my-control-panel.com/proxy/maslatina/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb531e1c81edc5d1dff",MATCH 100.1 (Culiacán) - 100.1 FM - XHCNA-FM - Grupo ACIR - Culiacán, Sinaloa
+https://14993.live.streamtheworld.com:443/XHCNAFMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1df8",MATCH 90.1 (Puebla) - 90.1 FM - XHRS-FM - Grupo ACIR - Puebla, Puebla
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSFMAAC.aac
 
@@ -1505,6 +1538,9 @@ https://14093.live.streamtheworld.com:443/XHQTOAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa",MATCH 99.3 (CDMX) - 99.3 FM - XHPOP-FM - Grupo ACIR - Ciudad de México
 https://16603.live.streamtheworld.com:443/XHPOPFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s91393d.png",MAX 101 100.1 (Caborca) - 100.1 FM - XHCBR-FM - Grupo Radio Palacios - Caborca, Sonora
+
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s343938/images/logod.jpg",MAXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz
 https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8
@@ -1691,6 +1727,9 @@ https://broadcast.miami/proxy/eurodisco?mp=/stream/;
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64011f32e618abf364a94ae6?ops=fit(960%2C960)",RADIO FELICIDAD 1180 (CDMX) - 1180 AM - XEFR-AM - Grupo ACIR - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ec846d816ae36fb1eabb149",RADIO FÓRMULA 100.1 (Poza Rica) - 100.1 FM - XHXK-FM - Grupo Fórmula - Poza Rica, Veracruz
+https://stream.radiojar.com/yqkm4a9n3p8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ea0948ae7d1b1b0a6421948",Radio Fórmula 103.3 (CDMX) - 103.3 FM - XERFR-FM - Grupo Fórmula - Ciudad de México
 https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8
@@ -1881,6 +1920,9 @@ https://c6.radioboss.fm/stream/234/
 #EXTINF:1 radio="true" tvg-logo="https://kuasark.com/files/stations-logos/romantica-ciudad-de-mexico-1380-am-xeco-am-radiorama-ciudad-de-mexico.png",ROMÁNTICA 1380 (CDMX) - 1380 AM - XECO-AM - Radiorama Valle de México - Ciudad de México
 https://cdn1.onstream.audio/proxy/xeco/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/JhYyLT3D/radioqueretaro.png",RTQ RADIO 100.3 (Querétaro) - 100.3 FM - XHQUE-FM - RTQ (Radio Televisión Querétaro) - Querétaro, Querétaro
+https://59d39900ebfb8.streamlock.net/rytqroradio2/rytqroradio2/playlist.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="",Russian Punk rock
 http://79.120.77.11:8000/punkru
 
@@ -1914,6 +1956,9 @@ https://stream.zeno.fm/uemgdeyam5zuv
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s329513/images/logod.jpg",STEREO 100 99.9 (Morelia) - 99.9 FM - XHSCHP-FM - FH Comunicadores de Michoacán - Morelia/Tarímbaro, Michoacán
 http://154.38.167.185:8040/;
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88337/images/logod.png",STEREO 100.3 (Hermosillo) - 100.3 FM - XHSD-FM - Uniradio - Hermosillo, Sonora
+https://streamingcwsradio30.com:7026/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24567/images/logog.jpg",STEREO CIEN 100.1 (CDMX) - 100.1 FM - XHMM-FM - NRM Comunicaciones - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
 
@@ -1931,6 +1976,9 @@ https://cast.zuperdns.net/8018/stream/
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90986/images/logod.png",STEREO SALTILLO 93.5 (Saltillo) - 93.5 FM - XHQC-FM - Multimedios Radio - Saltillo, Coahuila
 https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88358/images/logod.jpg",STEREO UNO 100.3 (Mazatlán) - 100.3 FM - XHZS-FM - Luz Network - Mazatlán, Sinaloa
+https://audiostreaming.luz.network/stream/13/
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s190003/images/logod.png",STEREOREY 100.9 (Aguascalientes) - 100.9 FM - XHCAA-FM - Radio Universal - Aguascalientes, Aguascalientes
 https://hls.gvstream.live/radiouniversal/life1009.stream/playlist.m3u8
@@ -2951,51 +2999,3 @@ https://1a-party.radionetz.de/1a-party.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-pop_600x600.jpg",- 1 A - Pop von 1A Radio
 https://1a-pop.radionetz.de/1a-pop.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-pop_600x600.jpg",- 1 A - Pop von 1A Radio
-https://1a-pop.radionetz.de/1a-pop.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-relax_600x600.jpg",- 1 A - Relax von 1A Radio
-https://1a-relax.radionetz.de/1a-relax.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-relax_600x600.jpg",- 1 A - Relax von 1A Radio
-https://1a-relax.radionetz.de/1a-relax.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-rock_600x600.jpg",- 1 A - Rock von 1A Radio
-https://1a-rock.radionetz.de/1a-rock.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-rock_600x600.jpg",- 1 A - Rock von 1A Radio
-https://1a-rock.radionetz.de/1a-rock.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-schlager-gold_600x600.jpg",- 1 A - Schlager Gold von 1A Radio
-https://1a-schlagergold.radionetz.de/1a-schlagergold.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-schlager-gold_600x600.jpg",- 1 A - Schlager Gold von 1A Radio
-https://1a-schlagergold.radionetz.de/1a-schlagergold.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-schlager-kult_600x600.jpg",- 1 A - Schlager Kult von 1A Radio
-https://1a-schlagerkult.radionetz.de/1a-schlagerkult.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-schlager_600x600.jpg",- 1 A - Schlager von 1A Radio
-https://1a-schlager.radionetz.de/1a-schlager.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-schlager_600x600.jpg",- 1 A - Schlager von 1A Radio
-https://1a-schlager.radionetz.de/1a-schlager.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-volksmusik_600x600.jpg",- 1 A - Volksmusik von 1A Radio
-https://1a-volksmusik.radionetz.de/1a-volksmusik.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-volksmusik_600x600.jpg",- 1 A - Volksmusik von 1A Radio
-https://1a-volksmusik.radionetz.de/1a-volksmusik.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-volksmusik_600x600.jpg",- 1 A - Volksmusik von 1A Radio
-https://1a-volksmusik.radionetz.de/1a-volksmusik.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-volksmusik_600x600.jpg",- 1 A - Volksmusik von 1A Radio
-https://1a-volksmusik.radionetz.de/1a-volksmusik.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-weihnachten_600x600.jpg",- 1 A - Weihnachten von 1A Radio
-https://1a-weihnachten.radionetz.de/1a-weihnachten.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-weihnachten_600x600.jpg",- 1 A - Weihnachten von 1A Radio
-https://1a-weihnachten.radionetz.de/1a-weihnachten.aac
