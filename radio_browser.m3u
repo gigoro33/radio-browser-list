@@ -1539,9 +1539,6 @@ https://14093.live.streamtheworld.com:443/XHQTOAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa",MATCH 99.3 (CDMX) - 99.3 FM - XHPOP-FM - Grupo ACIR - Ciudad de México
 https://16603.live.streamtheworld.com:443/XHPOPFMAAC.aac
 
-#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s91393d.png",MAX 101 100.1 (Caborca) - 100.1 FM - XHCBR-FM - Grupo Radio Palacios - Caborca, Sonora
-
-
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s343938/images/logod.jpg",MAXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz
 https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8
 
@@ -2999,3 +2996,6 @@ https://1a-party.radionetz.de/1a-party.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-pop_600x600.jpg",- 1 A - Pop von 1A Radio
 https://1a-pop.radionetz.de/1a-pop.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-pop_600x600.jpg",- 1 A - Pop von 1A Radio
+https://1a-pop.radionetz.de/1a-pop.mp3
