@@ -897,9 +897,6 @@ https://strcdn.klm99.com/8132/stream
 #EXTINF:1 radio="true" tvg-logo="",FM BAND NEWS 89.5
 https://streaming01.shockmedia.com.ar:10486/
 
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90995/images/logod.png",FM CENTRO 100.3 (Apizaco) - 100.3 FM - XHXZ-FM - Apizaco, Tlaxcala
-
-
 #EXTINF:1 radio="true" tvg-logo="https://ceresdiario.com/home/wp-content/uploads/2019/02/cropped-logo-ceresdiarioss-1-32x32.jpg",FM CERES  98.7
 https://streaming.escuchanosonline.com/8410/stream
 
@@ -2999,3 +2996,6 @@ https://1a-pop.radionetz.de/1a-pop.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-pop_600x600.jpg",- 1 A - Pop von 1A Radio
 https://1a-pop.radionetz.de/1a-pop.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-relax_600x600.jpg",- 1 A - Relax von 1A Radio
+https://1a-relax.radionetz.de/1a-relax.mp3
