@@ -1368,6 +1368,12 @@ https://stream.zeno.fm/wy9eauldjwavv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gkyy0bFR/lareinadelasierra.png",LA REINA DE LA SIERA 99.1 (Nacozari de García) - 99.1 FM - XHNZI-FM - Grupo Radio Guaymas - Nacozari de García, Sonora
 https://sp5.servidorrprivado.com/8064/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67bf4daa49c378be5ab58091",LA REVERENDA 100.5 (Ciudad del Carmen) - 100.5 FM - XHBCC-FM - Corporativo Rivas - Ciudad del Carmen, Campeche
+
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67bf4daa49c378be5ab58091",LA REVERENDA 100.5 (Ciudad del Carmen) - 100.5 FM - XHBCC-FM - Corporativo Rivas - Ciudad del Carmen, Campeche
+
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jqn1hWBn/lasabrosita925.jpg",LA SABROSITA 92.5 (Ciudad Victoria) - 92.5 FM - XHCCCN-FM - Grupo Radio Alegría - Ciudad Victoria, Tamaulipas
 https://pedro.spressweb.com:8000/radio.mp3
 
@@ -1649,6 +1655,9 @@ https://stream.zeno.fm/smm679phup8uv
 
 #EXTINF:1 radio="true" tvg-logo="",Radio 70 80 90 Marche
 https://rblive.it:8020/radio.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/6pSFj4dT/radioactiva.png",RADIO ACTIVA 100.5 (Yuriria) - 100.5 FM - XHSCBW-FM - Yuririapundaro 104.7, A.C. - Yuriria, Guanajuato
+https://stream.zeno.fm/76au7xvuvxhvv
 
 #EXTINF:1 radio="true" tvg-logo="https://activafm.com.mx/assets/images/logos/activa-hermosillo.png",RADIO ACTIVA 89.7 (Hermosillo) - 89.7 FM - XHEDL-FM - Grupo RADIO SA - Hermosillo, Sonora
 https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8
@@ -1982,6 +1991,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.a
 
 #EXTINF:1 radio="true" tvg-logo="http://img.sedoparking.com/templates/logos/sedo_logo.png",super nova trzebnica
 http://ic1.smcdn.pl/1510-1.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/PfRb8bhf/superstereo.png",SUPER STEREO 100.5 (Tula) - 100.5 FM - XHIDO-FM - NRM Comunicaciones - Tula de Allende, Hidalgo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHIDOFMGAVCAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://techno.fm/favicon.ico",Techno - FM - Channel
 https://stream.techno.fm/radio1-320k.mp3
@@ -2987,15 +2999,3 @@ https://1a-oldies.radionetz.de/1a-oldies.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-party_600x600.jpg",- 1 A - Party von 1A Radio
 https://1a-party.radionetz.de/1a-party.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-party_600x600.jpg",- 1 A - Party von 1A Radio
-https://1a-party.radionetz.de/1a-party.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-pop_600x600.jpg",- 1 A - Pop von 1A Radio
-https://1a-pop.radionetz.de/1a-pop.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-pop_600x600.jpg",- 1 A - Pop von 1A Radio
-https://1a-pop.radionetz.de/1a-pop.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-relax_600x600.jpg",- 1 A - Relax von 1A Radio
-https://1a-relax.radionetz.de/1a-relax.mp3
