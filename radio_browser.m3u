@@ -990,9 +990,6 @@ https://stream.zeno.fm/1ozriqxnwr0uv
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/278/hits-fm-1045.8f8d4bf8.png",HITS FM (Chihuahua) - Online - www.mmradio.com - Multimedios Radio - Chihuahua, Chihuahua
 https://mdstrm.com/audio/672cf08df19248c08339a8f4/icecast.audio
 
-#EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/b9/2a/b92a755c02d874120bd58a42c583dd01.png",HORIZONTE 107.9 (CDMX) - 107.9 FM - XHIMR-FM - Instituto Mexicano de la Radio (IMER) - Ciudad de México
-
-
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s50611/images/logod.png",IBERO 90.9 (CDMX) - 90.9 FM - XHUIA-FM - Universidad Iberoamericana - Ciudad de México
 http://noasrv.caster.fm:10182/live
 
@@ -1148,6 +1145,9 @@ https://cast4.my-control-panel.com/proxy/televiso/comadremid
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sx6zxk5G/lacoyotera.jpg",LA COYOTERA 102.3 (GDL) - 102.3 FM - XHSCDQ-FM - Comunica-Acción y Cultura del Occidente de México, A.C. - Guadalajara, Jalisco
 https://streaming.servicioswebmx.com:7058/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jd3nT1nJ/lafavorita.png",LA FAVORITA 88.1 (Chalcatongo) - 88.1 FM - XHÑUC-FM - Ñucuaha, A.C. - Chalcatongo de Hidalgo, Oaxaca
+https://stream9.mexiserver.com:8096/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87815/images/logod.png",LA FIERA (Veracruz) - 94.1 FM - XHHV-FM - Grupo Pazos - Veracruz, Veracruz
 https://sg.centrocibernetico.com/lafiera
@@ -1427,9 +1427,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEITEAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s339780/images/logod.png",LA VOZ 94.7 (Laguna) - 94.7 FM - XHTJ-FM - GPS Media / La Voz Radio - Gómez Palacio, Durango/Torreón, Coahuila
 https://stream.zeno.fm/3mlkhk5d7h0uv
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/QdRhD2gX/lavozdelasierrajuarezfm.png",LA VOZ DE LA SIERRA JUÁREZ 88.3 (Guelatao de Juárez) - 88.3 FM - XHGJO-FM - Instituto Nacional de los Pueblos Indígenas (INPI) - Guelatao de Juárez, Oaxaca
-
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/tg05G1Fs/lavozdelpitic.png",LA VOZ DEL PITIC 88.1 (Hermosillo) - 88.1 FM - XHRMO-FM - Democracia y Deliberación Desértica, A.C. - Hermosillo, Sonora
 https://s5.mexside.net:8080/stream
@@ -1892,6 +1889,12 @@ https://tv.radiohosting.online:9484/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/65tD4f54/radioujed.png",RADIO UNIVERSIDAD 100.5 (Durango) - 100.5 FM - XHHD-FM - Universidad Juárez del Estado de Durango (UJED) - Durango, Durango
 https://streaming.radio.ujed.mx/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/7Y2jBZbq/radiouniversidad1053.png",RADIO UNIVERSIDAD 105.3 (Chihuahua) - 105.3 FM - XHRU-FM - Universidad Autónoma de Chihuahua - Chihuahua, Chihuahua
+https://stream.zeno.fm/e2px6k3kwzzuv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/mDmmr0DS/radiouniversidad881.png",RADIO UNIVERSIDAD 88.1 (Chihuahua) - 88.1 FM - XHCPDB-FM - Universidad Autónoma de Chihuahua - Chihuahua, Chihuahua
+https://stream.zeno.fm/b55avvu0x1zuv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s47266/images/logog.png",RADIO UNIVERSIDAD 89.5 (Querétaro) - 89.5 FM - XHUAQ-FM - Universidad Autónoma de Querétaro - Querétaro, Querétaro
 https://estaciones.uaq.mx:8000/radio.mp3
@@ -2996,6 +2999,3 @@ https://1a-chillout.radionetz.de/1a-chillout.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-chillout_600x600.jpg",- 1 A - Chillout von 1A Radio
 https://1a-chillout.radionetz.de/1a-chillout.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-christmas_600x600.jpg",- 1 A - Christmas on Radio
-https://1a-christmas.radionetz.de/1a-christmas.aac
