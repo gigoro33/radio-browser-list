@@ -687,6 +687,9 @@ http://ssc.cnwks.ws:8365/;
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/3Nd7zbYG/elviejon881.png",EL VIEJÓN 88.1 (Tantoyuca) - 88.1 FM - XHCCCR-FM - Grupo Franco Comunicaciones del Norte - Tantoyuca, Veracruz
 https://sp04.servidorrprivado.com:7037/sid=1
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/65DjGm9x/elviejon917.png",EL VIEJÓN 91.7 (El Salto) - 91.7 FM - XHCCAX-FM - Grupo Franco Comunicaciones del Norte - El Salto, Durango
+
+
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/746/la-poderosa-983-fm.1b5f0b73.png",EL VIEJÓN 98.3 (San Pedro) - 98.3 FM - XHBF-FM - GPS Media - San Pedro, Coahuila
 https://stream.zeno.fm/pwezjsgefu9tv
 
@@ -2996,6 +2999,3 @@ https://1a-90er.radionetz.de/1a-90er.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-charts_600x600.jpg",- 1 A - Charts von 1A Radio
 https://1a-charts.radionetz.de/1a-charts.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-charts_600x600.jpg",- 1 A - Charts von 1A Radio
-https://1a-charts.radionetz.de/1a-charts.aac
