@@ -688,7 +688,7 @@ http://ssc.cnwks.ws:8365/;
 https://sp04.servidorrprivado.com:7037/sid=1
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/65DjGm9x/elviejon917.png",EL VIEJÓN 91.7 (El Salto) - 91.7 FM - XHCCAX-FM - Grupo Franco Comunicaciones del Norte - El Salto, Durango
-
+https://sp2.servidorrprivado.com:9961/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/746/la-poderosa-983-fm.1b5f0b73.png",EL VIEJÓN 98.3 (San Pedro) - 98.3 FM - XHBF-FM - GPS Media - San Pedro, Coahuila
 https://stream.zeno.fm/pwezjsgefu9tv
@@ -1478,6 +1478,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_GDLAAC.a
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90179/images/logod.png",LOS40 104.1 (Xalapa) - 104.1 FM - XHGR-FM - Cuatro Media Telecomunicaciones - Xalapa, Veracruz
 https://streaming.servicioswebmx.com/8138/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90138/images/logod.png",LOS40 107.5 (Córdoba) - 107.5 FM - XHKG-FM - Grupo Radio Cañón - Córdoba, Veracruz
+https://streaming.servicioswebmx.com/8260/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90347/images/logod.png",LOS40 88.1 (Zamora) - 88.1 FM - XHZN-FM - Grupo Radio Zamora / Cadena RASA - Zamora, Michoacán
 https://stream.zeno.fm/071em957am8uv
@@ -2996,6 +2999,3 @@ https://1a-90er.radionetz.de/1a-90er.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-90er_600x600.jpg",- 1 A - 90er von 1A Radio
 https://1a-90er.radionetz.de/1a-90er.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-charts_600x600.jpg",- 1 A - Charts von 1A Radio
-https://1a-charts.radionetz.de/1a-charts.mp3
