@@ -462,6 +462,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHQQ_FMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-bandolera-92-3-fm-ciudad-del-carmen-mexico.webp",BANDOLERA 92.3 (Ciudad del Carmen) - 92.3 FM - XHPCDC-FM - Grupo Audiorama Comunicaciones / NRM Comunicaciones - Ciudad del Carmen, Campeche
 https://cdn1.onstream.audio/proxy/xhpcdc/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logod.png",BBC RADIO 1 - The biggest new pop and all-day vibes
+http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s347238/images/logod.png",BBC RADIO 1 DANCE UK: The biggest current, future and classic dance vibes. Londres, Inglaterra
 http://151.80.56.90:8090/bbc_radio_one_dance.aac
 
@@ -552,8 +555,14 @@ https://stream.zeno.fm/af12yk53ud0uv
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s90766d.png",CANDELA 91.1 (Uruapan) - 91.1 FM - XHFN-FM - Cadena RASA - Uruapan, Michoacán
 http://sp3.servidorrprivado.com:3334/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logod.jpg",CAPITAL - The UK's No.1 Hit Music Station
+https://media-ssl.musicradio.com/CapitalUK
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s333271/images/logod.jpg",CAPITAL ANTHEMS UK: The Songs Capital Made Famous - Londres, Inglaterra
 https://media-ssl.musicradio.com/CapitalAnthemsMP3
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logod.jpg",CAPITAL DANCE: The UK's Official Dance Station
+https://media-ssl.musicradio.com/CapitalDance
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logod.jpg",CAPITAL DANCE: The UK's Official Dance Station - Londres, Inglaterra
 https://media-ssl.musicradio.com/CapitalDance
@@ -2990,12 +2999,3 @@ https://1a-80er.radionetz.de/1a-80er.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-80er_600x600.jpg",- 1 A - 80er von 1A Radio
 https://1a-80er.radionetz.de/1a-80er.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-90er_600x600.jpg",- 1 A - 90er von 1A Radio
-https://1a-90er.radionetz.de/1a-90er.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-90er_600x600.jpg",- 1 A - 90er von 1A Radio
-https://1a-90er.radionetz.de/1a-90er.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-90er_600x600.jpg",- 1 A - 90er von 1A Radio
-https://1a-90er.radionetz.de/1a-90er.mp3
