@@ -618,6 +618,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEWGAMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88438/images/logod.png",CRYSTAL 93.3 (Toluca) - 93.3 FM - XHEDT-FM - Grupo Siete - Toluca, Estado de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEDTFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/335/radio-educativa-965-fm.a3d3ed33.png",CULTURA 96.5 FM (CDMX) - 96.5 FM - XHEP-FM - Radio Educación - Ciudad de México
+
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/wxWYZkBk/cumbiasinmortalesradio.png",CUMBIAS INMORTALES RADIO (MTY) - Online - www.cumbiasinmortales.com - Grupo Digital Retroland - Monterrey, Nuevo León
 https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen
 
@@ -1503,6 +1506,9 @@ https://cast.zuperdns.net/8030/stream/
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s186233/images/logod.jpg",LOS40 96.9 (Mérida) - 96.9 FM - XHUL-FM - Cadena RASA - Mérida, Yucatán
 https://stream.zeno.fm/44t6wqmc4p8uv
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90527/images/logod.png",LOS40 98.7 (Mazatlán) - 98.7 FM - XHVOX-FM - Grupo Radio Cañón - Mazatlán, Sinaloa
+https://streaming.servicioswebmx.com/8276/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s185135/images/logod.jpg",LOS40 98.9 (Veracruz) - 98.9 FM - XHWB-FM - Radiópolis - Boca del Río, Veracruz
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
 
@@ -1970,6 +1976,9 @@ https://io.radyoph.com:8020/katribu
 
 #EXTINF:1 radio="true" tvg-logo="",Rai Radio 1 Sport
 http://icestreaming.rai.it/13.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24573d.png",REACTOR 105.7 (CDMX) - 105.7 FM - XHOF-FM - IMER - Ciudad de México
+
 
 #EXTINF:1 radio="true" tvg-logo="https://cincoradio.com.mx/wp-content/themes/zox-news-child/img/red.png",RED CIUDADANA 1120 (Puebla) - 1120 AM - XEPOP-AM - Cinco Radio - Puebla, Puebla
 https://sg.centrocibernetico.com/formula1120am
@@ -2990,12 +2999,3 @@ https://1a-70er.radionetz.de/1a-70er.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-70er_600x600.jpg",- 1 A - 70er von 1A Radio
 https://1a-70er.radionetz.de/1a-70er.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-70er_600x600.jpg",- 1 A - 70er von 1A Radio
-https://1a-70er.radionetz.de/1a-70er.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-80er_600x600.jpg",- 1 A - 80er von 1A Radio
-https://1a-80er.radionetz.de/1a-80er.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-80er_600x600.jpg",- 1 A - 80er von 1A Radio
-https://1a-80er.radionetz.de/1a-80er.mp3
