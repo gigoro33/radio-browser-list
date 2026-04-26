@@ -219,6 +219,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR16_s01AAC.
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bc5ed6ac7977ca1c9302285",ROCK EN ESPAÑOL: Rock de México, España y Argentina
 https://29309.live.streamtheworld.com:443/ACIR20_S01AAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/X7Nh28P1/sabrosita.png",SABROSITA: La Más Caliente
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63ee5ccb23c81aa16510435a",SMOOTH JAZZ: Sax, piano, guitarra y voz: cool jazz
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR22_s01AAC.aac
 
@@ -1311,6 +1314,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s32744/images/logog.jpg",LA MERA MERA 980 (Los Ángeles) - 980 AM - KFWB - Lotus Communications - Los Ángeles, California, EUA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFWBAMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/nzVc6sCn/lamexicana.png",LA MEXICANA 104.9 (Ciudad Guzmán) - 104.9 FM - XHMEX-FM - Ciudad Guzmán, Jalisco
+https://stream.zeno.fm/drhfmwa3w2quv
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90511/images/logod.png",LA MEXICANA 570 (Oaxaca) - 570 AM - XHEOA-FM - Grupo AS Comunicación - Oaxaca, Oaxaca
 https://stream.zeno.fm/0foxzyrupdutv
 
@@ -2072,6 +2078,9 @@ https://hls.gvstream.live/radiouniversal/life1009.stream/playlist.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="",STEREOREY: La Máxima Dimensión del Radio.
 https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88130d.png",SUPER ESTELAR 107.9 (Piedras Negras) - 107.9 FM - XHCP-FM - Grupo Radio Zócalo - Piedras Negras, Coahuila
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPCFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="http://img.sedoparking.com/templates/logos/sedo_logo.png",super nova trzebnica
 http://ic1.smcdn.pl/1510-1.mp3
@@ -2990,12 +2999,3 @@ https://1a-60er.radionetz.de/1a-60er.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg",- 1 A - 60er von 1A Radio
 https://1a-60er.radionetz.de/1a-60er.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-70er_600x600.jpg",- 1 A - 70er von 1A Radio
-https://1a-70er.radionetz.de/1a-70er.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-70er_600x600.jpg",- 1 A - 70er von 1A Radio
-https://1a-70er.radionetz.de/1a-70er.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-70er_600x600.jpg",- 1 A - 70er von 1A Radio
-https://1a-70er.radionetz.de/1a-70er.mp3
