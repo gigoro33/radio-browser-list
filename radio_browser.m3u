@@ -21,6 +21,9 @@ http://stream4.nadaje.com:15476/radiobialystok
 #EXTINF:1 radio="true" tvg-logo="https://lh6.ggpht.com/dU5W-XpgWgEgtIt3Ho990I9bre5IZTq7AK2ffSt_bXTDTNQ6eUkTG-WqERh6c_EHPb8=w300",psyradio * fm - progressive
 http://streamer.psyradio.org:8010/;listen.mp3
 
+#EXTINF:1 radio="true" tvg-logo="",radio brume
+https://www.radioking.com/play/brume-campus-lyon/546695
+
 #EXTINF:1 radio="true" tvg-logo="https://www.radiobruno.it/wp-content/uploads/2023/10/logo-148-90-black1.png",Radio Bruno Pentasport Fiorentina
 https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio
 
@@ -2993,9 +2996,6 @@ https://1a-2000er.radionetz.de/1a-2000er.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg",- 1 A - 60er von 1A Radio
 https://1a-60er.radionetz.de/1a-60er.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg",- 1 A - 60er von 1A Radio
-https://1a-60er.radionetz.de/1a-60er.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg",- 1 A - 60er von 1A Radio
 https://1a-60er.radionetz.de/1a-60er.mp3
