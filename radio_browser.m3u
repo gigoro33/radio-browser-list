@@ -2091,6 +2091,9 @@ http://ic1.smcdn.pl/1510-1.mp3
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/PfRb8bhf/superstereo.png",SUPER STEREO 100.5 (Tula) - 100.5 FM - XHIDO-FM - NRM Comunicaciones - Tula de Allende, Hidalgo
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHIDOFMGAVCAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/nhyjdX7P/superstereomiled1047.png",SUPER STEREO MILED 104.7 (Atlacomulco) - 104.7 FM - XHRLK-FM - Grupo Miled - Atlacomulco, Estado de México
+https://stereoatlaco-cybertec.radioca.st/stream.mp3
+
 #EXTINF:1 radio="true" tvg-logo="https://techno.fm/favicon.ico",Techno - FM - Channel
 https://stream.techno.fm/radio1-320k.mp3
 
@@ -2996,6 +2999,3 @@ https://1a-2000er.radionetz.de/1a-2000er.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg",- 1 A - 60er von 1A Radio
 https://1a-60er.radionetz.de/1a-60er.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg",- 1 A - 60er von 1A Radio
-https://1a-60er.radionetz.de/1a-60er.mp3
