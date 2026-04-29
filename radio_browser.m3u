@@ -1614,6 +1614,12 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a0112844d3c94ecf11dd
 #EXTINF:1 radio="true" tvg-logo="https://veracruz.maximafm.com.mx/assets/images/logos/maximafm-veracruz.png",MÁXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz.
 https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://www.rmc2.net/wp-content/uploads/2020/08/06_BBA_1200px.jpg",MC2 Buddha Bar Collection
+https://stream.rcs.revma.com/m5819rrayk3vv
+
+#EXTINF:1 radio="true" tvg-logo="https://www.rmc2.net/wp-content/uploads/2020/08/08_CdM_1200px.jpg",MC2 Cafè Del Mar Collection
+https://n13a-eu.rcs.revma.com/a2n83wxayk3vv?rj-ttl=5&rj-tok=AAABndIfXksAiTXrqw2SmfAauA
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6542c38fa019d6dc1648908c",MEGA 96.3 (Los Ángeles) - 96.3 FM - KXOL-FM - Spanish Broadcasting System - Los Ángeles, California, EUA
 https://liveaudio.lamusica.com/LA_KXOL_icy
 
@@ -1673,6 +1679,9 @@ https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s18771/images/logod.jpg",ONDAS DE VIDA 1440 (CDMX) - 1440 AM - XEEST-AM - Grupo Siete - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24589d.png",OPUS 94 94.5 (CDMX) - 94.5 FM - XHIMER-FM - IMER - Ciudad de México
+
 
 #EXTINF:1 radio="true" tvg-logo="https://radio-en-vivo-mx.com/storage/radios/14663/20749/conversions/orbita-digital-106-1-lg.webp",ORBITA DIGITAL 106.1 (Juchitán) - 106.1 FM - XHGCY-FM - Guna Caa Yuni Xhiña, A.C. - Juchitán, Oaxaca
 https://sp3.servidorrprivado.com:10854/stream/1/
@@ -1766,6 +1775,9 @@ https://cast6.asurahosting.com/proxy/radchap0mx/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/651317ee45c6e3ff4526f0eb",RADIO CHILANGO 105.3 (CDMX) - 105.3 FM - XHINFO-FM - Capital Digital - Ciudad de México
 https://stream.radio.co/s938b68214/listen
+
+#EXTINF:1 radio="true" tvg-logo="https://public-rf-upload.minhawebradio.net/250444/logo/c9f6c0e472e2023c1d2cf8744f78a973.png",Rádio Cidade Maracaju 104.3 FM
+https://servidor33-5.brlogic.com:7078/live
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-costa-103-9-fm-autlan-de-navarro-mexico.webp",RADIO COSTA 103.9 (Autlán) - 103.9 FM / 780 AM - XHLD-FM / XELD-AM - Autlán, Jalisco
 https://streaming.shoutcast.com/xhld-radio-costa
@@ -2987,15 +2999,3 @@ https://0n-volksmusik.radionetz.de/0n-volksmusik.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-weihnachten_600x600.jpg",- 0 N - Weihnachten on Radio
 https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-weihnachten_600x600.jpg",- 0 N - Weihnachten on Radio
-https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-2000er_600x600.jpg",- 1 A - 2000er von 1A Radio
-https://1a-2000er.radionetz.de/1a-2000er.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-2000er_600x600.jpg",- 1 A - 2000er von 1A Radio
-https://1a-2000er.radionetz.de/1a-2000er.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.1aradio.com/logos/1a-60er_600x600.jpg",- 1 A - 60er von 1A Radio
-https://1a-60er.radionetz.de/1a-60er.aac
