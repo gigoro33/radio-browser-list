@@ -1680,9 +1680,6 @@ https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s18771/images/logod.jpg",ONDAS DE VIDA 1440 (CDMX) - 1440 AM - XEEST-AM - Grupo Siete - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac
 
-#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24589d.png",OPUS 94 94.5 (CDMX) - 94.5 FM - XHIMER-FM - IMER - Ciudad de México
-
-
 #EXTINF:1 radio="true" tvg-logo="https://radio-en-vivo-mx.com/storage/radios/14663/20749/conversions/orbita-digital-106-1-lg.webp",ORBITA DIGITAL 106.1 (Juchitán) - 106.1 FM - XHGCY-FM - Guna Caa Yuni Xhiña, A.C. - Juchitán, Oaxaca
 https://sp3.servidorrprivado.com:10854/stream/1/
 
@@ -2996,6 +2993,9 @@ https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-volksmusik_600x600.jpg",- 0 N - Volksmusik on Radio
 https://0n-volksmusik.radionetz.de/0n-volksmusik.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-weihnachten_600x600.jpg",- 0 N - Weihnachten on Radio
+https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-weihnachten_600x600.jpg",- 0 N - Weihnachten on Radio
 https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3
