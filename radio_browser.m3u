@@ -1314,6 +1314,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGTAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ee43a62c4c516799194024d",LA MEJOR FM 97.7 (CDMX) - 97.7 FM - XERC-FM - MVS Radio - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91973/images/logod.png",LA MEJOR FM 99.9 (Puerto Vallarta) - 99.9 FM - XHCJX-FM - MVS Radio - Puerto Vallarta, Jalisco
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJXAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s32744/images/logog.jpg",LA MERA MERA 980 (Los Ángeles) - 980 AM - KFWB - Lotus Communications - Los Ángeles, California, EUA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KFWBAMAAC.aac
 
@@ -1520,6 +1523,9 @@ https://streaming.servicioswebmx.com/8276/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s185135/images/logod.jpg",LOS40 98.9 (Veracruz) - 98.9 FM - XHWB-FM - Radiópolis - Boca del Río, Veracruz
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90253/images/logod.png",LOS40 99.9 (Agua Prieta) - 99.9 FM - XHNNO-FM - Grupo Radiofónico ZER - Agua Prieta, Sonora
+https://live.zuperdns.net/9990/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/FH9chpLG/xhpply.jpg",LOS40 Playa del Carmen - 96.1 FM - XHPPLY-FM - CJR Radio - Playa del Carmen, Quintana Roo
 http://stream.zeno.fm/8pnsdde1sy8uv
@@ -1868,6 +1874,9 @@ https://broadcast.radio.ipn.mx/RadioIPN
 
 #EXTINF:1 radio="true" tvg-logo="",Radio Kontinental
 http://stream01.radiocon.ru:8000/hum_tbk
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Hk24jyjt/radiolaguadalupanaesne.png",RADIO LA GUADALUPANA ESNE 620 (CDMX) - 620 AM - XENK-AM - ESNE Radio - Ciudad de México
+
 
 #EXTINF:1 radio="true" tvg-logo="https://www.wix.com/favicon.ico",Radio la Sureña
 https://stream-149.zeno.fm/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0xNDkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidHZscG8wZmlSdk9NcFZMeThWckR5ZyIsImlhdCI6MTc2ODQ1MTc0MywiZXhwIjoxNzY4NDUxODAzfQ.3B1uWl4kdk25PXGgpquLR-2ZAb7Jm1NgYsj3k83Cahw
@@ -2990,12 +2999,3 @@ https://0n-top40.radionetz.de/0n-top40.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-volksmusik_600x600.jpg",- 0 N - Volksmusik on Radio
 https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-volksmusik_600x600.jpg",- 0 N - Volksmusik on Radio
-https://0n-volksmusik.radionetz.de/0n-volksmusik.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-weihnachten_600x600.jpg",- 0 N - Weihnachten on Radio
-https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-weihnachten_600x600.jpg",- 0 N - Weihnachten on Radio
-https://0n-weihnachten.radionetz.de/0n-weihnachten.mp3
