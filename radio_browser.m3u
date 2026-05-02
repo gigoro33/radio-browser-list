@@ -1464,6 +1464,9 @@ https://stream.zeno.fm/0q28d4beczctv
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0ca937ec97a064f3322cd",LA Z 107.3 (CDMX) - 107.3 FM - XEQR-FM - Grupo Radio Centro - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s91092d.png",LA Z 96.3 (Morelia) - 96.3 FM - XHCR-FM - Grupo Trenu - Morelia, Michoacán
+https://app.sonicpanelradio.com/8288/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/HnhPXfQG/lazapoteca.jpg",LA ZAPOTECA 88.1 (San Baltazar Chichicápam) - 88.1 FM - XHSCGB-FM - La Esperanza Zapoteca, A.C. - San Baltazar Chichicápam, Oaxaca
 https://sp3.servidorrprivado.com:10840/stream
 
@@ -1874,9 +1877,6 @@ https://broadcast.radio.ipn.mx/RadioIPN
 
 #EXTINF:1 radio="true" tvg-logo="",Radio Kontinental
 http://stream01.radiocon.ru:8000/hum_tbk
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Hk24jyjt/radiolaguadalupanaesne.png",RADIO LA GUADALUPANA ESNE 620 (CDMX) - 620 AM - XENK-AM - ESNE Radio - Ciudad de México
-
 
 #EXTINF:1 radio="true" tvg-logo="https://www.wix.com/favicon.ico",Radio la Sureña
 https://stream-149.zeno.fm/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0xNDkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidHZscG8wZmlSdk9NcFZMeThWckR5ZyIsImlhdCI6MTc2ODQ1MTc0MywiZXhwIjoxNzY4NDUxODAzfQ.3B1uWl4kdk25PXGgpquLR-2ZAb7Jm1NgYsj3k83Cahw
