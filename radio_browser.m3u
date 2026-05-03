@@ -90,6 +90,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/466/889-noticias.62cade58.png",88.9 NOTICIAS: Información Que Sirve. Tráfico y Clima cada 15 Minutos
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC_SC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5c769b2fe7770a23546c3d7f",90S DANCE by Mix: Dance de los 90
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR11_s01AAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4dmFn1tf/alfa.png",ALFA: Donde Todo Nace
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC.aac
 
@@ -1266,11 +1269,17 @@ https://streaming.servicioswebmx.com/8252/stream
 #EXTINF:1 radio="true" tvg-logo="https://nexostreaming.com/apgruporadio/wp-content/uploads/2024/11/Logotipo-La-KeBuena-El-Fuerte-Sinaloa-98.5-FM_Mesa-de-trabajo-1-copia-qhuu1v2zoi41zbu3dbcu40ks7kj4cmrqojwk9vla4w.png",LA KEBUENA 98.5 FM (El Fuerte) - 98.5 FM - XHCCCD-FM - Ap Grupo Radio - El Fuerte, Sinaloa
 https://stream.soyradioinc.com:8274/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a8b41f9b797b57e725f35e",LA LUPE 105.3 (MTY) - 105.3 FM - XHLUPE-FM - Multimedios Radio - Monterrey, Nuevo León
+https://mmradio-lb.mmlabs.mx/xhlupefm
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66f1aad6225e694a7cd56a96",LA LUPE 105.7 (Veracruz) - 105.7 FM - XHPUGC-FM - Multimedios Radio - Veracruz, Veracruz
 https://mdstrm.com/audio/67378a1158fddafa2d92caf9/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62aa6dddc3d9660566bd74dc",LA LUPE 88.3 (Tepic) - 88.3 FM - XHPCTN-FM - Multimedios Radio - Tepic, Nayarit
 https://mdstrm.com/audio/672cfce4fdabb2c0423a9937/icecast.audio
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62aa82bef5cfcda6329f5772",LA LUPE 89.5 (Fortín) - 89.5 FM - XHFTI-FM - Multimedios Radio - Fortín de las Flores, Veracruz
+https://mdstrm.com/audio/672cec266ac145ede1027a7b/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91474/images/logod.png",LA LUPE 95.3 (Chetumal) - 95.3 FM - XHROO-FM - Multimedios Radio / Grupo SIPSE Radio - Chetumal, Quintana Roo
 https://cast4.asurahosting.com/proxy/radiocan/stream
@@ -1328,6 +1337,9 @@ https://stream.zeno.fm/0foxzyrupdutv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88037d.png",LA MEXICANA 91.3 (Aguascalientes) - 91.3 FM - XHPLA-FM - Radio Universal - Aguascalientes, Aguascalientes
 http://tunein.gvstream.net:9040/;
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/cCjWf28L/lamorenafm.png",LA MORENA FM 90.1 (Coatzacoalcos) - 90.1 FM - XHPEBC-FM - Coatzacoalcos, Veracruz
+https://sonicpanel.totalstreaming.net/8064/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fbNrF6cF/lamorrita953.png",LA MORRITA 95.3 (El Fuerte) - 95.3 FM - XHPFRT-FM - Luz Network - El Fuerte, Sinaloa
 https://audiostreaming.luz.network/stream/5/
@@ -1419,6 +1431,9 @@ https://stream.zeno.fm/wy9eauldjwavv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gkyy0bFR/lareinadelasierra.png",LA REINA DE LA SIERA 99.1 (Nacozari de García) - 99.1 FM - XHNZI-FM - Grupo Radio Guaymas - Nacozari de García, Sonora
 https://sp5.servidorrprivado.com/8064/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s343846/images/logog.jpg",LA SABROSITA 106.7 (Ciudad Melchor Múzquiz) - 106.7 FM - XHEPQ-FM - Grupo M Radio - Ciudad Melchor Múzquiz, Coahuila
+https://cast1.my-control-panel.com/proxy/sabrosita/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jqn1hWBn/lasabrosita925.jpg",LA SABROSITA 92.5 (Ciudad Victoria) - 92.5 FM - XHCCCN-FM - Grupo Radio Alegría - Ciudad Victoria, Tamaulipas
 https://pedro.spressweb.com:8000/radio.mp3
 
@@ -1433,6 +1448,9 @@ https://listen.mixlr.com/e84453b53ffa763e52deb4144497cd0a
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/nrCdQ3J3/lasupergrupera.png",LA SUPER GRUPERA 102.1 (Guaymas) - 102.1 FM - XHEPS-FM - 	Grupo Radio Guaymas - Guaymas, Sonora
 https://sp5.servidorrprivado.com/8062/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/V6ZGx52N/lasuperq.webp",LA SUPER Q 88.5 (Minatitlán) - 88.5 FM - XHAFQ-FM - ORM: Organización Radiofónica Mexicana - Minatitlán, Veracruz
+https://stream.zeno.fm/wlhenrv0whwuv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a8c99cfe9a2dcd3a8fb928",LA T GRANDE 990 (MTY) - 990 AM - XET-AM - Multimedios Radio - Monterrey, Nuevo León
 https://mdstrm.com/audio/672a602bce5982a130a01a1d/icecast.audio
@@ -1514,6 +1532,9 @@ https://stream.zeno.fm/071em957am8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s298290/images/logod.png",LOS40 88.5 (Monterrey) - 88.5 FM - XHWAG-FM - Radiópolis - Monterrey, Nuevo León
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MTYAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/66L07Bwy/los40mtz.jpg",LOS40 89.9 (Martínez de la Torre) - 89.9 FM - XHHU-FM - Grupo MS Multimedios - Martínez de la Torre, Veracruz
+http://cento02.mipanelradio.com/proxy/abadillo
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s141437/images/logod.png",LOS40 95.7 (Aguascalientes) - 95.7 FM - XHAGA-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
 https://cast.zuperdns.net/8030/stream/
@@ -1965,6 +1986,9 @@ https://stream.zeno.fm/cu717gz92hhvv
 #EXTINF:1 radio="true" tvg-logo="https://universidadefm.com.br/favicon.ico",Rádio Universidade 105.1 FM
 https://stm20.srvstm.com:7264/;?type=https&nocache=1
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/PrXxJ9wk/radiovariedades.jpg",RADIO VARIEDADES 103.5 (Los Mochis) - 103.5 FM - XHPNK-FM - Cadena OIR - Los Mochis, Sinaloa
+https://radios.blumhost.es/8126/;
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/g05KWy6r/radiovida.png",RADIO VIDA 100.1 (Ciudad Obregón) - 100.1 FM - XHCSAE-FM - Radio Vida MX - Ciudad Obregón, Sonora
 https://stream1.305stream.com/proxy/client362?mp=/stream
 
@@ -2063,6 +2087,9 @@ https://securestream.mxradio.xyz/chetumal/
 
 #EXTINF:1 radio="true" tvg-logo="",Solteros
 https://jpdofunk3.com.br/stream/solteros
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/vBYXvmWz/soyfmcoatzacoalcos.png",SOY FM 101.7 (Coatzacoalcos) - 101.7 FM - XHTD-FM - Valanci Media Group - Coatzacoalcos, Veracruz
+https://stream-158.zeno.fm/6f2bace3gd0uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/CKGB1bbR/soyfm.png",SOY FM 101.7 (Veracruz) - 101.7 FM - XHPR-FM - Valanci Media Group - Boca del Río, Veracruz
 https://stream.zeno.fm/uemgdeyam5zuv
@@ -2390,6 +2417,9 @@ https://strcdn.klm99.com/8116/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://enaradio.gr/wp-content/uploads/2017/07/cropped-big_png-2-192x192.png",ΕΝΑ 90.5
 https://rdst.win:48000/stream?type=.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gtgvgew3aexh.jpg",Ράδιο Μικρασιάτης
+
 
 #EXTINF:1 radio="true" tvg-logo="",диполь
 https://icecast-sibinformburo.cdnvideo.ru/dipolfm
@@ -2969,33 +2999,3 @@ https://0n-softpop.radionetz.de/0n-softpop.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-soft-pop_600x600.jpg",- 0 N - Soft Pop on Radio
 https://0n-softpop.radionetz.de/0n-softpop.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-soft-rock_600x600.jpg",- 0 N - Soft Rock on Radio
-https://0n-softrock.radionetz.de/0n-softrock.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-soft-rock_600x600.jpg",- 0 N - Soft Rock on Radio
-https://0n-softrock.radionetz.de/0n-softrock.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-soft-rock_600x600.jpg",- 0 N - Soft Rock on Radio
-https://0n-softrock.radionetz.de/0n-softrock.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-techno_600x600.jpg",- 0 N - Techno on Radio
-https://0n-techno.radionetz.de/0n-techno.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-techno_600x600.jpg",- 0 N - Techno on Radio
-https://0n-techno.radionetz.de/0n-techno.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-top-40_600x600.jpg",- 0 N - Top 40 on Radio
-https://0n-top40.radionetz.de/0n-top40.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-top-40_600x600.jpg",- 0 N - Top 40 on Radio
-https://0n-top40.radionetz.de/0n-top40.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-top-40_600x600.jpg",- 0 N - Top 40 on Radio
-https://0n-top40.radionetz.de/0n-top40.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-top-40_600x600.jpg",- 0 N - Top 40 on Radio
-https://0n-top40.radionetz.de/0n-top40.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-volksmusik_600x600.jpg",- 0 N - Volksmusik on Radio
-https://0n-volksmusik.radionetz.de/0n-volksmusik.mp3
