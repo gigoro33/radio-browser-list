@@ -2418,9 +2418,6 @@ https://strcdn.klm99.com/8116/stream
 #EXTINF:1 radio="true" tvg-logo="https://enaradio.gr/wp-content/uploads/2017/07/cropped-big_png-2-192x192.png",ΕΝΑ 90.5
 https://rdst.win:48000/stream?type=.mp3
 
-#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gtgvgew3aexh.jpg",Ράδιο Μικρασιάτης
-
-
 #EXTINF:1 radio="true" tvg-logo="",диполь
 https://icecast-sibinformburo.cdnvideo.ru/dipolfm
 
@@ -2999,3 +2996,6 @@ https://0n-softpop.radionetz.de/0n-softpop.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-soft-pop_600x600.jpg",- 0 N - Soft Pop on Radio
 https://0n-softpop.radionetz.de/0n-softpop.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-soft-rock_600x600.jpg",- 0 N - Soft Rock on Radio
+https://0n-softrock.radionetz.de/0n-softrock.mp3
