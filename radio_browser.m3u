@@ -333,6 +333,9 @@ http://edge4.peta.live365.net/b77280_128mp3
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-abc-deportes-92-1-fm-660-am-mexico.webp",ABC DEPORTES 660 (MTY) - 660 AM - XEFZ-AM - Grupo Radio Alegría - Monterrey, Nuevo León
 https://playerservices.streamtheworld.com/api/livestream-redirect/ABC_NOTICIAS_660AMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/5tg80w6Q/abcdeportes.png",ABC DEPORTES 92.1 (MTY) - 92.1 FM - XHGBO-FM - Grupo Radio Alegría - General Bravo, Nuevo León
+https://playerservices.streamtheworld.com/api/livestream-redirect/ABC_NOTICIAS_660AMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://grupoabcmedia.com/wp-content/uploads/2025/01/noticias.png",ABC NOTICIAS 1310 (MTY) - 1310 AM - XEVB-AM - Grupo Radio Alegría - Monterrey, Nuevo León
 https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AMAAC.aac
 
@@ -1038,6 +1041,9 @@ https://mdstrm.com/audio/64a44d807cb6630627ab0c82/live.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fRZCHPLh/Imagen-Radio-Veracruz.png",IMAGEN RADIO 92.5 (Veracruz) - 92.5 FM - XHQRV-FM - Grupo Imagen - Veracruz, Veracruz
 http://veracruz.radio.wnsol.com:8310/;stream.mp3
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s175886/images/logod.png",INFINITO 92.3 (Morelia) - 92.3 FM - XHLY-FM - Cadena RASA - Morelia, Michoacan
+https://stream.zeno.fm/0br8wwsuwchvv
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s175886/images/logod.png",INFINITO 92.3 (Morelia) - 92.3 FM - XHLY-FM - Cadena RASA - Morelia, Michoacán
 http://s4.mexside.net:7040/infinito
 
@@ -1290,6 +1296,9 @@ https://mdstrm.com/audio/672cec266ac145ede1027a7b/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91474/images/logod.png",LA LUPE 95.3 (Chetumal) - 95.3 FM - XHROO-FM - Multimedios Radio / Grupo SIPSE Radio - Chetumal, Quintana Roo
 https://cast4.asurahosting.com/proxy/radiocan/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s323162/images/logod.png",LA LUPE 99.9 (GDL) - 99.9 FM - XHKB-FM - Multimedios Radio - Guadalajara, Jalisco
+https://mdstrm.com/audio/6737875eb61ca2fa731a2891/icecast.audio
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-magnifica-95-5-fm-puebla-mexico.webp",LA MAGNÍFICA 95.5 (Puebla) - 95.5 FM - XHZT-FM - Tribuna Comunicación - Puebla, Puebla
 https://stream.zeno.fm/zskjbd7n200tv
 
@@ -1328,6 +1337,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGTAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ee43a62c4c516799194024d",LA MEJOR FM 97.7 (CDMX) - 97.7 FM - XERC-FM - MVS Radio - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87629/images/logod.png",LA MEJOR FM 99.9 (León) - 99.9 FM - XHSO-FM - MVS Radio - León, Guanajuato
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHSOFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91973/images/logod.png",LA MEJOR FM 99.9 (Puerto Vallarta) - 99.9 FM - XHCJX-FM - MVS Radio - Puerto Vallarta, Jalisco
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCJXAAC.aac
@@ -1910,6 +1922,9 @@ https://broadcast.radio.ipn.mx/RadioIPN
 
 #EXTINF:1 radio="true" tvg-logo="",Radio Kontinental
 http://stream01.radiocon.ru:8000/hum_tbk
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Hk24jyjt/radiolaguadalupanaesne.png",RADIO LA GUADALUPANA ESNE 620 (CDMX) - 620 AM - XENK-AM - ESNE Radio - Ciudad de México
+
 
 #EXTINF:1 radio="true" tvg-logo="https://www.wix.com/favicon.ico",Radio la Sureña
 https://stream-149.zeno.fm/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0xNDkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidHZscG8wZmlSdk9NcFZMeThWckR5ZyIsImlhdCI6MTc2ODQ1MTc0MywiZXhwIjoxNzY4NDUxODAzfQ.3B1uWl4kdk25PXGgpquLR-2ZAb7Jm1NgYsj3k83Cahw
@@ -2984,18 +2999,3 @@ https://0n-rock.radionetz.de/0n-rock.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-schlager-gold_600x600.jpg",- 0 N - Schlager Gold on Radio
 https://0n-schlagergold.radionetz.de/0n-schlagergold.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-schlager-gold_600x600.jpg",- 0 N - Schlager Gold on Radio
-https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-schlager-kult_600x600.jpg",- 0 N - Schlager Kult on Radio
-https://0n-schlagerkult.radionetz.de/0n-schlagerkult.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-schlager_600x600.jpg",- 0 N - Schlager on Radio
-https://0n-schlager.radionetz.de/0n-schlager.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-schlager_600x600.jpg",- 0 N - Schlager on Radio
-https://0n-schlager.radionetz.de/0n-schlager.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-smooth-jazz_600x600.jpg",- 0 N - Smooth Jazz on Radio
-https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3
