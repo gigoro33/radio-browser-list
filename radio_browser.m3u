@@ -1923,9 +1923,6 @@ https://broadcast.radio.ipn.mx/RadioIPN
 #EXTINF:1 radio="true" tvg-logo="",Radio Kontinental
 http://stream01.radiocon.ru:8000/hum_tbk
 
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Hk24jyjt/radiolaguadalupanaesne.png",RADIO LA GUADALUPANA ESNE 620 (CDMX) - 620 AM - XENK-AM - ESNE Radio - Ciudad de México
-
-
 #EXTINF:1 radio="true" tvg-logo="https://www.wix.com/favicon.ico",Radio la Sureña
 https://stream-149.zeno.fm/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0xNDkuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoidHZscG8wZmlSdk9NcFZMeThWckR5ZyIsImlhdCI6MTc2ODQ1MTc0MywiZXhwIjoxNzY4NDUxODAzfQ.3B1uWl4kdk25PXGgpquLR-2ZAb7Jm1NgYsj3k83Cahw
 
@@ -2999,3 +2996,6 @@ https://0n-rock.radionetz.de/0n-rock.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-schlager-gold_600x600.jpg",- 0 N - Schlager Gold on Radio
 https://0n-schlagergold.radionetz.de/0n-schlagergold.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-schlager-gold_600x600.jpg",- 0 N - Schlager Gold on Radio
+https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3
