@@ -1968,6 +1968,9 @@ https://mdstrm.com/audio/672a5df773078862801f389f/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s16515/images/logod.jpg",RADIO RED 1110 (CDMX) - 1110 AM - XERED-AM - Grupo Radio Centro - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERED_AMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/D0nThHp7/radioreyna.jpg",RADIO REYNA 97.3 (Tamazunchale) - 97.3 FM - XHGI-FM - Tamazunchale, San Luis Potosí
+https://stream9.mexiserver.com/8064/stream
+
 #EXTINF:1 radio="true" tvg-logo="",Radio Rouge Italy
 https://nl1.streamingpulse.com/ssl/radiorougeitaly
 
@@ -2078,6 +2081,9 @@ https://c6.radioboss.fm/stream/234/
 
 #EXTINF:1 radio="true" tvg-logo="https://kuasark.com/files/stations-logos/romantica-ciudad-de-mexico-1380-am-xeco-am-radiorama-ciudad-de-mexico.png",ROMÁNTICA 1380 (CDMX) - 1380 AM - XECO-AM - Radiorama Valle de México - Ciudad de México
 https://cdn1.onstream.audio/proxy/xeco/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/W1MPH21N/romantica931.png",ROMÁNTICA 93.1 (San Luis Potosí) - 93.1 FM - XHEI-FM - Grupo AS Comunicación / Radiorama - San Luis Potosí, San Luis Potosí
+https://stream.zeno.fm/uzejcai7evcvv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/JhYyLT3D/radioqueretaro.png",RTQ RADIO 100.3 (Querétaro) - 100.3 FM - XHQUE-FM - RTQ (Radio Televisión Querétaro) - Querétaro, Querétaro
 https://59d39900ebfb8.streamlock.net/rytqroradio2/rytqroradio2/playlist.m3u8
@@ -2993,9 +2999,3 @@ https://0n-rock.radionetz.de/0n-rock.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-rock_600x600.jpg",- 0 N - Rock on Radio
 https://0n-rock.radionetz.de/0n-rock.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-schlager-gold_600x600.jpg",- 0 N - Schlager Gold on Radio
-https://0n-schlagergold.radionetz.de/0n-schlagergold.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-schlager-gold_600x600.jpg",- 0 N - Schlager Gold on Radio
-https://0n-schlagergold.radionetz.de/0n-schlagergold.mp3
