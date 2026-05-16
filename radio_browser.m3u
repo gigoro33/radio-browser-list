@@ -324,6 +324,9 @@ https://secure.radiorama.mx:2122/
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s54807/images/logod.png",91.5 FM (Morelia) - XHMRL-FM - Grupo Marmor - Morelia, Michoacán
 https://sp04.servidorrprivado.com/2358/stream
 
+#EXTINF:1 radio="true" tvg-logo="",96.7 2HGR Hume Radio
+https://stream.2ghr.org.au:8000/2ghr
+
 #EXTINF:1 radio="true" tvg-logo="https://jazzgumboradio.com/favicon.ico",A Fine Jazz Gumbo Radio
 https://streaming.smartradio.ch:9502/stream
 
@@ -1338,6 +1341,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHEMAAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24607/images/logod.png",LA MEJOR FM 90.7 (Tijuana) - 90.7 FM - XHTIM-FM - MVS Radio - Tijuana, Baja California
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s245271/images/logod.png",LA MEJOR FM 90.9 (San Luis Potosí) - 90.9 FM - XHWZ-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHWZAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87620/images/logod.jpg",LA MEJOR FM 93.7 (Aguascalientes) - 93.7 FM - XHAGT-FM - Radio Universal - Aguascalienteas, Aguascalientes
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGTAAC.aac
 
@@ -1500,9 +1506,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEITEAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s339780/images/logod.png",LA VOZ 94.7 (Laguna) - 94.7 FM - XHTJ-FM - GPS Media / La Voz Radio - Gómez Palacio, Durango/Torreón, Coahuila
 https://stream.zeno.fm/3mlkhk5d7h0uv
 
-#EXTINF:1 radio="true" tvg-logo="https://ecos.inpi.gob.mx/wp-content/uploads/2020/08/logo-xeant-300.jpg",LA VOZ DE LAS HUASTECAS 770 (Tancanhuitz) - 770 AM - XEANT-AM - INPI: Instituto Nacional de los Pueblos Indígenas - Tancanhuitz, San Luis Potosí
-
-
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/tg05G1Fs/lavozdelpitic.png",LA VOZ DEL PITIC 88.1 (Hermosillo) - 88.1 FM - XHRMO-FM - Democracia y Deliberación Desértica, A.C. - Hermosillo, Sonora
 https://s5.mexside.net:8080/stream
 
@@ -1553,6 +1556,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAA
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2753/images/logod.jpg",LOS40 102.7 (GDL) - 102.7 FM - XEHL-FM - Radiópolis - Guadalajara, Jalisco
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_GDLAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s174151/images/logod.png",LOS40 103.9 (San Luis Potosí) - 103.9 FM - XHEWA-FM - GlobalMedia - San Luis Potosí, San Luis Potosí
+https://playradio.mx/proxy/los40?mp=/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90179/images/logod.png",LOS40 104.1 (Xalapa) - 104.1 FM - XHGR-FM - Cuatro Media Telecomunicaciones - Xalapa, Veracruz
 https://streaming.servicioswebmx.com/8138/stream
@@ -2993,9 +2999,3 @@ https://0n-radio.radionetz.de/0n-radio.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-radio_600x600.jpg",- 0 N - Radio on Radio
 https://0n-radio.radionetz.de/0n-radio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-reggae_600x600.jpg",- 0 N - Reggae on Radio
-https://0n-reggae.radionetz.de/0n-reggae.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-reggae_600x600.jpg",- 0 N - Reggae on Radio
-https://0n-reggae.radionetz.de/0n-reggae.mp3
