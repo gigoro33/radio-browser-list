@@ -768,6 +768,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHESAAAC.AAC
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90291/images/logod.jpg",EXA FM 101.9 (Poza Rica) - 101.9 FM - XHRIC-FM - MVS Poza Rica (Estudio 101.9) - Poza Rica, Veracruz
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHRICAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/yx5Cf25H/exa1021.jpg",EXA FM 102.1 (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s92121/images/logod.jpg",EXA FM 104.5 (Celaya) - 104.5 FM - XHZN-FM - TVR Comunicaciones - Celaya, Guanajuato
 http://144.217.67.108:9148/;
 
@@ -1038,6 +1041,9 @@ http://stream.revma.ihrhls.com/zc6951/hls.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/LspTdWsF/imagenradiolaguna.jpg",IMAGEN RADIO 100.3 (Laguna) - 100.3 FM - XHEN-FM - Grupo Imagen - Torreón, Coahuila
 https://laguna.radio.wnsol.com/;stream.mp3
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91338/images/logod.jpg",IMAGEN RADIO 103.1 (San Luis Potosí) - 103.1 FM - XHEPO-FM - GlobalMedia - San Luis Potosí, San Luis Potosí
+https://playradio.mx/proxy/imagen?mp=/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://myradioenvivo.mx/public/uploads/radio_img/imagen-radio/play_250_250.webp",IMAGEN RADIO 90.5 (CDMX) - 90.5 FM - XEDA-FM - Grupo Imagen - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEDAFMAAC.aac
 
@@ -1184,6 +1190,9 @@ https://cast4.my-control-panel.com/proxy/televiso/comadremid
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sx6zxk5G/lacoyotera.jpg",LA COYOTERA 102.3 (GDL) - 102.3 FM - XHSCDQ-FM - Comunica-Acción y Cultura del Occidente de México, A.C. - Guadalajara, Jalisco
 https://streaming.servicioswebmx.com:7058/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s338940/images/logod.png",LA DINÁMICA 790 (Mexicali) - 790 AM - XESU-AM - Radiorama Mexicali - Mexicali, Baja California
+https://sg.centrocibernetico.com/dinamica1059
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jd3nT1nJ/lafavorita.png",LA FAVORITA 88.1 (Chalcatongo) - 88.1 FM - XHÑUC-FM - Ñucuaha, A.C. - Chalcatongo de Hidalgo, Oaxaca
 https://stream9.mexiserver.com:8096/stream
@@ -1566,6 +1575,9 @@ https://streaming.servicioswebmx.com/8138/stream
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90138/images/logod.png",LOS40 107.5 (Córdoba) - 107.5 FM - XHKG-FM - Grupo Radio Cañón - Córdoba, Veracruz
 https://streaming.servicioswebmx.com/8260/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/65GcYxFX/los40slp.png",LOS40 540 (San Luis Potosí) - 540 AM - XEWA-AM - GlobalMedia - San Luis Potosí, San Luis Potosí
+https://playradio.mx/proxy/los40?mp=/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90347/images/logod.png",LOS40 88.1 (Zamora) - 88.1 FM - XHZN-FM - Grupo Radio Zamora / Cadena RASA - Zamora, Michoacán
 https://stream.zeno.fm/071em957am8uv
 
@@ -1637,6 +1649,9 @@ https://stream.zeno.fm/zrwy79s91rhvv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/9FPp1Lx1/magica.jpg",MAGICA 100.1 (Parral) - 100.1 FM - XHHPC-FM - Hidalgo del Parral, Chihuahua
 https://secure.radiorama.mx:2042/
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s47111/images/logod.jpg",MAGNÉTICA FM 101.3 (San Luis Potosí) - 101.3 FM - XHAWD-FM - San Luis Potosí, San Luis Potosí
+https://magneticaxhawd.radioca.st/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s3139/images/logod.png",MAR FM 99.7 (Veracruz) - 99.7 FM - XHPB-FM - Grupo FM Multimedios - Boca del Río, Veracruz
 https://stream.zeno.fm/eyh5yzn3f78uv
@@ -1757,6 +1772,9 @@ https://sp3.servidorrprivado.com:10854/stream/1/
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/530/oreja-fm-1025-ciudad-obregon.94b4df15.png",OREJA FM 102.5 (Obregón) - 102.5 FM - XHIQ-FM - Grupo AS Comunicación - Obregón, Sonora
 https://stream.zeno.fm/3agiabarewutv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/zDPHsrLb/orejafm1057.png",OREJA FM 105.7 (Oaxaca) - 105.7 FM - XHIU-FM - Grupo AS Comunicación - Oaxaca, Oaxaca
+https://stream.zeno.fm/5yaxrwzln6ouv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s335519/images/logod.png",ORO FM 88.1 (Tepezalá) - 88.1 FM - XHSCJS-FM - Voces de Tepezalá, Cultura de mi Pueblo, A.C. - Tepezalá, Aguascalientes
 https://stream.zeno.fm/fr1m9xwfp4guv
@@ -2981,21 +2999,3 @@ https://0n-oldies.radionetz.de/0n-oldies.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-party_600x600.jpg",- 0 N - Party on Radio
 https://0n-party.radionetz.de/0n-party.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-party_600x600.jpg",- 0 N - Party on Radio
-https://0n-party.radionetz.de/0n-party.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-pop_600x600.jpg",- 0 N - Pop on Radio
-https://0n-pop.radionetz.de/0n-pop.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-pop_600x600.jpg",- 0 N - Pop on Radio
-https://0n-pop.radionetz.de/0n-pop.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-pop_600x600.jpg",- 0 N - Pop on Radio
-https://0n-pop.radionetz.de/0n-pop.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-radio_600x600.jpg",- 0 N - Radio on Radio
-https://0n-radio.radionetz.de/0n-radio.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-radio_600x600.jpg",- 0 N - Radio on Radio
-https://0n-radio.radionetz.de/0n-radio.mp3
