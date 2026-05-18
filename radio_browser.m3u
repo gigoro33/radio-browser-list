@@ -1191,6 +1191,9 @@ https://cast4.my-control-panel.com/proxy/televiso/comadremid
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sx6zxk5G/lacoyotera.jpg",LA COYOTERA 102.3 (GDL) - 102.3 FM - XHSCDQ-FM - Comunica-Acción y Cultura del Occidente de México, A.C. - Guadalajara, Jalisco
 https://streaming.servicioswebmx.com:7058/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s338940/images/logod.png",LA DINÁMICA 105.9 (Mexicali) - 105.9 FM - XHSU-FM - Radiorama Mexicali - Mexicali, Baja California
+https://sg.centrocibernetico.com/dinamica1059
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s338940/images/logod.png",LA DINÁMICA 790 (Mexicali) - 790 AM - XESU-AM - Radiorama Mexicali - Mexicali, Baja California
 https://sg.centrocibernetico.com/dinamica1059
 
@@ -1472,6 +1475,9 @@ https://stream.zeno.fm/wy9eauldjwavv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gkyy0bFR/lareinadelasierra.png",LA REINA DE LA SIERA 99.1 (Nacozari de García) - 99.1 FM - XHNZI-FM - Grupo Radio Guaymas - Nacozari de García, Sonora
 https://sp5.servidorrprivado.com/8064/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67bf4daa49c378be5ab58091",LA REVERENDA 100.5 (Ciudad del Carmen) - 100.5 FM - XHBCC-FM - Corporativo Rivas - Ciudad del Carmen, Campeche
+
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s343846/images/logog.jpg",LA SABROSITA 106.7 (Ciudad Melchor Múzquiz) - 106.7 FM - XHEPQ-FM - Grupo M Radio - Ciudad Melchor Múzquiz, Coahuila
 https://cast1.my-control-panel.com/proxy/sabrosita/stream
@@ -2993,9 +2999,3 @@ https://0n-newwave.radionetz.de/0n-newwave.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-oldies_600x600.jpg",- 0 N - Oldies on Radio
 https://0n-oldies.radionetz.de/0n-oldies.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-oldies_600x600.jpg",- 0 N - Oldies on Radio
-https://0n-oldies.radionetz.de/0n-oldies.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-party_600x600.jpg",- 0 N - Party on Radio
-https://0n-party.radionetz.de/0n-party.mp3
