@@ -759,6 +759,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHLOAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91377/images/logod.png",EXA FM 101.1 (GDL) - 101.1 FM - XHMA-FM - MVS Radio - Guadalajara, Jalisco
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMAAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/tRmGh2cb/exa1011.png",EXA FM 101.1 (Monclova) - 101.1 FM - XHWGR-FM - NRT México - Monclova, Coahuila
+https://radio.nrt-environment.com/hls/exa101/exa.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s325065/images/logod.jpg",EXA FM 101.3 (Durango) - 101.3 FM - XHCAV-FM - Armas Radio - Durango, Durango
 https://stream9.mexiserver.com:8114/;
 
@@ -1347,6 +1350,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHJTAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87635/images/logod.png",LA MEJOR FM 100.5 (Veracruz) - 100.5 FM - XHVE-FM - MVS Radio - Boca del Río, Veracruz
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHVEFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/yN75Zb0p/lamejor1037.jpg",LA MEJOR FM 103.7 (Durango) - 103.7 FM - XHDGO-FM - Armas Radio - Durango, Durango
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHDGOAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-mejor-zacatecas-107-9-fm-mexico.webp",LA MEJOR FM 107.9 (Fresnillo) - 107.9 FM - XHEMA-FM - Grupo Radiofónico B15 - Fresnillo, Zacatecas
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEMAAAC.aac
 
@@ -1476,9 +1482,6 @@ https://stream.zeno.fm/wy9eauldjwavv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gkyy0bFR/lareinadelasierra.png",LA REINA DE LA SIERA 99.1 (Nacozari de García) - 99.1 FM - XHNZI-FM - Grupo Radio Guaymas - Nacozari de García, Sonora
 https://sp5.servidorrprivado.com/8064/stream
 
-#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67bf4daa49c378be5ab58091",LA REVERENDA 100.5 (Ciudad del Carmen) - 100.5 FM - XHBCC-FM - Corporativo Rivas - Ciudad del Carmen, Campeche
-
-
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s343846/images/logog.jpg",LA SABROSITA 106.7 (Ciudad Melchor Múzquiz) - 106.7 FM - XHEPQ-FM - Grupo M Radio - Ciudad Melchor Múzquiz, Coahuila
 https://cast1.my-control-panel.com/proxy/sabrosita/stream
 
@@ -1553,6 +1556,9 @@ https://streamingcwsradio30.com:7085/;
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/HkbKwh5c/453729983-484006877704186-2087352485023397767-n.jpg",Lokura 830 (CDMX) - 830 AM - XEITE-AM - Capital Media - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEITEAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sgxWvWmF/lokura.jpg",LOKURA 830 (CDMX) - 830 AM - XEITE-AM - Capital Media - Ciudad de México
+https://mdstrm.com/audio/69373baa6d5fd824ec8440c5/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/SRqP3Znr/lokurafm1045.jpg",LOKURA FM 104.5 (Colima) - 104.5 FM - XHTTT-FM - Capital Media - Colima, Colima
 https://mdstrm.com/audio/6939d9771e27fe9d27f16c59/live.m3u8
@@ -2340,6 +2346,9 @@ https://wradio.b-cdn.net/stream
 #EXTINF:1 radio="true" tvg-logo="https://www.allradio.net/500/zFnWouNmLkYNt5C6FBtCr.webp",W RADIO 100.9 (Tampico) - 100.9 FM - XHS-FM - Grupo AS Comunicación - Tampico, Tamaulipas
 https://stream.zeno.fm/kz6tfzrasyxtv
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91948/images/logod.png",W RADIO 1000 (Tapachula) - 1000 AM - XETAC-AM - Grupo Radio Cañón - Tapachula, Chiapas
+https://streaming.servicioswebmx.com/8248/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/d6/c0/d6c0cdb6435c89c502bb0c7f56100e71.jpg",W RADIO 101.5 (Acapulco) - 101.5 FM - XHBB-FM - Grupo Radio Cañón - Acapulco, Guerrero
 https://streaming.servicioswebmx.com/8302/stream
 
@@ -2990,12 +2999,3 @@ https://0n-movies.radionetz.de/0n-movies.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-movies_600x600.jpg",- 0 N - Movies on Radio
 https://0n-movies.radionetz.de/0n-movies.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-newwave_600x600.jpg",- 0 N - New Wave on Radio
-https://0n-newwave.radionetz.de/0n-newwave.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-newwave_600x600.jpg",- 0 N - New Wave on Radio
-https://0n-newwave.radionetz.de/0n-newwave.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-oldies_600x600.jpg",- 0 N - Oldies on Radio
-https://0n-oldies.radionetz.de/0n-oldies.mp3
