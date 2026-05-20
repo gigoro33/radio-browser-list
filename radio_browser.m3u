@@ -177,6 +177,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENAAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/La_Mejor_logo_actual.png/revision/latest",LA MEJOR: ¡Aquí Nomás!
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERCFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Jh1vJBmq/laq.jpg",LA Q: Pura Música
+https://playerservices.streamtheworld.com/api/livestream-redirect/BESAMEAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24532/images/logod.jpg",LA Z: Salvajemente Grupera
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac
 
@@ -215,6 +218,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s10687/images/logod.png",RADIO IPN: Pasa La Voz...
 https://broadcast.radio.ipn.mx/RadioIPN
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/SxJDxNsX/radiounam860.png",RADIO UNAM (AM): Experiencia Sonora
+https://tv.radiohosting.online:9486/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24539d.png",RADIO UNAM (FM): Experiencia Sonora
 https://tv.radiohosting.online:9484/stream
@@ -2993,9 +2999,3 @@ https://0n-movies.radionetz.de/0n-movies.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-movies_600x600.jpg",- 0 N - Movies on Radio
 https://0n-movies.radionetz.de/0n-movies.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-movies_600x600.jpg",- 0 N - Movies on Radio
-https://0n-movies.radionetz.de/0n-movies.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-movies_600x600.jpg",- 0 N - Movies on Radio
-https://0n-movies.radionetz.de/0n-movies.aac
