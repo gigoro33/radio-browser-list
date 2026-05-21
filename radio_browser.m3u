@@ -96,6 +96,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR11_s01AAC.
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4dmFn1tf/alfa.png",ALFA: Donde Todo Nace
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/628567ce99976dea53e52661",AMOR EN CONCIERTO: Éxitos en vivo en español
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR39_s01AAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6230ca02be123875849470cd",AMOR SOLO POP: Pop y baladas en español
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR03_s01AAC.aac
 
@@ -188,6 +191,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR18_s01AAC.
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/68c1b270941ec01dfd9a1ddd",LAS LLEGADORAS de Radio Felicidad: Baladas románticas de los 60s y 70s
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR19_s01AAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/HxBhbXCm/lokurarock.png",LOKURA: Te Reto A Que Me Escuches
+https://mdstrm.com/audio/69373baa6d5fd824ec8440c5/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40.png",LOS40: La Radio de los Conciertos
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac
@@ -2773,6 +2779,9 @@ https://0n-90s.radionetz.de/0n-90s.mp3
 https://0n-black.radionetz.de/0n-black.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-black_600x600.jpg",- 0 N - Black on Radio
+https://0n-black.radionetz.de/0n-black.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-black_600x600.jpg",- 0 N - Black on Radio
 https://0n-black.radionetz.de/0n-black.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-blues_600x600.jpg",- 0 N - Blues on Radio
@@ -2990,12 +2999,3 @@ https://0n-lounge.radionetz.de/0n-lounge.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-love_600x600.jpg",- 0 N - Love on Radio
 https://0n-love.radionetz.de/0n-love.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-love_600x600.jpg",- 0 N - Love on Radio
-https://0n-love.radionetz.de/0n-love.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-movies_600x600.jpg",- 0 N - Movies on Radio
-https://0n-movies.radionetz.de/0n-movies.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-movies_600x600.jpg",- 0 N - Movies on Radio
-https://0n-movies.radionetz.de/0n-movies.mp3
