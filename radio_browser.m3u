@@ -114,6 +114,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR24_s01AAC.
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/C15C4837/beat-2025.jpg",BEAT: Total Music
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/9095cqQw/Buenisiima-1530.png",BUENÍSIIMA: Está Buenísima
+http://s1.audiorama.mx:6678/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/68507f96166c04a064910e82",CHILANGO RADIO: La Radio Que Viene, Viene
 https://stream.radio.co/s938b68214/listen
 
@@ -236,6 +239,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR16_s01AAC.
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bc5ed6ac7977ca1c9302285",ROCK EN ESPAÑOL: Rock de México, España y Argentina
 https://29309.live.streamtheworld.com:443/ACIR20_S01AAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fTHD54CH/romantica.jpg",ROMÁNTICA: ¡Siempre En Tu Corazón!
+https://cdn1.onstream.audio/proxy/xeco/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/X7Nh28P1/sabrosita.png",SABROSITA: La Más Caliente
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac
@@ -509,6 +515,9 @@ https://stream.zeno.fm/scdv0t33gd0uv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s286395/images/logod.png",BELLA MÚSICA 90.9 (Veracruz) - 90.9 FM - XHVER-FM - Valanci Media Group - Boca del Río, Veracruz
 https://stream.zeno.fm/reqz9p23gd0uv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/dtpM4L5b/bellamusica931.png",BELLA MÚSICA 93.1 (Tuxtla) - 93.1 FM - XHREZ-FM - Valanci Media Group - Tuxtla Gutiérrez, Chiapas
+https://stream.zeno.fm/ayrbxv13gd0uv
 
 #EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/d4/40/d4409aeae99360c5c556e5f5f82e2d4c.png",BJB 570 (Monterrey) - 570 AM - XEBJB-AM - Grupo Radio Alegría - Monterrey, Nuevo León
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROMANTICA_1340AMAAC.aac
@@ -2990,12 +2999,3 @@ https://0n-klassik.radionetz.de/0n-klassik.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-latin_600x600.jpg",- 0 N - Latin on Radio
 https://0n-latin.radionetz.de/0n-latin.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-lounge_600x600.jpg",- 0 N - Lounge on Radio
-https://0n-lounge.radionetz.de/0n-lounge.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-lounge_600x600.jpg",- 0 N - Lounge on Radio
-https://0n-lounge.radionetz.de/0n-lounge.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-love_600x600.jpg",- 0 N - Love on Radio
-https://0n-love.radionetz.de/0n-love.aac
