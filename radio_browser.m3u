@@ -2226,6 +2226,9 @@ https://hls.gvstream.live/radiouniversal/life1009.stream/playlist.m3u8
 #EXTINF:1 radio="true" tvg-logo="",STEREOREY: La Máxima Dimensión del Radio.
 https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/KvbYDgXR/studio899.webp",STUDIO 89.9 (Nogales) - 89.9 FM - XHHN-FM - Radiorama Sonora - Nogales, Sonora
+https://stream.freepi.io:8412/live
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88130d.png",SUPER ESTELAR 107.9 (Piedras Negras) - 107.9 FM - XHCP-FM - Grupo Radio Zócalo - Piedras Negras, Coahuila
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPCFMAAC.aac
 
@@ -2996,6 +2999,3 @@ https://0n-klassik.radionetz.de/0n-klassik.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-klassik_600x600.jpg",- 0 N - Klassik on Radio
 https://0n-klassik.radionetz.de/0n-klassik.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-latin_600x600.jpg",- 0 N - Latin on Radio
-https://0n-latin.radionetz.de/0n-latin.mp3
