@@ -597,6 +597,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KLLI_FMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s331469/images/logod.png",CALVILLO FM 101.3 (Calvillo) - 101.3 FM - XHSCCH-FM - Comunicar para Ayudar, A.C. - Calvillo, Aguascalientes
 https://stream.zeno.fm/af12yk53ud0uv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fLHtdPM3/candela1047.png",CANDELA 104.7 (La Barca) - 104.7 FM - XHLB-FM - Cadena RASA - Jamay, Jalisco
+https://stream.zeno.fm/ct6cvy2vqp8uv
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/L6Kb4wh0/candela911.png",CANDELA 1130 (Uruapan) - 1130 AM - XEFN-AM - Cadena RASA - Uruapan, Michoacán
 http://sp3.servidorrprivado.com:3334/stream
 
@@ -2282,9 +2285,6 @@ https://stream.technolovers.fm/vocal-trance
 
 #EXTINF:1 radio="true" tvg-logo="https://mybighornbasin.com/favicon.ico",The Eagle KVGL 105.7 (aka, KYTS, 105.7 FM)
 https://ice25.securenetsystems.net/KVGL
-
-#EXTINF:1 radio="true" tvg-logo="",The Rock! Radio Helgoland)
-
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s337003/images/logod.png",TITÁN 106.3 (Villahermosa) - 106.3 FM - XHRVI-FM - PUBLILUM (PubliLu Medios) - Villahermosa, Tabasco
 http://master.shoutcast.com:8000/titan-fm-106-3
