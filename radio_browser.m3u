@@ -1680,6 +1680,9 @@ https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/008/1037-love-fm.c0034d62.jpg",Love FM 103.7 (Veracruz) - 103.7 FM - XHCS-FM - Grupo RADIO SA - Veracruz, Veracruz
 https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a01759c5aa2b85d66b5933/playlist.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/PJ9dpgpn/lovefm931.jpg",LOVE FM 93.1 (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora
+https://mdstrm.com/audio/66b0f440b47ad3416c6a654a/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://grupozer.mx/images/portada/logos/301.png",LUPE 560 (Manzanillo) - 560 AM - XEMZA-AM - Grupo Radiofónico ZER - Manzanillo, Colima
 https://live.zuperdns.net/1895/stream/
 
@@ -1820,6 +1823,9 @@ https://wz.mari.co.id:1936/web_mostfm/mostfm/chunklist_w405836415.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://static.wixstatic.com/media/336e54_bf4f165f0e784aa2a55105e99aed93da~mv2.png/v1/fill/w_732,h_732,al_c,q_90,enc_avif,quality_auto/336e54_bf4f165f0e784aa2a55105e99aed93da~mv2.png",MVS 102.5 (CDMX) - 102.5 FM - XHMVS-FM - MVS Radio - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="",NEW YORK JEWISH RADIO
+
 
 #EXTINF:1 radio="true" tvg-logo="",Nightwave Plaza
 https://radio.plaza.one/ogg
@@ -2993,9 +2999,3 @@ https://0n-hits.radionetz.de/0n-hits.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-hot_600x600.jpg",- 0 N - Hot on Radio
 https://0n-hot.radionetz.de/0n-hot.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-hot_600x600.jpg",- 0 N - Hot on Radio
-https://0n-hot.radionetz.de/0n-hot.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-house_600x600.jpg",- 0 N - House on Radio
-https://0n-house.radionetz.de/0n-house.aac
