@@ -213,9 +213,6 @@ https://18443.live.streamtheworld.com:443/XHDFMFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ee43258c4c5167991940231",MVS NOTICIAS: El Poder de las Palabras
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC.aac
 
-#EXTINF:1 radio="true" tvg-logo="",Nile FM 104.2
-
-
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/FHjNX8q9/oye.jpg",OYE: Se Oye
 http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
 
@@ -1625,6 +1622,9 @@ https://mdstrm.com/audio/69373baa6d5fd824ec8440c5/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/SRqP3Znr/lokurafm1045.jpg",LOKURA FM 104.5 (Colima) - 104.5 FM - XHTTT-FM - Capital Media - Colima, Colima
 https://mdstrm.com/audio/6939d9771e27fe9d27f16c59/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://static-roov.rctiplus.id/images/radio/looks-radio-1762161732.jpg",Looks Radio
+https://proxy.rctiplus.com/?name=http://8.215.206.157:8010/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s349586/images/logod.jpg",LOS40 100.1 (Coatzacoalcos) - 100.1 FM - XHNE-FM - Liberal del Sur - Coatzacoalcos, Veracruz
 https://streaming.servicioswebmx.com/8104/stream
