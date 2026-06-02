@@ -126,6 +126,9 @@ https://18313.live.streamtheworld.com:443/XEJP_AMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s16514/images/logod.jpg",EL FONÓGRAFO: Música Ligada a tu Recuerdo
 https://19263.live.streamtheworld.com:443/XEN_AMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/kXkjX4mj/heraldoradiohd2.png",EL HERALDO RADIO HD2: Música Continua 🆕
+https://stream.radiojar.com/rsa7zx3bh8nwv
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f2b2f358a19fc0df00598cd",EL HERALDO RADIO: La "H" Que Sí Suena 🆕
 https://stream.radiojar.com/ce31v3yah8nwv
 
@@ -221,6 +224,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bd35fe16217a1eceece2270",PIANO LANDSCAPES: Música instrumental para relajarte
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR23_s01AAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/mD0hbHPc/radio620.png",RADIO 620: La Música Que Llegó Para Quedarse
+https://stream.zeno.fm/smm679phup8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s299883/images/logod.png",RADIO CENTRO: Calidad En Tu Vida / La Estación de la Gran Familia Mexicana
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC.aac
@@ -621,6 +627,9 @@ http://sp3.servidorrprivado.com:3334/stream
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/RZR4BYFm/candela941.png",CANDELA 94.1 (San Luis Potosí) - 94.1 FM - XHRASA-FM - Cadena RASA - San Luis Potosí, San Luis Potosí
 https://stream-284.zeno.fm/q8mt825e0chvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOG10ODI1ZTBjaHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieVVOLWczemJUN0MtcE1HMi10eVR6dyIsImlhdCI6MTc3ODczMzYyMCwiZXhwIjoxNzc4NzMzNjgwfQ.MsfL7gbcrfLx0CbeiVXcpKwmaq4Fu1EGKjD_n1N6-Tg
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/nV0dDx8c/candela941fm.png",CANDELA 94.1 (Zamora) - 94.1 FM - XHGT-FM - Cadena RASA - Zamora, Michoacán
+https://stream.zeno.fm/9t73skxn8k8uv
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logod.jpg",CAPITAL - The UK's No.1 Hit Music Station
 https://media-ssl.musicradio.com/CapitalUK
 
@@ -644,6 +653,9 @@ http://ice-the.musicradio.com/Capital
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/767/la-mexicana-1051-fm.1024c01f.png",CAPULLO FM 105.1 (Francisco I. Madero) - 105.1 FM - XHYD-FM - GPS Media - Francisco I. Madero, Coahuila
 https://stream.zeno.fm/3qv5hnktu4rvv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/8PZh9vf4/catedraldelamusica.png",CATEDRAL DE LA MÚSICA (Zamora) - 91.7 FM - XHQL-FM - Cadena RASA - Zamora, Michoacán
+https://stream-285.zeno.fm/1parq976sk8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxcGFycTk3NnNrOHV2IiwiaG9zdCI6InN0cmVhbS0yODUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiemRYLTNxNU9TX0d3UEE2cXBNTGZJUSIsImlhdCI6MTc4MDMwODMzMywiZXhwIjoxNzgwMzA4MzkzfQ.OaeoQQtIfD6mQzur_Tfq9muXZ1dOaBWCTSFT--NrMSE
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s220532/images/logod.png",CAXCÁN FM 95.1 (Jalpa) - 95.1 FM - XHJRS-FM - Grupo Radiofónico ZER - Jalpa, Zacatecas
 https://cast.zuperdns.net/8008/stream/;stream.mp3?nochache=0.3141970676706438
@@ -1617,6 +1629,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s91092d.png",LA Z 96.3 (Morelia) - 96.3 FM - XHCR-FM - Grupo Trenu - Morelia, Michoacán
 https://app.sonicpanelradio.com/8288/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/6QL8D7MV/lazamorana.png",LA ZAMORANA 103.9 (Zamora) - 103.9 FM - XHEZM-FM - Cadena RASA - Zamora, Michoacán
+
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/HnhPXfQG/lazapoteca.jpg",LA ZAPOTECA 88.1 (San Baltazar Chichicápam) - 88.1 FM - XHSCGB-FM - La Esperanza Zapoteca, A.C. - San Baltazar Chichicápam, Oaxaca
 https://sp3.servidorrprivado.com:10840/stream
 
@@ -1799,6 +1814,9 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a0112844d3c94ecf11dd
 
 #EXTINF:1 radio="true" tvg-logo="https://veracruz.maximafm.com.mx/assets/images/logos/maximafm-veracruz.png",MÁXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz.
 https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s343465/images/logod.jpg",MAXIMA 97.5 (Cancún) - 97.5 FM - XHCAN-FM - Grupo Radio SA - Cancún, Quintana Roo
+https://mdstrm.com/audio/66e9d6ccaefe12962688efb9/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://www.rmc2.net/wp-content/uploads/2020/08/06_BBA_1200px.jpg",MC2 Buddha Bar Collection
 https://stream.rcs.revma.com/m5819rrayk3vv
@@ -2288,6 +2306,9 @@ https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88358/images/logod.jpg",STEREO UNO 100.3 (Mazatlán) - 100.3 FM - XHZS-FM - Luz Network - Mazatlán, Sinaloa
 https://audiostreaming.luz.network/stream/13/
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jS5mFrLM/stereorey.jpg",STEREOREY (CDMX) - Online - www.stereorey.com - MVS Radio - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/8PPTN97V/stereorey1009.jpg",STEREOREY 100.9 (Aguascalientes) - 100.9 FM - XHCAA-FM - Radio Universal - AGuascalientes, Aguascalientes
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCAAAAC.aac
@@ -2978,24 +2999,3 @@ https://0n-electro.radionetz.de/0n-electro.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-evergreens_600x600.jpg",- 0 N - Evergreens on Radio
 https://0n-evergreens.radionetz.de/0n-evergreens.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-evergreens_600x600.jpg",- 0 N - Evergreens on Radio
-https://0n-evergreens.radionetz.de/0n-evergreens.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-evergreens_600x600.jpg",- 0 N - Evergreens on Radio
-https://0n-evergreens.radionetz.de/0n-evergreens.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-evergreens_600x600.jpg",- 0 N - Evergreens on Radio
-https://0n-evergreens.radionetz.de/0n-evergreens.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-gay_600x600.jpg",- 0 N - Gay on Radio
-https://0n-gay.radionetz.de/0n-gay.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-gay_600x600.jpg",- 0 N - Gay on Radio
-https://0n-gay.radionetz.de/0n-gay.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-gay_600x600.jpg",- 0 N - Gay on Radio
-https://0n-gay.radionetz.de/0n-gay.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-gold_600x600.jpg",- 0 N - Gold on Radio
-https://0n-gold.radionetz.de/0n-gold.mp3
