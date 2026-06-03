@@ -1630,7 +1630,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_FMAAC.aac
 https://app.sonicpanelradio.com/8288/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/6QL8D7MV/lazamorana.png",LA ZAMORANA 103.9 (Zamora) - 103.9 FM - XHEZM-FM - Cadena RASA - Zamora, Michoacán
-
+https://stream.zeno.fm/pscbnbk7sk8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/HnhPXfQG/lazapoteca.jpg",LA ZAPOTECA 88.1 (San Baltazar Chichicápam) - 88.1 FM - XHSCGB-FM - La Esperanza Zapoteca, A.C. - San Baltazar Chichicápam, Oaxaca
 https://sp3.servidorrprivado.com:10840/stream
@@ -1797,6 +1797,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHRSFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfc",MATCH 90.3 (GDL) - 90.3 FM - XHEMIA-FM - Grupo ACIR - Guadalajara, Jalisco
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEMIAAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1df7",MATCH 93.9 (Morelia) - 93.9 FM - XHMO-FM - Grupo ACIR - Morelia, Michoacán
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMOFMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1df6",MATCH 97.5 (León) - 97.5 FM - XHPQ-FM - Grupo ACIR - León, Guanajuato
 https://17813.live.streamtheworld.com:443/XHPQFMAAC.aac
 
@@ -1815,8 +1818,14 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a0112844d3c94ecf11dd
 #EXTINF:1 radio="true" tvg-logo="https://veracruz.maximafm.com.mx/assets/images/logos/maximafm-veracruz.png",MÁXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz.
 https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90953/images/logod.jpg",MAXIMA 96.9 (Tuxtla) - 96.9 FM - XHKR-FM - Grupo Radio SA - Tuxtla Gutiérrez, Chiapas
+https://mdstrm.com/audio/66be641cd9a22180390f882c/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s343465/images/logod.jpg",MAXIMA 97.5 (Cancún) - 97.5 FM - XHCAN-FM - Grupo Radio SA - Cancún, Quintana Roo
 https://mdstrm.com/audio/66e9d6ccaefe12962688efb9/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/y6tmw5PG/maxima989.png",MAXIMA 98.9 (Ciudad del Carmen) - 98.9 FM - XHCMN-FM - Grupo Radio SA - Ciudad del Carmen, Campeche
+https://mdstrm.com/audio/66a3e88f19acc1b9d1487ec0/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://www.rmc2.net/wp-content/uploads/2020/08/06_BBA_1200px.jpg",MC2 Buddha Bar Collection
 https://stream.rcs.revma.com/m5819rrayk3vv
@@ -2990,12 +2999,3 @@ https://0n-disco.radionetz.de/0n-disco.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg",- 0 N - Disco on Radio
 https://0n-disco.radionetz.de/0n-disco.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-electro_600x600.jpg",- 0 N - Electro on Radio
-https://0n-electro.radionetz.de/0n-electro.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-electro_600x600.jpg",- 0 N - Electro on Radio
-https://0n-electro.radionetz.de/0n-electro.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-evergreens_600x600.jpg",- 0 N - Evergreens on Radio
-https://0n-evergreens.radionetz.de/0n-evergreens.mp3
