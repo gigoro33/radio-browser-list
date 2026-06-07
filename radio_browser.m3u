@@ -213,11 +213,17 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAA
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/BZkKfvtv/match.jpg",MATCH: ¡Más Pop, Conéctate!
 https://27283.live.streamtheworld.com:443/XHPOPFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bc5eca8c7977ca1c9302273",MIX HARD ROCK: El mejor Hard Rock en inglés
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR10_s01AAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/J4K5Xkqz/mix.jpg",MIX: 80's, 90's y Más
 https://18443.live.streamtheworld.com:443/XHDFMFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ee43258c4c5167991940231",MVS NOTICIAS: El Poder de las Palabras
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f64ba55e89ed47267cc5b52",NEW CENTURY by Match: Pop y rock del nuevo siglo
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR04_s01AAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/FHjNX8q9/oye.jpg",OYE: Se Oye
 http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
@@ -627,11 +633,23 @@ http://sp3.servidorrprivado.com:3334/stream
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s90766d.png",CANDELA 91.1 (Uruapan) - 91.1 FM - XHFN-FM - Cadena RASA - Uruapan, Michoacán
 http://sp3.servidorrprivado.com:3334/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/5yz7DCX5/candela927.png",CANDELA 92.7 (Valladolid) - 92.7 FM - XHUM-FM - Cadena RASA - Valladolid, Yucatán
+https://stream.zeno.fm/nv2zf1kc4p8uv
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/RZR4BYFm/candela941.png",CANDELA 94.1 (San Luis Potosí) - 94.1 FM - XHRASA-FM - Cadena RASA - San Luis Potosí, San Luis Potosí
 https://stream-284.zeno.fm/q8mt825e0chvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOG10ODI1ZTBjaHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoieVVOLWczemJUN0MtcE1HMi10eVR6dyIsImlhdCI6MTc3ODczMzYyMCwiZXhwIjoxNzc4NzMzNjgwfQ.MsfL7gbcrfLx0CbeiVXcpKwmaq4Fu1EGKjD_n1N6-Tg
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/nV0dDx8c/candela941fm.png",CANDELA 94.1 (Zamora) - 94.1 FM - XHGT-FM - Cadena RASA - Zamora, Michoacán
 https://stream.zeno.fm/9t73skxn8k8uv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/mr8vcLp3/candela951.png",CANDELA 95.1 (Apatzingán) - 95.1 FM - XHAPM-FM - Cadena RASA - Apatzingán, Michoacán
+https://stream-282.zeno.fm/kvdvkhbtvchvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJrdmR2a2hidHZjaHZ2IiwiaG9zdCI6InN0cmVhbS0yODIuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiQVp5VmNRU1pUOS1HSS1HVFBzbFVrZyIsImlhdCI6MTc4MDcxMzI5NSwiZXhwIjoxNzgwNzEzMzU1fQ.wEaLUEkB0hunuf_W4nmZs30IUHY5KLyYmP7hDs-d7k4
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/8zjkvXW0/candela953.png",CANDELA 95.3 (Mérida) - 95.3 FM - XHMH-FM - Cadena RASA - Mérida, Yucatán
+https://stream.zeno.fm/tbnc01hc4p8uv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/NGXvy2zm/candela963.png",CANDELA 96.3 (Tizimín) - 96.3 FM - XHUP-FM - Cadena RASA - Tizimín, Yucatán
+https://stream.zeno.fm/kg0w97kc4p8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s241396/images/logod.jpg",CAPITAL - The UK's No.1 Hit Music Station
 https://media-ssl.musicradio.com/CapitalUK
@@ -777,8 +795,14 @@ https://stream.radiojar.com/0pqyt47etbkvv
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f2b2f358a19fc0df00598cd",EL HERALDO RADIO 98.5 (CDMX) - 98.5 FM - XHDL-FM - Heraldo Media Group - Ciudad de México
 http://stream.radiojar.com/g33sp4yqd6quv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/05zwKXtK/heraldoradiocdmx.png",EL HERALDO RADIO 98.5 (CDMX) - 98.5 FM - XHDL-FM - Heraldo Media Group - Ciudad de MéxiCO 🆕
+https://stream.radiojar.com/ce31v3yah8nwv
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/VNPby6Bp/heraldoradiohd2.png",EL HERALDO RADIO HD2 98.5 (CDMX) - 98.5 HD2 - XHDL-FM - Heraldo Media Group - Ciudad de México
 https://stream.radiojar.com/4bgpz3xpwhcwv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/kXkjX4mj/heraldoradiohd2.png",EL HERALDO RADIO HD2 98.5 (CDMX) - 98.5 HD2 - XHDL-FM - Heraldo Media Group - Ciudad de MÉxico 🆕
+https://stream.radiojar.com/rsa7zx3bh8nwv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s327478/images/logod.png",EL KUINO 96.1 (La Piedad) - 96.1 FM - XHPLPM-FM - Grupo Radiofónico ZER - La Piedad, Michoacán
 https://live.zuperdns.net/1961/stream
@@ -1074,6 +1098,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHPRFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s306600/images/logog.png",Globo 88.1 (Monterrey) - 88.1 FM - XHJM-FM - MVS Radio - Monterrey, Nuevo León
 http://playerservices.streamtheworld.com/api/livestream-redirect/XHJMFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fyr3S8DV/globo911.png",GLOBO 91.1 (Torreón) - 91.1 FM - XHTC-FM - GREM (Grupo Radio Estéreo Mayrán) - Torreón, Coahuila
+http://streamingcwsradio30.com/8232/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s325886/images/logod.png",Globo 95.9 (Maravatío) - 95.9 FM - XHCCBE-FM - Maravatío, Michoacán
 https://stream.zeno.fm/mefi7y11grwtv
 
@@ -1356,6 +1383,9 @@ https://stream.freepi.io:8328/live
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s352534/images/logod.jpg",LA KEBUENA 89.7 (Oaxaca) - 89.7 FM - XHOCA-FM - Grupo Radio Cañón - Oaxaca, Oaxaca
 https://streaming.servicioswebmx.com/8270/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/VLrn2f2L/lakebuena909.png",LA KEBUENA 90.9 (Mérida) - 90.9 FM - XHMQM-FM - Cadena RASA - Mérida, Yucatán
+https://stream.zeno.fm/2pz1hwmc4p8uv
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/J4ytxwrG/la-kebuena-cadereyta.jpg",LA KEBUENA 92.3 (Cadereyta) - 92.3 FM - XHPCMQ-FM - Grupo Edikam - Cadereyta, Querétaro
 https://laradiossl.online:10567/;
 
@@ -1545,8 +1575,14 @@ https://stream.zeno.fm/69hk1a8x5rhvv
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s141473/images/logod.png",LA RANCHERA 106.1 (Aguascalientes) - 106.1 FM - XHLTZ-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
 https://cast.zuperdns.net/8022/stream/
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Cx7tts3y/laranchera983.png",LA RANCHERA 98.3 (Apatzingán) - 98.3 FM - XHEML-FM - Cadena RASA - Apatzingán, Michoacán
+https://stream.zeno.fm/191he4yrzv8uv
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24506g.png",LA RANCHERA DE MONTERREY 1050 (MTY) - 1050 AM - XEG-AM - Núcleo Radio Monterrey - Monterrey, Nuevo León
 http://streamingcwsradio20.com:9410/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/SKngXx8H/larancherademonterrey.png",LA RANCHERA DE MONTERREY 90.1 (MTY) - 90.1 FM - XHCHL-FM - Núcleo Radio Monterrey - Monterrey, Nuevo León
+https://streamingcwsradio30.com/8236/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/W1NW7S0y/la-ranchera-de-paquime.png",LA RANCHERA DE PAQUIMÉ 540 (Nuevo Casas Grandes) - 540 AM - XETX-AM - JB Multimedia - Nuevo Casas Grandes, Chihuahua
 https://stream.zeno.fm/8db4bm3xa84tv
@@ -2586,6 +2622,9 @@ http://radio.alphamx.net:8100/stream
 #EXTINF:1 radio="true" tvg-logo="https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/wwYkKshlr8K1X3i0JLV-I51b8dt3bzZXTKlYyMf6F-o/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1E5SWJRdHdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFvNFM2aWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTM3NDkxOTAwMA.webp",WorkoutTime USA
 https://stream.zeno.fm/60pg6mi67hytv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/8zsPkYC7/wow.png",WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán
+https://stream.zeno.fm/jf0uuhbqekguv
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-wow-101-1-fm-torreon-mexico.webp",WOW 101.1 (Torreón) - 101.1 FM - XHDN-FM - GPS Media - Torreón, Coahuila
 https://stream.zeno.fm/z2hquf0sa6wvv
 
@@ -2960,42 +2999,3 @@ https://0n-dance.radionetz.de/0n-dance.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg",- 0 N - Dance on Radio
 https://0n-dance.radionetz.de/0n-dance.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg",- 0 N - Dance on Radio
-https://0n-dance.radionetz.de/0n-dance.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg",- 0 N - Dance on Radio
-https://0n-dance.radionetz.de/0n-dance.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg",- 0 N - Dance on Radio
-https://0n-dance.radionetz.de/0n-dance.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-deutsch-pop_600x600.jpg",- 0 N - Deutsch Pop on Radio
-https://0n-deutschpop.radionetz.de/0n-deutschpop.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-deutsch-pop_600x600.jpg",- 0 N - Deutsch Pop on Radio
-https://0n-deutschpop.radionetz.de/0n-deutschpop.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-deutsch-pop_600x600.jpg",- 0 N - Deutsch Pop on Radio
-https://0n-deutschpop.radionetz.de/0n-deutschpop.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-deutsch-pop_600x600.jpg",- 0 N - Deutsch Pop on Radio
-https://0n-deutschpop.radionetz.de/0n-deutschpop.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-deutsch-rap_600x600.jpg",- 0 N - Deutsch Rap on Radio
-https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-deutsch-rap_600x600.jpg",- 0 N - Deutsch Rap on Radio
-https://0n-deutschrap.radionetz.de/0n-deutschrap.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-deutsch-rap_600x600.jpg",- 0 N - Deutsch Rap on Radio
-https://0n-deutschrap.radionetz.de/0n-deutschrap.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-deutsch-rock_600x600.jpg",- 0 N - Deutsch Rock on Radio
-https://0n-deutschrock.radionetz.de/0n-deutschrock.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-deutsch-rock_600x600.jpg",- 0 N - Deutsch Rock on Radio
-https://0n-deutschrock.radionetz.de/0n-deutschrock.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-disco_600x600.jpg",- 0 N - Disco on Radio
-https://0n-disco.radionetz.de/0n-disco.aac
