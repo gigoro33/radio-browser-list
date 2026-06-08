@@ -6,6 +6,9 @@ http://stream.gal.io/arrow
 #EXTINF:1 radio="true" tvg-logo="https://assets.laut.fm/b22749b7fdb382b8912269e3d8054380?t=_120x120",Blasmusikradio mit Bernd
 https://stream.laut.fm/blasmusikradio_mit_bernd
 
+#EXTINF:1 radio="true" tvg-logo="https://fmsoldados.com/favicon.png",FM Soldados 87.5
+https://radio02.ferozo.com/proxy/ra01000409?mp=/stream
+
 #EXTINF:1 radio="true" tvg-logo="",Fun Radio
 http://stream.funradio.sk:8000/fun128.mp3
 
@@ -701,6 +704,9 @@ https://mdstrm.com/audio/67378091f22f160aaf4c34b1/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a920140b19e44c3d63608d",CLASSIC 96.1 (Tampico) - 96.1 FM - XHON-FM - Multimedios Radio - Tampico, Tamaulipas
 https://mdstrm.com/audio/673784f2f22f160aaf4c8e8c/icecast.audio
+
+#EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Cliff_Richard_1960.jpg/500px-Cliff_Richard_1960.jpg",Cliff Richard Radio
+
 
 #EXTINF:1 radio="true" tvg-logo="https://www.clubsabrosoradioshow.com/favicon.ico",Club Sabroso Radio
 http://s5.radio.co/s688b80b65/listen
@@ -2993,9 +2999,3 @@ https://0n-country.radionetz.de/0n-country.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg",- 0 N - Dance on Radio
 https://0n-dance.radionetz.de/0n-dance.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg",- 0 N - Dance on Radio
-https://0n-dance.radionetz.de/0n-dance.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg",- 0 N - Dance on Radio
-https://0n-dance.radionetz.de/0n-dance.aac
