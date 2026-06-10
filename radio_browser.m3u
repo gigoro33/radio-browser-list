@@ -552,6 +552,9 @@ https://stream.zeno.fm/reqz9p23gd0uv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/dtpM4L5b/bellamusica931.png",BELLA MÚSICA 93.1 (Tuxtla) - 93.1 FM - XHREZ-FM - Valanci Media Group - Tuxtla Gutiérrez, Chiapas
 https://stream.zeno.fm/ayrbxv13gd0uv
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s237811/images/logod.png",BFM 99.5 (Hermosillo) - 99.5 FM - XHFEM-FM - Bura Multimedia - Hermosillo, Sonora
+https://app.sonicpanelradio.com:8520/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/d4/40/d4409aeae99360c5c556e5f5f82e2d4c.png",BJB 570 (Monterrey) - 570 AM - XEBJB-AM - Grupo Radio Alegría - Monterrey, Nuevo León
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROMANTICA_1340AMAAC.aac
 
@@ -870,6 +873,9 @@ https://radio.nrt-environment.com/hls/exa101/exa.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s325065/images/logod.jpg",EXA FM 101.3 (Durango) - 101.3 FM - XHCAV-FM - Armas Radio - Durango, Durango
 https://stream9.mexiserver.com:8114/;
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s325065/images/logod.jpg",EXA FM 101.3 (Tuxtepec) - 101.3 FM - XHPTUX-FM - Grupo Rojaz - Tuxtepec, Oaxaca
+https://stream5.mexiserver.com:1007/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-exa-fm-101-7-fm-culiacan-mexico.webp",EXA FM 101.7 (Culiacán) - 101.7 FM - XHESA-FM - Grupo RSN - Culiacán, Sinaloa
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHESAAAC.AAC
 
@@ -905,6 +911,9 @@ https://cast1.my-control-panel.com/proxy/examante/stream/;stream.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90984/images/logod.png?t=637460020780000000",EXA FM 93.3 (Veracruz) - 93.3 FM - XHPS-FM - MVS Radio - Veracruz, Veracruz
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/020sJTSv/exa935.jpg",EXA FM 93.5 (Irapuato) - 93.5 FM - XHNY-FM - Irapuato, Guanajuato
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHNYAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91207/images/logod.png",EXA FM 94.5 (Ciudad Victoria) - 94.5 FM - XHBJ-FM - ORT Radio - Ciudad Victoria, Tamaulipas
 https://cast1.my-control-panel.com/proxy/exavictoria/stream/;stream.mp3
@@ -1332,6 +1341,9 @@ https://stream.zeno.fm/zpd5he3sz7zuv
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6449a0e2208140d9b995fcea",LA GUADALUPANA 101.7 (Chetumal) - 101.7 FM - XHROOC-FM - Grupo SIPSE Radio - Chetumal, Quintana Roo
 https://cast4.asurahosting.com/proxy/lavozdeq/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/X7pJRnjJ/lahz.jpg",LA HZ 105.5 (La Paz) - 105.5 FM - XHHZ-FM - Promomedios California - La Paz, Baja California
+https://stream.zeno.fm/y8uxwx3je0nvv
+
 #EXTINF:1 radio="true" tvg-logo="https://www.allradio.net/500/7xbmF_FvuVag4AvuuuvMA.webp",LA INIGUALABLE 91.3 (Amatepec) - 91.3 FM - XHPAMM-FM - Amatepec, Estado de México
 http://streaming.dinesat.com:7026/stream
 
@@ -1613,6 +1625,9 @@ https://stream.zeno.fm/wy9eauldjwavv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gkyy0bFR/lareinadelasierra.png",LA REINA DE LA SIERA 99.1 (Nacozari de García) - 99.1 FM - XHNZI-FM - Grupo Radio Guaymas - Nacozari de García, Sonora
 https://sp5.servidorrprivado.com/8064/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67bf4daa49c378be5ab58091",LA REVERENDA 100.5 (Ciudad del Carmen) - 100.5 FM - XHBCC-FM - Corporativo Rivas - Ciudad del Carmen, Campeche
+
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s343846/images/logog.jpg",LA SABROSITA 106.7 (Ciudad Melchor Múzquiz) - 106.7 FM - XHEPQ-FM - Grupo M Radio - Ciudad Melchor Múzquiz, Coahuila
 https://cast1.my-control-panel.com/proxy/sabrosita/stream
@@ -2181,6 +2196,9 @@ https://stream9.mexiserver.com/8064/stream
 #EXTINF:1 radio="true" tvg-logo="",Radio Rouge Italy
 https://nl1.streamingpulse.com/ssl/radiorougeitaly
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/wTGz1SX9/radiosanmiguel1033.png",RADIO SAN MIGUEL 103.3 (San Miguel de Allende) - 103.3 FM - XHSQ-FM - San Miguel de Allende, Guanajuato
+https://stream.zeno.fm/2eu08p2k12quv
+
 #EXTINF:1 radio="true" tvg-logo="https://www.radioxevd.com/templates/contructionco-tg/images/logo.png",RADIO SENSACIONAL DIGITAL 93.9 (Allende) - 93.9 FM - XHVD-FM - Allende, Coahuila
 https://usa6.fastcast4u.com/proxy/xevd?mp=/stream
 
@@ -2384,6 +2402,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHIDOFMGAVCAAC
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/nhyjdX7P/superstereomiled1047.png",SUPER STEREO MILED 104.7 (Atlacomulco) - 104.7 FM - XHRLK-FM - Grupo Miled - Atlacomulco, Estado de México
 https://stereoatlaco-cybertec.radioca.st/stream.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s339357/images/logod.jpg",SUPER ZONA 104.3 (Temax) - 104.3 FM - XHPTEM-FM - RDMX - Temax, Yucatán
+https://stream.zeno.fm/0kfnwylndhsuv
 
 #EXTINF:1 radio="true" tvg-logo="https://techno.fm/favicon.ico",Techno - FM - Channel
 https://stream.techno.fm/radio1-320k.mp3
@@ -2978,24 +2999,3 @@ https://0n-christmas.radionetz.de/0n-christmas.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-christmas_600x600.jpg",- 0 N - Christmas on Radio
 https://0n-christmas.radionetz.de/0n-christmas.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-classic-rock_600x600.jpg",- 0 N - Classic Rock on Radio
-https://0n-classicrock.radionetz.de/0n-classicrock.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-classic-rock_600x600.jpg",- 0 N - Classic Rock on Radio
-https://0n-classicrock.radionetz.de/0n-classicrock.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-classic-rock_600x600.jpg",- 0 N - Classic Rock on Radio
-https://0n-classicrock.radionetz.de/0n-classicrock.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-country_600x600.jpg",- 0 N - Country on Radio
-https://0n-country.radionetz.de/0n-country.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-country_600x600.jpg",- 0 N - Country on Radio
-https://0n-country.radionetz.de/0n-country.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg",- 0 N - Dance on Radio
-https://0n-dance.radionetz.de/0n-dance.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-dance_600x600.jpg",- 0 N - Dance on Radio
-https://0n-dance.radionetz.de/0n-dance.aac
