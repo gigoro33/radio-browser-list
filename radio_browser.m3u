@@ -1626,9 +1626,6 @@ https://stream.zeno.fm/wy9eauldjwavv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gkyy0bFR/lareinadelasierra.png",LA REINA DE LA SIERA 99.1 (Nacozari de García) - 99.1 FM - XHNZI-FM - Grupo Radio Guaymas - Nacozari de García, Sonora
 https://sp5.servidorrprivado.com/8064/stream
 
-#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67bf4daa49c378be5ab58091",LA REVERENDA 100.5 (Ciudad del Carmen) - 100.5 FM - XHBCC-FM - Corporativo Rivas - Ciudad del Carmen, Campeche
-
-
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s343846/images/logog.jpg",LA SABROSITA 106.7 (Ciudad Melchor Múzquiz) - 106.7 FM - XHEPQ-FM - Grupo M Radio - Ciudad Melchor Múzquiz, Coahuila
 https://cast1.my-control-panel.com/proxy/sabrosita/stream
 
@@ -2999,3 +2996,6 @@ https://0n-christmas.radionetz.de/0n-christmas.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-christmas_600x600.jpg",- 0 N - Christmas on Radio
 https://0n-christmas.radionetz.de/0n-christmas.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-classic-rock_600x600.jpg",- 0 N - Classic Rock on Radio
+https://0n-classicrock.radionetz.de/0n-classicrock.mp3
