@@ -702,6 +702,9 @@ https://stream.radio.co/s938b68214/listen
 #EXTINF:1 radio="true" tvg-logo="",Chill trax
 http://server1.chilltrax.com:9000/;
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/C51XmR7T/cielosabiertos.jpg",CIELOS ABIERTOS FM 94.7 (Ciudad Valles) - 94.7 FM - XHPEAA-FM - Ciudad Valles, San Luis Potosí
+https://radiosprofecionalesmex.com:8002/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-classic-106-9-fm-mexico.webp",CLASSIC 106.9 (MTY) - 106.9 FM - XHPJ-FM - Multimedios Radio - Monterrey, Nuevo León
 https://mdstrm.com/audio/673788019b826f0dc1842750/icecast.audio
 
@@ -1547,6 +1550,9 @@ https://tv.radiohosting.online:8140/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/964/la-perrona.fa0fb94c.png",LA PERRONA 92.5 (Irapuato) - 92.5 FM - XHSAG-FM - Grupo El Salmantino - Irapuato, Guanajuato
 https://streaming.shoutcast.com/laperrona
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/cL1DxBsN/laplakosa.png",LA PLAKOSA 95.3 (Culiacán) - 95.3 FM - XHIN-FM - TM Medios / Radiorama Sinaloa - Culiacán, Sinaloa
+https://stream.zeno.fm/202c8kg9d78uv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91306/images/logod.png",LA PODEROSA 100.1 (Oaxaca) - 100.1 FM - XHOQ-FM - Grupo AS Comunicación - Oaxaca, Oaxaca
 https://stream.zeno.fm/yg63h9ekvjhvv
@@ -2993,9 +2999,3 @@ https://0n-chillout.radionetz.de/0n-chillout.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-christmas_600x600.jpg",- 0 N - Christmas on Radio
 https://0n-christmas.radionetz.de/0n-christmas.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-christmas_600x600.jpg",- 0 N - Christmas on Radio
-https://0n-christmas.radionetz.de/0n-christmas.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-christmas_600x600.jpg",- 0 N - Christmas on Radio
-https://0n-christmas.radionetz.de/0n-christmas.aac
