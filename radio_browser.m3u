@@ -216,6 +216,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAA
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/BZkKfvtv/match.jpg",MATCH: ¡Más Pop, Conéctate!
 https://27283.live.streamtheworld.com:443/XHPOPFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bc5ec96c7977ca1c9302271",MIX EN VIVO: Rock y pop en vivo
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR09_s01AAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bc5eca8c7977ca1c9302273",MIX HARD ROCK: El mejor Hard Rock en inglés
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR10_s01AAC.aac
 
@@ -533,6 +536,9 @@ https://cdn1.onstream.audio/proxy/xhpcdc/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logod.png",BBC RADIO 1 - The biggest new pop and all-day vibes
 http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/cf/bbc_radio_one.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s347239/images/logod.png",BBC RADIO 1 ANTHEMS UK: All-day anthems from the 00s to now. Londres, Inglaterra
+https://as-hls-ww.live.cf.md.bbci.co.uk/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d96000.norewind.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s347238/images/logod.png",BBC RADIO 1 DANCE UK: The biggest current, future and classic dance vibes. Londres, Inglaterra
 http://151.80.56.90:8090/bbc_radio_one_dance.aac
@@ -1506,6 +1512,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s245271/images/logod.png",LA MEJOR FM 90.9 (San Luis Potosí) - 90.9 FM - XHWZ-FM - MG Radio - San Luis Potosí, San Luis Potosí
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHWZAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s184180/images/logod.jpg",LA MEJOR FM 92.7 (Querétaro) - 92.7 FM - XHXE-FM - Grupo Multimundo Radio - Querétaro, Querétaro
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHXEAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87620/images/logod.jpg",LA MEJOR FM 93.7 (Aguascalientes) - 93.7 FM - XHAGT-FM - Radio Universal - Aguascalienteas, Aguascalientes
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHAGTAAC.aac
 
@@ -2382,6 +2391,9 @@ https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88358/images/logod.jpg",STEREO UNO 100.3 (Mazatlán) - 100.3 FM - XHZS-FM - Luz Network - Mazatlán, Sinaloa
 https://audiostreaming.luz.network/stream/13/
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/C5rqJc0t/stereobit.png",STEREOBIT 103.7 (Ciudad Valles) - 103.7 FM - XHIR-FM - Organización Radio Valles - Ciudad Valles, San Luis Potosí
+https://sp2.servidorrprivado.com:10997/;
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jS5mFrLM/stereorey.jpg",STEREOREY (CDMX) - Online - www.stereorey.com - MVS Radio - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac
 
@@ -2439,6 +2451,9 @@ https://playradio.mx/proxy/trion?mp=/stream
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ea788257ba15486d603ab74",Trión Ciudad de México - 103.3 HD4 - XERFR-FM - Grupo Fórmula - Ciudad de México
 https://stream.radiojar.com/4f89tufzv9duv
 
+#EXTINF:1 radio="true" tvg-logo="",Trombone Jazz Radio Logo  Trombone Jazz Radio - Sherman, CT
+
+
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/UAMRadio-logo.jpg",UAM RADIO 94.1 (CDMX) - 94.1 FM - XHUAM-FM - UAM (Universidad Autónoma Metropolitana) - Ciudad de México
 https://stream5.mexiserver.com:1124/
 
@@ -2450,6 +2465,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHFO_FMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s309342/images/logod.jpg",UNIVERSAL STEREO ONLINE (CDMX) - Online - www.universalstereoonline.com - Grupo Radio Centro - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XERC_FMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/YCS3pg6V/up.png",UP! 92.5.2 (Puebla) - 92.5 HD2 - XHZM-FM - Ultra Telecom - Puebla, Puebla
+https://icecastultra.duckdns.org/ultraup
 
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/XHUVA_UVA90.5_logo.png",UVA 90.5 (Aguascalientes) - 90.5 FM - XHUVA-FM - Radiogrupo - Aguascalientes, Aguascalientes
 http://201.159.48.106:1407/
@@ -2522,6 +2540,9 @@ https://stream.freepi.io/8330/live
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/9fZ9LHcm/vox.png",VOX: Radio Hits
 https://streamingcwsradio30.com/8292/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s350929/images/logod.png",VOZ 99.7 (Ciudad Valles) - 99.7 FM - XHETR-FM - Ciudad Valles, San Luis Potosí
+https://streams.radiomast.io/4672e61f-eea5-424e-a686-da0e7d1088f2
 
 #EXTINF:1 radio="true" tvg-logo="https://www.wdeportes.com/pf/resources/wdeportes/touch-icon-ipad.png?d=168",W DEPORTES - 730 AM - XEX-AM - Radiópolis - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC.aac
@@ -2978,24 +2999,3 @@ https://0n-blues.radionetz.de/0n-blues.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-charts_600x600.jpg",- 0 N - Charts on Radio
 https://0n-charts.radionetz.de/0n-charts.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-charts_600x600.jpg",- 0 N - Charts on Radio
-https://0n-charts.radionetz.de/0n-charts.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-chillout_600x600.jpg",- 0 N - Chillout on Radio
-https://0n-chillout.radionetz.de/0n-chillout.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-chillout_600x600.jpg",- 0 N - Chillout on Radio
-https://0n-chillout.radionetz.de/0n-chillout.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-chillout_600x600.jpg",- 0 N - Chillout on Radio
-https://0n-chillout.radionetz.de/0n-chillout.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-chillout_600x600.jpg",- 0 N - Chillout on Radio
-https://0n-chillout.radionetz.de/0n-chillout.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-chillout_600x600.jpg",- 0 N - Chillout on Radio
-https://0n-chillout.radionetz.de/0n-chillout.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-christmas_600x600.jpg",- 0 N - Christmas on Radio
-https://0n-christmas.radionetz.de/0n-christmas.mp3
