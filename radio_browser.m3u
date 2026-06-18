@@ -759,6 +759,9 @@ https://mdstrm.com/audio/672cf2d514e0b3ed57c840c5/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6286d9dd4820546084492257",D99 98.9 (MTY) - 98.9 FM - XHJD-FM - Multimedios Radio - Monterrey, Nuevo León
 https://mdstrm.com/audio/662800a9c30cbb3e2e61f44b/icecast.audio
 
+#EXTINF:1 radio="true" tvg-logo="https://darksymphonyradio.co.uk/assets/logo-dsr.png",Dark Symphony Radio
+https://streaming.live365.com/a02267
+
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/05/XHPAL_Digimix95_logo.jpg",DIGIMIX 95 95.9 (La Paz) - 95.9 FM - XHPAL-FM - Promomedios California - La Paz, Baja California
 https://stream.zeno.fm/pgs4nreif6yvv
 
@@ -2367,6 +2370,9 @@ https://stream-158.zeno.fm/6f2bace3gd0uv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/CKGB1bbR/soyfm.png",SOY FM 101.7 (Veracruz) - 101.7 FM - XHPR-FM - Valanci Media Group - Boca del Río, Veracruz
 https://stream.zeno.fm/uemgdeyam5zuv
 
+#EXTINF:1 radio="true" tvg-logo="https://static.wixstatic.com/media/837828_8ad6426e19624af38be7a52e88671f1c~mv2.jpeg",StarStream Radio - The Vinyl Vibe
+https://streaming.live365.com/a29175
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s329513/images/logod.jpg",STEREO 100 99.9 (Morelia) - 99.9 FM - XHSCHP-FM - FH Comunicadores de Michoacán - Morelia/Tarímbaro, Michoacán
 http://154.38.167.185:8040/;
 
@@ -2993,9 +2999,3 @@ https://0n-black.radionetz.de/0n-black.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-blues_600x600.jpg",- 0 N - Blues on Radio
 https://0n-blues.radionetz.de/0n-blues.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-blues_600x600.jpg",- 0 N - Blues on Radio
-https://0n-blues.radionetz.de/0n-blues.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-charts_600x600.jpg",- 0 N - Charts on Radio
-https://0n-charts.radionetz.de/0n-charts.aac
