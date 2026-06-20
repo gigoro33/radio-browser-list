@@ -2739,6 +2739,9 @@ https://icecast-sibinformburo.cdnvideo.ru/dipolfm
 #EXTINF:1 radio="true" tvg-logo="",ПГТРК Радио 1
 http://217.19.211.252:8022/Radio1
 
+#EXTINF:1 radio="true" tvg-logo="",Первый канал 1tv.ru
+
+
 #EXTINF:1 radio="true" tvg-logo="",Чапаевский Гостиный двор
 http://62.213.14.14:8000/stream192.aac
 
@@ -2996,6 +2999,3 @@ https://0n-black.radionetz.de/0n-black.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-black_600x600.jpg",- 0 N - Black on Radio
 https://0n-black.radionetz.de/0n-black.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-black_600x600.jpg",- 0 N - Black on Radio
-https://0n-black.radionetz.de/0n-black.aac
