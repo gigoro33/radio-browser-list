@@ -897,6 +897,9 @@ https://stream5.mexiserver.com:1007/stream
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-exa-fm-101-7-fm-culiacan-mexico.webp",EXA FM 101.7 (Culiacán) - 101.7 FM - XHESA-FM - Grupo RSN - Culiacán, Sinaloa
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHESAAAC.AAC
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/zvB9rsVT/exafm1019.jpg",EXA FM 101.9 (Celaya) - 101.9 FM - XHEOF-FM - Promomedios - Celaya, Guanajuato
+http://144.217.67.108:9148/;
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90291/images/logod.jpg",EXA FM 101.9 (Poza Rica) - 101.9 FM - XHRIC-FM - MVS Poza Rica (Estudio 101.9) - Poza Rica, Veracruz
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHRICAAC.aac
 
@@ -1061,6 +1064,9 @@ https://secure.radiorama.mx:2184/
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/108/fiesta-mexicana-909-fm.7a88d4cb.jpg",FIESTA MEXICANA (Autlán) - 90.9 FM - XHANV-FM - Promosat de México - Autlán, Jalisco
 https://stream.zeno.fm/2r1xxtznq68uv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/tTvqfH4x/fiestamexicana1029.jpg",FIESTA MEXICANA 102.9 (Celaya) - 102.9 FM - XHNC-FM - Radiorama Bajío - Celaya, Guanajuato
+https://stream.zeno.fm/uwcg6hb6dkhvv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2996/images/logod.jpg",FIESTA MEXICANA 92.3 (GDL) - 92.3 FM - XHBIO-FM  - Grupo Promomedios - Guadalajara, Jalisco
 https://stream.promomedios.com:8002/stream
@@ -1512,6 +1518,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHDGOAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-mejor-zacatecas-107-9-fm-mexico.webp",LA MEJOR FM 107.9 (Fresnillo) - 107.9 FM - XHEMA-FM - Grupo Radiofónico B15 - Fresnillo, Zacatecas
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEMAAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/7hRMX8V4/lamejor891.jpg",LA MEJOR FM 89.1 (Celaya) - 89.1 FM - XHITC-FM - Promomedios - Celaya, Guanajuato
+http://cento02.mipanelradio.com:8018/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24607/images/logod.png",LA MEJOR FM 90.7 (Tijuana) - 90.7 FM - XHTIM-FM - MVS Radio - Tijuana, Baja California
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHTIMAAC.aac
 
@@ -1715,6 +1724,9 @@ https://sp3.servidorrprivado.com:10840/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-latidos-fm-stream-colima-mexico.webp",LATIDOS FM 89.7 (Chetumal) - 89.7 FM - XHLAR-FM - Luna Medios - Chetumal, Quintana Roo
 https://radios.lunamedios.mx/8002/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/s2PXQhK9/lglagrande1045.jpg",LG LA GRANDE 104.5 (Celaya) - 104.5 FM - XHZN-FM - Promomedios - Celaya, Guanajuato
+http://144.217.67.108:9150/;
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91217/images/logod.jpg",LG LA GRANDE 95.5 (León) - 95.5 FM - XHELG-FM - Promomedios - León, Guanajuato
 https://stream.zeno.fm/9ty3tty0ra0uv
@@ -2223,6 +2235,9 @@ https://stream.zeno.fm/2eu08p2k12quv
 #EXTINF:1 radio="true" tvg-logo="https://www.radioxevd.com/templates/contructionco-tg/images/logo.png",RADIO SENSACIONAL DIGITAL 93.9 (Allende) - 93.9 FM - XHVD-FM - Allende, Coahuila
 https://usa6.fastcast4u.com/proxy/xevd?mp=/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/MHcMtcHQ/radiotecnologicodecelaya.jpg",RADIO TECNOLÓGICO DE CELAYA 89.9 (Celaya) - 89.9 FM - XHITC-FM - Instituto Tecnológico de Celaya - Celaya, Guanajuato
+https://radios.radiohd.com.mx/8282/;
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s89119/images/logod.jpg",RADIO TURQUESA 105.1 (Cancún) - 105.1 FM - XHNUC-FM - Grupo Turquesa - Cancún, Quintana Roo
 https://stream.miradio.in/proxy/rt1051/live
 
@@ -2369,6 +2384,9 @@ https://stream-158.zeno.fm/6f2bace3gd0uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/CKGB1bbR/soyfm.png",SOY FM 101.7 (Veracruz) - 101.7 FM - XHPR-FM - Valanci Media Group - Boca del Río, Veracruz
 https://stream.zeno.fm/uemgdeyam5zuv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/rw1YJjDh/soyfm939.png",SOY FM 93.9 (Tuxpan) - 93.9 FM - XHTXA-FM - Grupo FM Multimedios - Tuxpan, Veracruz
+https://stream.zeno.fm/0f3dzzp3f78uv
 
 #EXTINF:1 radio="true" tvg-logo="https://static.wixstatic.com/media/837828_8ad6426e19624af38be7a52e88671f1c~mv2.jpeg",StarStream Radio - The Vinyl Vibe
 https://streaming.live365.com/a29175
@@ -2739,9 +2757,6 @@ https://icecast-sibinformburo.cdnvideo.ru/dipolfm
 #EXTINF:1 radio="true" tvg-logo="",ПГТРК Радио 1
 http://217.19.211.252:8022/Radio1
 
-#EXTINF:1 radio="true" tvg-logo="",Первый канал 1tv.ru
-
-
 #EXTINF:1 radio="true" tvg-logo="",Чапаевский Гостиный двор
 http://62.213.14.14:8000/stream192.aac
 
@@ -2984,18 +2999,3 @@ https://0n-80s.radionetz.de/0n-80s.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg",- 0 N - 80s on Radio
 https://0n-80s.radionetz.de/0n-80s.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg",- 0 N - 80s on Radio
-https://0n-80s.radionetz.de/0n-80s.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-90s_600x600.jpg",- 0 N - 90s on Radio
-https://0n-90s.radionetz.de/0n-90s.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-90s_600x600.jpg",- 0 N - 90s on Radio
-https://0n-90s.radionetz.de/0n-90s.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-black_600x600.jpg",- 0 N - Black on Radio
-https://0n-black.radionetz.de/0n-black.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-black_600x600.jpg",- 0 N - Black on Radio
-https://0n-black.radionetz.de/0n-black.mp3
