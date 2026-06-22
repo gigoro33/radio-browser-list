@@ -2136,6 +2136,9 @@ https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ea0948ae7d1b1b0a642194b",RADIO FÓRMULA 104.1 (CDMX) - 104.1 FM - XEDF-FM - Grupo Fórmula - Ciudad de México
 https://mdstrm.com/audio/61e1dfd2658baf082814e25d/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Bnw0htCt/radioformula1069.png",RADIO FÓRMULA 106.9 (Aguascalientes) - 106.9 FM - XHAC-FM - Radio Universal - Aguascalientes, AGuascalientes
+https://radioweb.stream/ags.ags/xhac.aac/icecast.audio
+
 #EXTINF:1 radio="true" tvg-logo="https://www.radiouniversal.mx/assets/images/custom/estaciones/radio-formula.png",RADIO FÓRMULA 106.9 (Aguascalientes) - 106.9 FM - XHAC-FM - Radio Universal - Aguascalientes, Aguascalientes
 https://hls.gvstream.live/radiouniversal/kebuena1400.stream/playlist.m3u8
 
@@ -2996,6 +2999,3 @@ https://0n-70s.radionetz.de/0n-70s.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg",- 0 N - 80s on Radio
 https://0n-80s.radionetz.de/0n-80s.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg",- 0 N - 80s on Radio
-https://0n-80s.radionetz.de/0n-80s.mp3
