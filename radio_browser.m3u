@@ -2007,6 +2007,9 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2377/images/logod.png",PLANET ROCK: Where Rock Lives
 https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4xsPG2L7/playfm.jpg",PLAY FM 93.3 (Cuernavaca) - 93.3 FM - XHTB-FM - Radiorama Morelos - Cuernavaca, Morelos
+https://stream.zeno.fm/yt2efgg9d78uv
+
 #EXTINF:1 radio="true" tvg-logo="https://manager.uber.radio/static/uploads/station/127496a8-d79b-4b7b-9981-a7112fb3922c.png",Positively Stress Relief -om
 https://nl4.mystreaming.net/pr/stressrelief/icecast.audio
 
@@ -2306,6 +2309,9 @@ http://zionmultimedia.live/radio/8010/radio.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/rsrLyrf6/radiozoque.png",RADIO ZOQUE 105.9 (Tuxtla) - 105.9 FM - XHLM-FM - Grupo AS Comunicación - Tuxtla Gutiérrez, Chiapas
 https://stream.zeno.fm/dazhxtdx64avv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/dVkhWpyL/radioactivo.jpg",RADIOACTIVO 98 1/2 FM (CDMX) - Online - zeno.fm/radio/radioactivo-98-5/ - Ciudad de México
+http://stream-56.zeno.fm/0dede0adz4zuv
 
 #EXTINF:1 radio="true" tvg-logo="",Radiopostaja Mir - Međugorje
 https://mirm.live/mir.mp3
@@ -2993,9 +2999,3 @@ https://0n-60s.radionetz.de/0n-60s.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-70s_600x600.jpg",- 0 N - 70s on Radio
 https://0n-70s.radionetz.de/0n-70s.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-70s_600x600.jpg",- 0 N - 70s on Radio
-https://0n-70s.radionetz.de/0n-70s.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.0nradio.com/logos/0n-80s_600x600.jpg",- 0 N - 80s on Radio
-https://0n-80s.radionetz.de/0n-80s.aac
