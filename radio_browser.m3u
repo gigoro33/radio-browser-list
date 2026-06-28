@@ -81,6 +81,9 @@ https://vip1.fhbf9.com/20210705/eoQxrzxS/index.m3u8
 #EXTINF:1 radio="true" tvg-logo="",
 https://vip1.fhbf9.com/20210705/63Zb2fOi/index.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://radiomix360.cl/favicon.png",Radio Mix 360                                        |
+https://sp001.servidoresph.com:7035/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://media.live365.com/download/b6b2cf5d-7596-471f-8aa4-fb4edd25612f.jpg",Squirrel FM
 http://s25.myradiostream.com:10092/stream
 
@@ -2993,9 +2996,6 @@ https://gmusto3.radioca.st/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://www.radioenergy.to/favicon.ico",_Radio Energy(USA)
 https://gmusto.radioca.st/mp3
-
-#EXTINF:1 radio="true" tvg-logo="",_Wawa Radio 101.2 FM
-https://xn--tmz.xn--6frz82g/streams
 
 #EXTINF:1 radio="true" tvg-logo="",_Wawa Radio 101.2 FM
 https://xn--tmz.xn--6frz82g/streams
