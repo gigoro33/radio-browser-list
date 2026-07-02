@@ -708,6 +708,9 @@ http://ice-the.musicradio.com/Capital
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/767/la-mexicana-1051-fm.1024c01f.png",CAPULLO FM 105.1 (Francisco I. Madero) - 105.1 FM - XHYD-FM - GPS Media - Francisco I. Madero, Coahuila
 https://stream.zeno.fm/3qv5hnktu4rvv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Qt7VvsX8/caribefm.png",CARIBE FM 101.9 (Cancún) - 101.9 FM - XHCBJ-FM - SQCS (Sistema Quintanarroense de Comunicación Social) - Cancún, Quintana Roo
+https://sp2.servidorrprivado.com/8042/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/8PZh9vf4/catedraldelamusica.png",CATEDRAL DE LA MÚSICA (Zamora) - 91.7 FM - XHQL-FM - Cadena RASA - Zamora, Michoacán
 https://stream-285.zeno.fm/1parq976sk8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIxcGFycTk3NnNrOHV2IiwiaG9zdCI6InN0cmVhbS0yODUuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiemRYLTNxNU9TX0d3UEE2cXBNTGZJUSIsImlhdCI6MTc4MDMwODMzMywiZXhwIjoxNzgwMzA4MzkzfQ.OaeoQQtIfD6mQzur_Tfq9muXZ1dOaBWCTSFT--NrMSE
 
@@ -767,6 +770,12 @@ https://streamingcwsradio30.com/8270/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://www.allradio.net/500/lDlaUwul_r__U4G5lP7_3.webp",CONTACTO 98.9 (Chalco) - 98.9 FM - XHCHAL-FM - Comunicaciones en Contacto, Cultura y Bienestar Social, A.C. - Chalco, Estado de México
 https://stm11.xcast.com.br:9640/;
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s8304/images/logod.png",CRYSTAL 103.7 (Valle de México) - 103.7 FM - XHCME-FM - Grupo Siete - Coacalco, Estado de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHCMEFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88572/images/logod.png",CRYSTAL 104.9 (Tenancingo) - 104.9 FM - XHMLO-FM - Grupo Siete - Tenancingo, Estado de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMLOFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/901wmSVt/crystal1061.png",CRYSTAL 106.1 (Pachuca) - 106.1 FM - XHPCA-FM - Grupo Siete - Pachuca, Hidalgo
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMYFMAAC.aac
@@ -2990,12 +2999,3 @@ https://techhouse-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="",__TECHHOUSE__ by rautemusik (rm.fm)
 https://techhouse-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://rm.fm/favicon.ico",__TECHNO__ by rautemusik.fm
-https://streams.rautemusik.fm/techno/mp3-192/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://christmas-channel.com/wp-content/themes/christmaschannel2020/img/favicon.png",__THE CHRISTMAS CHANNEL__ by rautemusik (rm.fm)
-https://christmas-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__TOP40__ by rautemusik (rm.fm)
-https://top40-high.rautemusik.fm/?ref=radiobrowser
