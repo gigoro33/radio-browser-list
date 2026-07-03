@@ -873,6 +873,9 @@ https://streamingcwsradio30.com/8172/stream
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-el-patron-104-9-fm-mexico.webp",EL PATRÓN 104.9 (Xalapa) - 104.9 FM - XHBD-FM - Oliva Radio - Xalapa, Veracruz
 http://ssc.cnwks.ws:8365/;
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/FHJ64fkG/elsol.png",EL SOL 107.7 (Tijuana) - 107.7 FM - XHRST-FM - MLC Media - Tijuana, Baja California
+https://vsstreaming.com/8026/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/3Nd7zbYG/elviejon881.png",EL VIEJÓN 88.1 (Tantoyuca) - 88.1 FM - XHCCCR-FM - Grupo Franco Comunicaciones del Norte - Tantoyuca, Veracruz
 https://sp04.servidorrprivado.com:7037/sid=1
 
@@ -2058,6 +2061,9 @@ https://stream.zeno.fm/3agiabarewutv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/zDPHsrLb/orejafm1057.png",OREJA FM 105.7 (Oaxaca) - 105.7 FM - XHIU-FM - Grupo AS Comunicación - Oaxaca, Oaxaca
 https://stream.zeno.fm/5yaxrwzln6ouv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/d35WX1rC/oristereo.png",ORI STEREO 99.3 (Orizaba) - 99.3 FM - XHORA-FM - Grupo Peláez Domínguez - Orizaba, Veracruz
+http://streamingcwsradio10.com:9316/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s335519/images/logod.png",ORO FM 88.1 (Tepezalá) - 88.1 FM - XHSCJS-FM - Voces de Tepezalá, Cultura de mi Pueblo, A.C. - Tepezalá, Aguascalientes
 https://stream.zeno.fm/fr1m9xwfp4guv
 
@@ -2117,6 +2123,9 @@ https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sXQ6qLmR/Radio-Activa.jpg",Radio Activa 89.7 (Hermosillo) - 89.7 FM - XHEDL-FM - Grupo RADIO SA - Hermosillo, Sonora
 https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/g0wjfZWg/radioaguerrido.png",RADIO AGUERRIDO 96.9 (Álvaro Obregón) - 96.9 FM - XHSCCU-FM - Radio Aguerrida, A.C. - Álvaro Obregón, Michoacán
+https://sseg.us/proxy/guadalu1?mp=/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-altiplano-96-5-fm-tlaxcala-mexico.webp",RADIO ALTIPLANO 96.5 (Tlaxcala) - 96.5 FM - XHTLAX-FM - CORACYT - Tlaxcala, Tlaxcala
 https://radio11.mega00.com/8018/stream
@@ -2990,12 +2999,3 @@ https://streams.rautemusik.fm/shredded/mp3-192/stream.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__SOLOPIANO__ by rautemusik (rm.fm)
 https://solopiano-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__STUDY__ by rautemusik (rm.fm)
-https://study-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__TECHHOUSE__ by rautemusik (rm.fm)
-https://techhouse-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",__TECHHOUSE__ by rautemusik (rm.fm)
-https://techhouse-high.rautemusik.fm/?ref=radiobrowser
