@@ -303,6 +303,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR22_s01AAC.
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64e79c815d7cd6e7509d8e23",SOUNDS OF YESTERDAY: Clásicos en inglés. Música Universal.
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR30_s01AAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="",Sports Radio 94 WIP
+
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/9XDdyxHP/stereocien.png",STEREO CIEN: Siempre Contigo
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
 
@@ -2996,6 +2999,3 @@ https://sex-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="",__SHREDDED__ by RauteMusik (rm.fm)
 https://streams.rautemusik.fm/shredded/mp3-192/stream.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__SOLOPIANO__ by rautemusik (rm.fm)
-https://solopiano-high.rautemusik.fm/?ref=radiobrowser
