@@ -1710,6 +1710,9 @@ https://stream-150.zeno.fm/hhorff0ftxguv
 #EXTINF:1 radio="true" tvg-logo="https://www.medios.gt/galeriausuarios/mexico/imagenesmessage/imagem030301150614791.jpg",LA RANCHERITA DEL AIRE 580 (Piedras Negras) - 580 AM - XELRDA-AM - Piedras Negras, Coahuila
 https://enlinea-r1.rancherita.com.mx/listen/rancherita_del_aire/radio.mp3
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88334/images/logod.png",LA RAZA 105.1 (Hermosillo) - 105.1 FM - XHMMO-FM - Grupo RADIO SA - Hermosillo, Sonora
+https://mdstrm.com/audio/6715e0cc481f5a0e45ede939/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88334/images/logod.png",LA RAZA 105.1 (Hermosillo) - 105.1 FM - XHMMO-FM - Grupo RADIOSA - Hermosillo, Sonora
 https://stream.zeno.fm/wy9eauldjwavv
 
@@ -1971,6 +1974,9 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a0112844d3c94ecf11dd
 #EXTINF:1 radio="true" tvg-logo="https://veracruz.maximafm.com.mx/assets/images/logos/maximafm-veracruz.png",MÁXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz.
 https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/GhG5CwWy/maxima963.jpg",MAXIMA 96.3 (Hermosillo) - 96.3 FM - XHVS-FM - Grupo Radio SA - Hermosillo, Sonora
+https://mdstrm.com/audio/66ad356de8f3b93d2da94362/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90953/images/logod.jpg",MAXIMA 96.9 (Tuxtla) - 96.9 FM - XHKR-FM - Grupo Radio SA - Tuxtla Gutiérrez, Chiapas
 https://mdstrm.com/audio/66be641cd9a22180390f882c/live.m3u8
 
@@ -2119,6 +2125,9 @@ https://stream.zeno.fm/76au7xvuvxhvv
 http://sp3.servidorrprivado.com/6617/;
 
 #EXTINF:1 radio="true" tvg-logo="https://activafm.com.mx/assets/images/logos/activa-hermosillo.png",RADIO ACTIVA 89.7 (Hermosillo) - 89.7 FM - XHEDL-FM - Grupo RADIO SA - Hermosillo, Sonora
+https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s337424/images/logod.png",RADIO ACTIVA 89.7 (Hermosillo) - 89.7 FM - XHEDL-FM - Grupo RADIO SA - Hermosillo, SOnora
 https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sXQ6qLmR/Radio-Activa.jpg",Radio Activa 89.7 (Hermosillo) - 89.7 FM - XHEDL-FM - Grupo RADIO SA - Hermosillo, Sonora
@@ -2990,12 +2999,3 @@ https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)
 https://schlager-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/sQNvYtT/sex.jpg",__SEX__ by rautemusik (rm.fm)
-https://sex-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",__SHREDDED__ by RauteMusik (rm.fm)
-https://streams.rautemusik.fm/shredded/mp3-192/stream.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__SOLOPIANO__ by rautemusik (rm.fm)
-https://solopiano-high.rautemusik.fm/?ref=radiobrowser
