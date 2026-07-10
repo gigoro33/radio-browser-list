@@ -2493,6 +2493,9 @@ https://stream.zeno.fm/uemgdeyam5zuv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/rw1YJjDh/soyfm939.png",SOY FM 93.9 (Tuxpan) - 93.9 FM - XHTXA-FM - Grupo FM Multimedios - Tuxpan, Veracruz
 https://stream.zeno.fm/0f3dzzp3f78uv
 
+#EXTINF:1 radio="true" tvg-logo="",Sports Radio94 WIP
+
+
 #EXTINF:1 radio="true" tvg-logo="https://static.wixstatic.com/media/837828_8ad6426e19624af38be7a52e88671f1c~mv2.jpeg",StarStream Radio - The Vinyl Vibe
 https://streaming.live365.com/a29175
 
@@ -2996,6 +2999,3 @@ https://salsa-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/NNxSg2H/schlageroldies.jpg",__SCHLAGER OLDIES__ by rautemusik (rm.fm)
 https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)
-https://schlager-high.rautemusik.fm/?ref=radiobrowser
