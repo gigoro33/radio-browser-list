@@ -285,6 +285,9 @@ https://tv.radiohosting.online:9484/stream
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/dVkhWpyL/radioactivo.jpg",RADIOACTIVO 98 1/2: Fuck Everyone Else!
 http://stream.zeno.fm/0dede0adz4zuv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/rsjnnY3c/reactor.jpg",REACTOR: #GeneraciónR
+https://securestreams7.autopo.st/?uri=http://184.164.75.138:8002/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/664fdc66d654e5b9dff60cca",RITMOS DE LUJO en Radio Felicidad: Tropical, mambo, sonora y son
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR16_s01AAC.aac
 
@@ -1392,6 +1395,9 @@ https://sg.centrocibernetico.com/lafiera
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90769/images/logod.jpg",LA FU 103.3 (Cosamaloapan) - 103.3 FM / 630 AM - XHFU-FM / XEFU-AM - Grupo Radio Sotavento - Cosamaloapan, Veracruz
 https://servidor27.brlogic.com:7008/live
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/3JgJRjGP/lagigante.jpg",LA GIGANTE 95.3 (Piedras Negras) - 95.3 FM - XHGN-FM - Piedras Negras, Veracruz
+https://s2.yesstreaming.net:17103/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62a92c5f8df38373f2253e23",LA GRAN AW 101.3 (MTY) - 101.3 FM - XHAW-FM - Multimedios Radio - Monterrey, Nuevo León
 https://mdstrm.com/audio/67378ab60639b6fb47c91763/icecast.audio
 
@@ -2415,6 +2421,9 @@ https://io.radyoph.com:8020/katribu
 #EXTINF:1 radio="true" tvg-logo="",Rai Radio 1 Sport
 http://icestreaming.rai.it/13.mp3
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/rsjnnY3c/reactor.jpg",REACTOR 105.7 (CDMX) - 105.7 FM - XHOF-FM - IMER - Ciudad de México
+https://securestreams7.autopo.st/?uri=http://184.164.75.138:8002/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cincoradio.com.mx/wp-content/themes/zox-news-child/img/red.png",RED CIUDADANA 1120 (Puebla) - 1120 AM - XEPOP-AM - Cinco Radio - Puebla, Puebla
 https://sg.centrocibernetico.com/formula1120am
 
@@ -2990,12 +2999,3 @@ https://partyhits-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__ROCK__ by rautemusik (rm.fm)
 https://rock-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__SALSA__ by rautemusik (rm.fm)
-https://salsa-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/NNxSg2H/schlageroldies.jpg",__SCHLAGER OLDIES__ by rautemusik (rm.fm)
-https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)
-https://schlager-high.rautemusik.fm/?ref=radiobrowser
