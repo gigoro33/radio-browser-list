@@ -2577,6 +2577,9 @@ https://stream.technolovers.fm/vocal-trance
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s167335/images/logod.png?t=636196552593670000",TEPLOE RADIO NETOP FM
 https://listen.teploe.net:8001/netopfm
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/terra-gaucha.png",Terra Gaúcha
+https://5a57bda70564a.streamlock.net/terragaucha/terragaucha.stream/playlist.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://mybighornbasin.com/favicon.ico",The Eagle KVGL 105.7 (aka, KYTS, 105.7 FM)
 https://ice25.securenetsystems.net/KVGL
 
@@ -2996,6 +2999,3 @@ https://oriental-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__PARTYHITS__ by rautemusik (rm.fm)
 https://partyhits-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__ROCK__ by rautemusik (rm.fm)
-https://rock-high.rautemusik.fm/?ref=radiobrowser
