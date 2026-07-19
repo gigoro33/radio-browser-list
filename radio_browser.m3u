@@ -489,6 +489,9 @@ https://sudominiohoy.com:18303/stream
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s87639g.png",ANTENA 102.5 (Chihuahua) - 102.5 FM - XHES-FM - GRD Multimedia - Chihuahua, Chihuahua
 https://streamingcwsradio30.com:7093/;
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sgN2LCzR/apostolicus.png",APOSTOLICUS 1370 (GDL) - 1370 AM  - XEPJ-AM - Radiorama de Occidente - Guadalajara, Jalisco
+https://stream.zeno.fm/8upea67vurhvv
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s220534/images/logod.png",ARANDAS FM 107.3 (Arandas) - 107.3 FM - XHARDJ-FM - Grupo Radiofónico ZER - Arandas, Jalisco
 https://live.zuperdns.net/1073/stream
 
@@ -1971,6 +1974,9 @@ https://14093.live.streamtheworld.com:443/XHQTOAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6294edb231e1c81edc5d1dfa",MATCH 99.3 (CDMX) - 99.3 FM - XHPOP-FM - Grupo ACIR - Ciudad de México
 https://16603.live.streamtheworld.com:443/XHPOPFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88436/images/logod.png",MAXIMA 106.7 (GDL) - 106.7 FM - XHOJ-FM - Radiorama de Occidente - Guadalajara, Jalisco
+https://stream-285.surfernetwork.com/ppckgqm1qa0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwcGNrZ3FtMXFhMHV2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IklpY2FnWVI4U1BhcFBIVzNoTmgtQ3ciLCJpYXQiOjE3ODQzNzU4NjQsImV4cCI6MTc4NDM3NTkyNH0.7WpvJ3LDc_iT4se25fAipwqT-tzO434FFzR_tQOaIGg
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s343938/images/logod.jpg",MAXIMA 88.5 (Veracruz) - 88.5 FM - XHIL-FM - Grupo RADIOSA - Veracruz, Veracruz
 https://mdstrm.com/audio/66a0112844d3c94ecf11dd96/live.m3u8
 
@@ -2411,6 +2417,9 @@ http://stream-56.zeno.fm/0dede0adz4zuv
 
 #EXTINF:1 radio="true" tvg-logo="",Radiopostaja Mir - Međugorje
 https://mirm.live/mir.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91375/images/logod.png",RADIORAMA FRECUENCIA DEPORTIVA 1340 (GDL) - 1340 AM - XEDKT-AM - Radiorama de Occidente - Guadalajara, Jalisco
+https://stream.zeno.fm/r1540b8e408uv
 
 #EXTINF:1 radio="true" tvg-logo="https://www.xhins.com/images/logo-footer.png",RADIOTEC 100.1 (Saltillo) - 100.1 FM - XHINS-FM - Instituto Tecnológico de Saltillo - Saltillo, Coahuila
 http://104.238.144.165:8022/;
@@ -2990,12 +2999,3 @@ https://lounge-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/thKTGN3/lovehits.jpg",__LOVEHITS__ by rautemusik (rm.fm)
 https://lovehits-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__MAIN__ by rautemusik (rm.fm)
-https://main-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__ORIENTAL__ by rautemusik (rm.fm)
-https://oriental-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__PARTYHITS__ by rautemusik (rm.fm)
-https://partyhits-high.rautemusik.fm/?ref=radiobrowser
