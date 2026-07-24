@@ -1620,6 +1620,9 @@ https://sonicpanel.totalstreaming.net/8064/stream
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fbNrF6cF/lamorrita953.png",LA MORRITA 95.3 (El Fuerte) - 95.3 FM - XHPFRT-FM - Luz Network - El Fuerte, Sinaloa
 https://audiostreaming.luz.network/stream/5/
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/8CBhb8H7/laneta.png",LA NETA 102.5 (Xalapa) - 102.5 FM - XHJA-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xeja?mp=/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67d1db94f41774e5ba58cf96",LA NUEVA BESTIA 103.7 (Toluca) - 103.7 FM - XHQY-FM - Toluca, Estado de México
 http://mi-radio.stream:6660/stream
 
@@ -1913,6 +1916,9 @@ https://stream-icy.bauermedia.pt/m80pop.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://radiogrupo.com/wp-content/uploads/2020/06/Grupo-2879@2x-1024x713.png",MAGIA 101 101.7 (Aguascalientes) - 101.7 FM - XHUNO-FM - Radiogrupo - Aguascalientes, Aguascalientes
 http://201.159.48.107:8080/
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/GtSj8HwJ/magia.png",MAGIA 93.7 (Xalapa) - 93.7 FM - XHKL-FM - AvanRadio - Xalapa, Veracruz
+https://cast3.my-control-panel.com/proxy/xekl?mp=/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24561/images/logod.jpg",MAGIA DIGITAL 100.7 (Ciudad Juárez) - 100.7 FM - XHH-FM - MegaRadio - Ciudad Juárez, Chihuahua
 https://stream.zeno.fm/agrur3r91rhvv
@@ -2382,6 +2388,9 @@ https://stream.zeno.fm/cu717gz92hhvv
 #EXTINF:1 radio="true" tvg-logo="https://universidadefm.com.br/favicon.ico",Rádio Universidade 105.1 FM
 https://stm20.srvstm.com:7264/;?type=https&nocache=1
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Nf9Fv5MH/radiouv.png",RADIO UV 90.5 (Xalapa) - 90.5 FM - XHRUV-FM - UV (Universidad Veracruzana) - Xalapa, Veracruz
+https://58fe359775f31.streamlock.net/radioice/radioice.stream/playlist.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/PrXxJ9wk/radiovariedades.jpg",RADIO VARIEDADES 103.5 (Los Mochis) - 103.5 FM - XHPNK-FM - Cadena OIR - Los Mochis, Sinaloa
 https://radios.blumhost.es/8126/;
 
@@ -2450,6 +2459,9 @@ https://ss1.audiorama.com.mx:6574/vibefm
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/HssvMWDV/retro985.jpg",RETRO 98.5 (San Luis Potosí) - 98.5 FM - XHQK-FM - Cadena RASA - San Luis Potosí, San Luis Potosí
 https://stream.zenolive.com/yms1lgfubmotv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Fzm8qNPq/Retro-107-5.jpg",RETRO FM 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones - Guadalajara, Jalisco
+https://ss1.audiorama.com.mx:6574/vibefm
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s342589/images/logod.png",RETRO FM 88.1 (Córdoba) - 88.1 FM - XHDZ-FM - Grupo Audiorama Comunicaciones - Córdoba, Veracruz
 https://ss1.audiorama.com.mx:6658/stream
@@ -2987,15 +2999,3 @@ https://jam-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/GHPKzgV/karneval.jpg",__KARNEVAL__ by rautemusik (rm.fm)
 https://karneval-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__KLASSIK__ by rautemusik (rm.fm)
-https://klassik-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__KRASSE WEIHNACHTEN__ by rautemusik (rm.fm)
-https://weihnachten-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__LOUNGE__ by rautemusik (rm.fm)
-https://lounge-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/thKTGN3/lovehits.jpg",__LOVEHITS__ by rautemusik (rm.fm)
-https://lovehits-high.rautemusik.fm/?ref=radiobrowser
