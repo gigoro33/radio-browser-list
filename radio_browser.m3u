@@ -972,6 +972,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCBB.mp3
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fLh4vmCg/Exa-FM-Acambaro.jpg",EXA FM 90.5 (Acámbaro) - 90.5 FM - XHVW-FM - Organización Radiofónica de Acámbaro - Acámbaro, Guanajuato
 https://radios.radiohd.com.mx:7140/;
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s50017/images/logod.png",EXA FM 91.7 (Tijuana) - 91.7 FM - XHGLX-FM - MVS Radio - Tijuana, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90288/images/logod.png",EXA FM 91.9 (Ciudad Mante) - 91.9 FM - XHRLM-FM - ORT Radio - Ciudad Mante, Tamaulipas
 https://cast1.my-control-panel.com/proxy/examante/stream/;stream.mp3
 
@@ -983,6 +986,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHNYAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91207/images/logod.png",EXA FM 94.5 (Ciudad Victoria) - 94.5 FM - XHBJ-FM - ORT Radio - Ciudad Victoria, Tamaulipas
 https://cast1.my-control-panel.com/proxy/exavictoria/stream/;stream.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87669/images/logod.png",EXA FM 95.5 (Torreón) - 95.5 FM - XHMP-FM - Grupo Radio Estéreo Mayrán (GREM) - Torreón, Coahuila
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMPAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91975/images/logod.png",EXA FM 95.7 (Cuernavaca) - 95.7 FM - XHCT-FM - MVS Radio - Cuernavaca, Morelos
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCTAAC.aac
@@ -1346,6 +1352,9 @@ https://sg.centrocibernetico.com/audiorama-xhepi
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s87889d.png",LA BUENA ONDA 101.9 (GDL) - 101.9 FM - XEAD-FM - Grupo Unidifusión - Guadalajara, Jalisco
 https://s2.yesstreaming.net:9094/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62aa65eec3d9660566bd74d8",LA CALIENTE 99.9 (Cuauhtémoc) - 99.9 FM - XHCTC-FM - Multimedios Radio - Cuauhtémoc, Chihuahua
+https://mdstrm.com/audio/672cff32326325ee49585c36/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/2yKxZXGL/lacalurosa.png",LA CALUROSA 100.3 (Ensenada) - 100.3 FM - XHDX-FM - Esquina 32 - Ensenada, Baja California
 https://cast2.my-control-panel.com/proxy/smashco1/stream
@@ -2990,12 +2999,3 @@ https://happy-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__HARDER__ by rautemusik (rm.fm)
 https://harder-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__HOUSE__ by rautemusik (rm.fm)
-https://house-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__JAM__ by rautemusik (rm.fm)
-https://jam-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/GHPKzgV/karneval.jpg",__KARNEVAL__ by rautemusik (rm.fm)
-https://karneval-high.rautemusik.fm/?ref=radiobrowser
