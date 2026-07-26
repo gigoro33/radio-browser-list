@@ -1071,6 +1071,9 @@ https://streaming.exclusive.radio/er/eagles/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="",Exclusively Whitney Houston
 https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/RFNNY2Zy/exitos.png",EXITOS 91.3 (Matamoros) - 91.3 FM - XHMLS-FM - Grupo Radio Avanzado - Matamoros, Tamaulipas
+https://ice8.securenetsystems.net/EXITO913
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/GtL9wWFJ/expresionradio.jpg",EXPRESIÓN RADIO 88.3 (Ario de Rosales) - 88.3 FM - XHDCP-FM - De Corazón Purépecha, A.C. - Ario de Rosales, Michoacán
 http://streaming.servicioswebmx.com/8118/;
 
@@ -2996,6 +2999,3 @@ https://happyhardcore-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__HAPPY__ by rautemusik (rm.fm)
 https://happy-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__HARDER__ by rautemusik (rm.fm)
-https://harder-high.rautemusik.fm/?ref=radiobrowser
