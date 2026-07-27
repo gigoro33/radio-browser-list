@@ -1278,6 +1278,9 @@ https://stream.zeno.fm/extbc8p9na0uv
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24508/images/logod.jpg",JOYA 93.7 (CDMX) - 93.7 FM - XEJP-FM - Grupo Radio Centro - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEJP_FMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/cHq6p856/xhvv.png",JOYA 96.9 (Xalapa) - 96.9 FM - XHTZ-FM - Valanci Media Group - Xalapa, Veracruz
+https://playradio.mx/proxy/joya?mp=/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-k-digital-102-7-fm-queretaro-mexico.webp",K 102.7 (Tequisquiapan) - 102.7 FM - XHPQUI-FM - Tequisquiapan, Querétaro
 https://stream3.mexiserver.com:10167/stream
 
@@ -1325,6 +1328,9 @@ https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.player
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logod.png",KISSTORY: Non-Stop Old Skool & Anthems
 https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s342438/images/logod.png",KY 104.3 (Ciudad Juárez) - 104.3 FM - XHTO-FM - Grupo Audiorama Comunicaciones - Ciudad Juárez, Chihuahua
+https://sg.centrocibernetico.com/audiorama-xhto
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s344078/images/logod.png",KY 104.5 (MTY) - 104.5 FM - XHMF-FM - Grupo Audiorama Comunicaciones - Monterrey, Nuevo León
 https://cdn1.onstream.audio/proxy/xhmf/stream
@@ -1524,6 +1530,9 @@ https://streaming.servicioswebmx.com/8252/stream
 #EXTINF:1 radio="true" tvg-logo="https://nexostreaming.com/apgruporadio/wp-content/uploads/2024/11/Logotipo-La-KeBuena-El-Fuerte-Sinaloa-98.5-FM_Mesa-de-trabajo-1-copia-qhuu1v2zoi41zbu3dbcu40ks7kj4cmrqojwk9vla4w.png",LA KEBUENA 98.5 FM (El Fuerte) - 98.5 FM - XHCCCD-FM - Ap Grupo Radio - El Fuerte, Sinaloa
 https://stream.soyradioinc.com:8274/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62aa6f5ac3d9660566bd74de",LA LUPE 100.9 (Xalapa) - 100.9 FM - XHALAPA-FM - Multimedios Radio - Xalapa, Veracruz
+https://mdstrm.com/audio/672cf91376b5a6eeae594b58/icecast.audio
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s323168/images/logod.png",LA LUPE 104.9 (San Luis Potosí) - 104.9 FM - XHCZ-FM - Multimedios Radio - San Luis Potosí, San Luis Potosí
 https://mdstrm.com/audio/6737a424ecba1df74a06e49e/icecast.audio
 
@@ -1646,6 +1655,9 @@ https://streamingcwsradio30.com/8132/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s331224/images/logod.png",LA PATRONA 94.5 (Santiago) - 94.5 FM - XHSI-FM - Alica Medios - Santiago Ixcuintla, Nayarit
 https://tv.radiohosting.online:8140/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/s2zRdQ9P/lapatrona.png",LA PATRONA 99.5 (Guaymas) - 99.5 FM - XHDR-FM - Grupo Radio Guaymas - Guaymas, Sonora
+https://sp5.servidorrprivado.com/8066/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/6Q11Vjkt/laperla.jpg",LA PERLA 99.1 (Torreón) - 99.1 FM - XHCCAW-FM - Grupo Horizonte Lagunero - Torreón, Coahuila
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCASAAC.aac
@@ -2987,15 +2999,3 @@ https://deutschrap-charts-high.rautemusik.fm/?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__DEUTSCHRAP CLASSIC__ by rautemusik (rm.fm)
 https://deutschrap-classic-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/jMH358Y/deutschrap.jpg",__DEUTSCHRAP__ by rautemusik (rm.fm)
-https://deutschrap-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__GOLDIES__ by rautemusik (rm.fm)
-https://goldies-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__HAPPY HARDCORE__ by rautemusik (rm.fm)
-https://happyhardcore-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__HAPPY__ by rautemusik (rm.fm)
-https://happy-high.rautemusik.fm/?ref=radiobrowser
