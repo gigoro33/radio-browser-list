@@ -129,6 +129,9 @@ http://s1.audiorama.mx:6678/stream
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/68507f96166c04a064910e82",CHILANGO RADIO: La Radio Que Viene, Viene
 https://stream.radio.co/s938b68214/listen
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4d5tgGsH/cultura965.png",CULTURA 96.5 FM: La Radio Cultural de México
+
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0cb167ec97a064f3322d1",EL FONÓGRAFO: Música las 24 Horas
 https://18313.live.streamtheworld.com:443/XEJP_AMAAC.aac
 
@@ -170,6 +173,9 @@ https://stream.radiojar.com/4bgpz3xpwhcwv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/69123130bb13926ddacf04e4",HERALDO RADIO: La "H" Que Sí Suena
 https://stream.radiojar.com/0pqyt47etbkvv
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87997/images/logod.jpg",HORIZONTE: Amplía Tu Escucha
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8014/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s50611/images/logod.png",IBERO: El Milagro de la Radio
 http://noasrv.caster.fm:10182/live
@@ -243,6 +249,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f64ba55e89ed47267cc5b52",NEW CENTURY by Match: Pop y rock del nuevo siglo
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR04_s01AAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/ZqmMHRdP/opus94.jpg",OPUS 94: Travesía Sonora
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8016/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/FHjNX8q9/oye.jpg",OYE: Se Oye
 http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
 
@@ -251,6 +260,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR08_s01AAC.
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bd35fe16217a1eceece2270",PIANO LANDSCAPES: Música instrumental para relajarte
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR23_s01AAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gkRxssgb/polifonia.png",POLIFONÍA de Radio IPN: Música para todos los oídos
+
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/mD0hbHPc/radio620.png",RADIO 620: La Música Que Llegó Para Quedarse
 https://stream.zeno.fm/smm679phup8uv
@@ -660,6 +672,9 @@ https://s2.radio.co/s77395f3d5/listen
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/099/cadena-azul-957-fm.b675d07b.png",CADENA AZUL 95.7 (Atlacomulco) - 95.7 FM - XHATF-FM - Grupo Rotativo - Atlacomulco, Estado de México
 https://01.solumedia.com.ar:10023/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s164194d.png",CAFÉ ROMÁNTICO RADIO (MTY) - Online - www.caferomanticoradio.com - Grupo Digital Retroland - Monterrey, Nuevo León
+https://panel.retrolandigital.com/radio/8110/listen
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s26784/images/logog.jpg",CALI 93.9 (Los Ángeles) - 93.9 FM - KLLI - Meruelo Group - Los Ángeles, California, EUA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KLLI_FMAAC.aac
 
@@ -780,6 +795,9 @@ https://streamingcwsradio30.com/8270/stream
 #EXTINF:1 radio="true" tvg-logo="https://www.allradio.net/500/lDlaUwul_r__U4G5lP7_3.webp",CONTACTO 98.9 (Chalco) - 98.9 FM - XHCHAL-FM - Comunicaciones en Contacto, Cultura y Bienestar Social, A.C. - Chalco, Estado de México
 https://stm11.xcast.com.br:9640/;
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/SNB7fzby/convoy.png",CONVOY (CDMX) - Online - www.convoynetwork.com - Convoy Network - Ciudad de México
+https://live.convoynetwork.com/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/SsWg47Cf/cristoreyradio.jpg",CRISTO REY RADIO 1110 (Ciudad Juárez) - 1110 AM - XEWR-AM - MegaRadio - Ciudad Juárez, Chihuahua
 https://live.turadio.stream:7021/stream
 
@@ -797,6 +815,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEWGAMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88438/images/logod.png",CRYSTAL 93.3 (Toluca) - 93.3 FM - XHEDT-FM - Grupo Siete - Toluca, Estado de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEDTFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4d5tgGsH/cultura965.png",CULTURA 96.5 (CDMX) - 96.5 FM - XHEP-FM - Radio Educación - Ciudad de México
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/wxWYZkBk/cumbiasinmortalesradio.png",CUMBIAS INMORTALES RADIO (MTY) - Online - www.cumbiasinmortales.com - Grupo Digital Retroland - Monterrey, Nuevo León
 https://panel.retrolandigital.com/listen/cumbias_inmortales_radio/listen
@@ -1235,6 +1256,9 @@ https://stream.zeno.fm/1ozriqxnwr0uv
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/278/hits-fm-1045.8f8d4bf8.png",HITS FM (Chihuahua) - Online - www.mmradio.com - Multimedios Radio - Chihuahua, Chihuahua
 https://mdstrm.com/audio/672cf08df19248c08339a8f4/icecast.audio
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87997/images/logod.jpg",HORIZONTE 107.9 (CDMX) - 107.9 FM - XHIMR-FM - IMER - Ciudad de México
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8014/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s50611/images/logod.png",IBERO 90.9 (CDMX) - 90.9 FM - XHUIA-FM - Universidad Iberoamericana - Ciudad de México
 http://noasrv.caster.fm:10182/live
@@ -2112,6 +2136,9 @@ https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s18771/images/logod.jpg",ONDAS DE VIDA 1440 (CDMX) - 1440 AM - XEEST-AM - Grupo Siete - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/ZqmMHRdP/opus94.jpg",OPUS 94 94.5 (CDMX) - 94.5 FM - XHIMER-FM - IMER - Ciudad de México
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8016/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://radio-en-vivo-mx.com/storage/radios/14663/20749/conversions/orbita-digital-106-1-lg.webp",ORBITA DIGITAL 106.1 (Juchitán) - 106.1 FM - XHGCY-FM - Guna Caa Yuni Xhiña, A.C. - Juchitán, Oaxaca
 https://sp3.servidorrprivado.com:10854/stream/1/
 
@@ -2972,30 +2999,3 @@ http://stream.laut.fm/80sexitos
 
 #EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__80S__ by rautemusik (rm.fm)
 https://80s-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__90S__ by rautemusik (rm.fm)
-https://90s-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__BASS__ by rautemusik (rm.fm)
-https://bass-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__BEST OF SCHLAGER__ by rautemusik (rm.fm)
-https://best-of-schlager-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",__BIGCITYBEATS.FM__ by rautemusik (rm.fm)
-https://stream.bigcitybeats.de/bcb-radio/mp3-192/radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",__BREAKZ.FM__ by rautemusik (rm.fm)
-https://breakz-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",__BREAKZ.FM__ by rm.fm (rautemusik)
-https://breakz-high.rautemusik.fm/?ref=radiobrowserinfo
-
-#EXTINF:1 radio="true" tvg-logo="https://www.charthits.fm/favicon.ico",__CHARTHITS.FM__ by rautemusik (rm.fm)
-https://charthits-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__CHRISTMAS CHOR__ by rautemusik (rm.fm)
-https://christmas-chor-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__CHRISTMAS SCHLAGER__ by rautemusik (rm.fm)
-https://christmas-schlager-high.rautemusik.fm/?ref=radiobrowser
