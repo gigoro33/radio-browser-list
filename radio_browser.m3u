@@ -129,6 +129,9 @@ http://s1.audiorama.mx:6678/stream
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/68507f96166c04a064910e82",CHILANGO RADIO: La Radio Que Viene, Viene
 https://stream.radio.co/s938b68214/listen
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4d5tgGsH/cultura965.png",CULTURA 96.5 FM: La Radio Cultural de México
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0cb167ec97a064f3322d1",EL FONÓGRAFO: Música las 24 Horas
 https://18313.live.streamtheworld.com:443/XEJP_AMAAC.aac
 
@@ -224,6 +227,15 @@ https://mdstrm.com/audio/69373baa6d5fd824ec8440c5/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40.png",LOS40: La Radio de los Conciertos
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Vsh3r0cv/lovefm2.png",LOVE FM: All You Need Is Love
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/X7zd03d4/love300x300.png",LOVE FM: All You Need Is LOVE
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/J4JdsTqp/lovefm.png",LOVE FM: All You Need Is... Love
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/BZkKfvtv/match.jpg",MATCH: ¡Más Pop, Conéctate!
 https://27283.live.streamtheworld.com:443/XHPOPFMAAC.aac
@@ -1782,6 +1794,9 @@ https://stream.zeno.fm/wy9eauldjwavv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gkyy0bFR/lareinadelasierra.png",LA REINA DE LA SIERA 99.1 (Nacozari de García) - 99.1 FM - XHNZI-FM - Grupo Radio Guaymas - Nacozari de García, Sonora
 https://sp5.servidorrprivado.com/8064/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67bf4daa49c378be5ab58091",LA REVERENDA 100.5 (Ciudad del Carmen) - 100.5 FM - XHBCC-FM - Corporativo Rivas - Ciudad del Carmen, Campeche
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net:7162/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s346493/images/logod.png",LA REVOLUCIONARIA 88.9 (Izúcar) - 88.9 FM - XHIZM-FM - Fundación General Francisco Hernández Domínguez, A.C. - Izúcar de Matamoros, Puebla
 https://s34.myradiostream.com/15940/listen.mp3
 
@@ -2984,18 +2999,3 @@ https://stream.laut.fm/80sexitos
 
 #EXTINF:1 radio="true" tvg-logo="",__80 EXITOS
 https://80sexitos.stream.laut.fm/80sexitos
-
-#EXTINF:1 radio="true" tvg-logo="",__80 HITS
-http://stream.laut.fm/80sexitos
-
-#EXTINF:1 radio="true" tvg-logo="",__80s HITS
-http://stream.laut.fm/80sexitos
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__80S__ by rautemusik (rm.fm)
-https://80s-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__90S__ by rautemusik (rm.fm)
-https://90s-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__BASS__ by rautemusik (rm.fm)
-https://bass-high.rautemusik.fm/?ref=radiobrowser
