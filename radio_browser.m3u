@@ -2169,6 +2169,9 @@ https://radioweb.stream/sinaloa.culiacan/xhlce.aac/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s47689/images/logod.jpg",OYE 89.7 (CDMX) - 89.7 FM - XEOYE-FM - NRM Comunicaciones - Ciudad de México
 http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://piccadillyradio261.co.uk/apple-touch-icon.png",Piccadilly Radio 261
+https://visual.shoutca.st/stream/piccadillyradio261
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2377/images/logod.png",PLANET ROCK: Where Rock Lives
 https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
 
@@ -2381,6 +2384,9 @@ https://radios.radiohd.com.mx:8188/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/636aa36d3aa70c4aee5d5106",RADIO LOBO 88.3 (San José Iturbide) - 88.3 FM - XHSJI-FM - Grupo Radar - San José Iturbide, Guanajuato
 https://radios.radiohd.com.mx/8270/;
+
+#EXTINF:1 radio="true" tvg-logo="",Radio Melod'iles
+
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-metropoli-1150-am-mexico.webp",RADIO METRÓPOLI 1150 (GDL) - 1150 AM - XEAD-AM - Grupo Unidifusión - Guadalajara, Jalisco
 https://s2.yesstreaming.net:9088/stream
@@ -2993,9 +2999,3 @@ https://80sexitos.stream.laut.fm/80sexitos
 
 #EXTINF:1 radio="true" tvg-logo="https://www.rm.fm/favicon.ico",__12PUNKS.FM__ by rautemusik (rm.fm)
 https://12punks-high.rautemusik.fm/?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",__1oldies
-https://stream.laut.fm/80sexitos
-
-#EXTINF:1 radio="true" tvg-logo="",__80 EXITOS
-https://80sexitos.stream.laut.fm/80sexitos
