@@ -999,6 +999,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHRICAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/yx5Cf25H/exa1021.jpg",EXA FM 102.1 (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87783/images/logod.jpg",EXA FM 102.9 (Tehuacán) - 102.9 FM - XHWJ-FM - Radio TH Comunicación - Tehuacán, Puebla
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHWJ_EXAAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s92121/images/logod.jpg",EXA FM 104.5 (Celaya) - 104.5 FM - XHZN-FM - TVR Comunicaciones - Celaya, Guanajuato
 http://144.217.67.108:9148/;
 
@@ -1608,6 +1611,9 @@ https://cast4.asurahosting.com/proxy/radiocan/stream
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s323162/images/logod.png",LA LUPE 99.9 (GDL) - 99.9 FM - XHKB-FM - Multimedios Radio - Guadalajara, Jalisco
 https://mdstrm.com/audio/6737875eb61ca2fa731a2891/icecast.audio
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62aa2337b134e125b906cf6c",LA LUPE 99.9 (Torreón) - 99.9 FM - XHETOR-FM - Multimedios Radio - Torreón, Coahuila
+https://mdstrm.com/audio/672cf292e81d90ed336e1e86/icecast.audio
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-la-magnifica-95-5-fm-puebla-mexico.webp",LA MAGNÍFICA 95.5 (Puebla) - 95.5 FM - XHZT-FM - Tribuna Comunicación - Puebla, Puebla
 https://stream.zeno.fm/zskjbd7n200tv
 
@@ -1865,6 +1871,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEITEAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s339780/images/logod.png",LA VOZ 94.7 (Laguna) - 94.7 FM - XHTJ-FM - GPS Media / La Voz Radio - Gómez Palacio, Durango/Torreón, Coahuila
 https://stream.zeno.fm/3mlkhk5d7h0uv
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91334/images/logod.png",LA VOZ DEL ANGEL 99.9 (Puerto Ángel) - 99.9 FM - XHEPX-FM - Grupo Radio Solución - Puerto Ángel, Oaxaca
+https://stream.zeno.fm/9liwkbahprctv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/tg05G1Fs/lavozdelpitic.png",LA VOZ DEL PITIC 88.1 (Hermosillo) - 88.1 FM - XHRMO-FM - Democracia y Deliberación Desértica, A.C. - Hermosillo, Sonora
 https://s5.mexside.net:8080/stream
@@ -2990,12 +2999,3 @@ https://cast.zuperdns.net/8032/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2972/images/logod.png",ZONA TRES 91.5 (GDL) - 91.5 FM - XHGEO-FM - Grupo Promomedios - Guadalajara, Jalisco
 https://strcdn.klm99.com/8116/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://enaradio.gr/wp-content/uploads/2017/07/cropped-big_png-2-192x192.png",ΕΝΑ 90.5
-https://rdst.win:48000/stream?type=.mp3
-
-#EXTINF:1 radio="true" tvg-logo="",диполь
-https://icecast-sibinformburo.cdnvideo.ru/dipolfm
-
-#EXTINF:1 radio="true" tvg-logo="",ПГТРК Радио 1
-http://217.19.211.252:8022/Radio1
