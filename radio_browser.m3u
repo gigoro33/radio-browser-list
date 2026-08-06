@@ -2223,6 +2223,9 @@ https://stream.punkrockers-radio.de:8443/prr.ogg
 #EXTINF:1 radio="true" tvg-logo="https://valeverdefm.com.br/img/b1477f6674fb80a945ea178ecb46e51c.png",R.VALE VERDE FM 96,66
 https://ice.fabricahost.com.br/valeverdefm
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/TwCwPZhh/ralaestaciondejovel.png",RA, LA ESTACIÓN DE JOVEL 760 (San Cristóbal de las Casas) - 760 AM - XERA-AM - Sistema Chiapaneco de Radio, Televisión y Cinematografía - San Cristóbal de las Casas, Chiapas
+http://streamingcwsradio10.com:9338/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/624f52a70315729495f3b4ff",RADAR 107.5 (Querétaro) - 107.5 FM - XHQRO-FM - Grupo Radar - Querétaro, Querétaro
 https://radios.radiohd.com.mx/8268/stream
 
@@ -2730,6 +2733,9 @@ https://playradio.mx/proxy/trion?mp=/stream
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ea788257ba15486d603ab74",Trión Ciudad de México - 103.3 HD4 - XERFR-FM - Grupo Fórmula - Ciudad de México
 https://stream.radiojar.com/4f89tufzv9duv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/0NMZnfdx/tuchtlanfm.png",TUCHTLÁN FM 93.9 (Tuxtla) - 93.9 FM - XHTGU-FM - Sistema Chiapaneco de Radio, Televisión y Cinematografía - Tuxtla Gutiérrez, Chiapas
+http://streamingcwsradio10.com:9340/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/UAMRadio-logo.jpg",UAM RADIO 94.1 (CDMX) - 94.1 FM - XHUAM-FM - UAM (Universidad Autónoma Metropolitana) - Ciudad de México
 https://stream5.mexiserver.com:1124/
 
@@ -2993,9 +2999,3 @@ https://stream.zeno.fm/fc7ydby53hhvv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s27943/images/logod.png",Z 92 92.3 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida, EUA
 https://liveaudio.lamusica.com/MIA_WCMQ_icy
-
-#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/463/zer-radio-1650-am.6f5d0fcb.jpg",ZER RADIO 1320 (CDMX) - 1320 AM - XEARZ-AM - Grupo Radiofónico ZER - Ciudad de México
-https://cast.zuperdns.net/8032/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2972/images/logod.png",ZONA TRES 91.5 (GDL) - 91.5 FM - XHGEO-FM - Grupo Promomedios - Guadalajara, Jalisco
-https://strcdn.klm99.com/8116/stream
