@@ -738,6 +738,9 @@ https://media-ssl.musicradio.com/CapitalAnthemsMP3
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s323115/images/logod.jpg",CAPITAL CHILL UK: Non-stop chilled beats - Londres, Inglaterra
 https://media-ssl.musicradio.com/CapitalChill
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s323115/images/logod.jpg",CAPITAL CHILL: Non-stop chilled beats
+https://media-ssl.musicradio.com/CapitalChill
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s309497/images/logod.jpg",CAPITAL DANCE: The UK's Official Dance Station
 https://media-ssl.musicradio.com/CapitalDance
 
@@ -2394,6 +2397,9 @@ https://c22.radioboss.fm:8144/GamePlay
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s10687/images/logod.png",RADIO IPN 95.7 (CDMX) - 95.7 FM - XHIPN-FM - IPN (Instituto Politécnico Nacional) - Ciudad de México
 https://broadcast.radio.ipn.mx/RadioIPN
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90232/images/logod.png",RADIO JEREZ 89.1 (Jerez) - 89.1 FM - XHXM-FM - Grupo Radiofónico ZER - Jerez, Zacatecas
+https://cast.zuperdns.net/8016/stream/
+
 #EXTINF:1 radio="true" tvg-logo="",Radio Kontinental
 http://stream01.radiocon.ru:8000/hum_tbk
 
@@ -2420,6 +2426,9 @@ https://radios.radiohd.com.mx/8270/;
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-metropoli-1150-am-mexico.webp",RADIO METRÓPOLI 1150 (GDL) - 1150 AM - XEAD-AM - Grupo Unidifusión - Guadalajara, Jalisco
 https://s2.yesstreaming.net:9088/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4xD8BQpG/radiomexicana989.png",RADIO MEXICANA 98.9 (Mérida) - 98.9 FM - XHYW-FM - Valanci Media Group - Mérida, Yucatán
+http://stream-287.surfernetwork.com/4xwhyk6xr98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0eHdoeWs2eHI5OHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlZOV094bzgzUkUtWUNNQVZJV2xVMGciLCJpYXQiOjE3ODU5OTI4OTUsImV4cCI6MTc4NTk5Mjk1NX0.7ouh-bz5DpmdTiTdZjC0mCmBMZQC83c1qhm_0QIByQ8
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-mexicana-nuestras-noticias-1300-am-chihuahua-mexico.webp",RADIO MEXICANA Nuestras Noticias 1300 (Ciudad Juárez) - 1300 AM - XEP-AM - Radiorama - Ciudad Juárez, Chihuahua
 https://stream.zeno.fm/9b3xff05dkhvv
@@ -2990,12 +2999,3 @@ http://ice42.securenetsystems.net/XY905
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87556/images/logog.jpg",YA! FM 102.9 (Veracruz) - 102.9 FM - XHTS-FM - Grupo Pazos - Veracruz, Veracruz
 https://sgaudio.centrocibernetico.com/yafmveracruz
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s143833/images/logog.jpg",YA! FM 95.7 (Villahermosa) - 95.7 FM - XHTAB-FM - Grupo Pazos - Villahermosa, Tabasco
-https://sg.centrocibernetico.com/yafmvillahermosa
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s151580/images/logod.jpg",YEAH FM 89.9 (La Piedad) - 89.9 FM - XHLP-FM - Guizar Comunicación Integral - La Piedad, Michoacán
-https://stream.zeno.fm/fc7ydby53hhvv
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s27943/images/logod.png",Z 92 92.3 (Miami) - 92.3 FM - WCMQ-FM - Spanish Broadcasting System - Miami, Florida, EUA
-https://liveaudio.lamusica.com/MIA_WCMQ_icy
