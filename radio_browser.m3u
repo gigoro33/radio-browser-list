@@ -1905,6 +1905,9 @@ http://144.217.67.108:9150/;
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91217/images/logod.jpg",LG LA GRANDE 95.5 (León) - 95.5 FM - XHELG-FM - Promomedios - León, Guanajuato
 https://stream.zeno.fm/9ty3tty0ra0uv
 
+#EXTINF:1 radio="true" tvg-logo="https://liderfm.net/public/images/1.png",LİDER FM - 87.5 ALEMİN LİDERİ
+https://wowza1.radyotvonline.com/shoutcast/liderfm.stream/chunklist_w1344400302.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="",Life Radio Tirol - MUSIC ONLY
 https://stream.liferadio.tirol/MUONLY/mp3-192/link
 
@@ -2996,6 +2999,3 @@ https://radio.golsystems.com.mx/8054/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/60/0c/600c1a1e138241853bf8bc925f0edf9a.jpg",XY 90.5 FM - Tegucigalpa, Honduras
 http://ice42.securenetsystems.net/XY905
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87556/images/logog.jpg",YA! FM 102.9 (Veracruz) - 102.9 FM - XHTS-FM - Grupo Pazos - Veracruz, Veracruz
-https://sgaudio.centrocibernetico.com/yafmveracruz
