@@ -348,6 +348,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.a
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/664fdc66d654e5b9dff60ccd",TRÍOS Y BOLEROS de Radio Felicidad: Clásicos de los 50s y 60s
 https://19273.live.streamtheworld.com:443/ACIR17_S01AAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/KzjcKRJ8/tropicalisima.png",TROPICALÍSIMA: El sonido de la calle
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8030/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/615792d3bf7dcfa5bcc67baa",TUMBADO AL 100: Corridos y fusiones urbano-regional
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR46_S01AAC.aac
 
@@ -365,6 +368,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/TDW730AMAAC.aa
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s16553/images/logod.jpg",W RADIO: Si es Radio, es W
 https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/8sQFXs2S/xeb.jpg",XEB: La B Grande de México
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8024/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/X5hMzFX/100-handsup.png",- 100 % - HANDSUP <3 - Non-stop 140 BPM
 https://club-high.rautemusik.fm/?ref=radiobrowser-100-handsup
@@ -1041,6 +1047,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHNYAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91207/images/logod.png",EXA FM 94.5 (Ciudad Victoria) - 94.5 FM - XHBJ-FM - ORT Radio - Ciudad Victoria, Tamaulipas
 https://cast1.my-control-panel.com/proxy/exavictoria/stream/;stream.mp3
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91312/images/logod.png",EXA FM 95.3 (Tampico) - 95.3 FM - XHOX-FM - MVS Radio - Tampico, Tamaulipas
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHOXAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87669/images/logod.png",EXA FM 95.5 (Torreón) - 95.5 FM - XHMP-FM - Grupo Radio Estéreo Mayrán (GREM) - Torreón, Coahuila
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMPAAC.aac
 
@@ -1488,11 +1497,17 @@ https://mdstrm.com/audio/672a54e1064f16625e497b86/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s44068/images/logod.png",LA GRAN D 1050 (Mexicali) - 1050 AM - XED-AM - Radio Cadena Enciso - Mexicali, Baja California
 https://edge.mixlr.com/channel/lcezl
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/DwWnXWrT/lagrupera.png",LA GRUPERA (Puebla) - 89.3 FM - XHNP-FM - Cinco Radio - Puebla, Puebla
+https://stream.zeno.fm/zpd5he3sz7zuv
+
 #EXTINF:1 radio="true" tvg-logo="https://www.lagrupera.mx/images/logo-close.png",LA GRUPERA 89.3 (Puebla) - 89.3 FM - XHNP-FM - Cinco Radio - Puebla, Puebla
 https://stream.zeno.fm/zpd5he3sz7zuv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6449a0e2208140d9b995fcea",LA GUADALUPANA 101.7 (Chetumal) - 101.7 FM - XHROOC-FM - Grupo SIPSE Radio - Chetumal, Quintana Roo
 https://cast4.asurahosting.com/proxy/lavozdeq/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s10864/images/logod.jpg",LA HR 1090 (Puebla) - 1090 AM - XEHR-AM - Cinco Radio - Puebla, Puebla
+https://sg.centrocibernetico.com/lahr1090am
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/JhXNsp5R/lahuasteca.png",LA HUASTECA 90.5 (Tantoyuca) - 90.5 FM - XHTI-FM - Grupo AS Comunicación - Tantoyuca, Veracruz
 https://stream.zeno.fm/l7kg7tzzq44vv
@@ -2202,6 +2217,9 @@ https://radioweb.stream/sinaloa.culiacan/xhlce.aac/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s47689/images/logod.jpg",OYE 89.7 (CDMX) - 89.7 FM - XEOYE-FM - NRM Comunicaciones - Ciudad de México
 http://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s8302/images/logog.jpg",PASIÓN FM 104.3 (Puebla) - 104.3 FM - XHPUE-FM - Cinco Radio - Puebla, Puebla
+https://stream.zeno.fm/1qhuwrman5zuv
+
 #EXTINF:1 radio="true" tvg-logo="https://piccadillyradio261.co.uk/apple-touch-icon.png",Piccadilly Radio 261
 https://visual.shoutca.st/stream/piccadillyradio261
 
@@ -2745,6 +2763,9 @@ https://playradio.mx/proxy/trion?mp=/stream
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ea788257ba15486d603ab74",Trión Ciudad de México - 103.3 HD4 - XERFR-FM - Grupo Fórmula - Ciudad de México
 https://stream.radiojar.com/4f89tufzv9duv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/KzjcKRJ8/tropicalisima.png",TROPICALÍSIMA 660 (CDMX) - 660 AM - XEDTL-AM - IMER - Ciudad de México
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8030/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/0NMZnfdx/tuchtlanfm.png",TUCHTLÁN FM 93.9 (Tuxtla) - 93.9 FM - XHTGU-FM - Sistema Chiapaneco de Radio, Televisión y Cinematografía - Tuxtla Gutiérrez, Chiapas
 http://streamingcwsradio10.com:9340/stream
 
@@ -2978,24 +2999,3 @@ https://stream.zeno.fm/z2hquf0sa6wvv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s231944d.png",WVBC-LP 96.9 The Voice of Bessemer City Schools
 https://streaming.live365.com/a03195
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s244589d.png",WVPE HD3 - Blues
-http://live.str3am.com:2240/live
-
-#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/7dcdd442-e119-4245-8877-09872e290fcc",XEH 1420, Antología Vallenata (MTY) - 1420 AM - XEH-AM - Grupo Radio Centro - Monterrey, Nuevo León
-https://playerservices.streamtheworld.com/api/livestream-redirect/XEH_AMAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88432/images/logod.png",XEHK 960 (GDL) - 960 AM - XEHK-AM - Radiorama de Occidente - Guadalajara, Jalisco
-https://stream.zeno.fm/cp9zxxm2mg8uv
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87588/images/logog.jpg",XEU 98.1 (Veracruz) - 98.1 FM - XHU-FM - Grupo Pazos Radio - Veracruz, Veracruz
-http://sgaudio.centrocibernetico.com/xeu
-
-#EXTINF:1 radio="true" tvg-logo="https://xeva.com.mx/contenidos/imagenes/logos/logo-xeva-320px.webp",XEVA 91.7 (Villahermosa) - 91.7 FM - XHVA-FM - Grupo Pazos - Villahermosa, Tabasco
-https://sg.centrocibernetico.com/xevavillahermosa
-
-#EXTINF:1 radio="true" tvg-logo="https://blob.xevt.com/assets/img/logo/logoxevt3.png",XEVT 104.1 (Villahermosa) - 104.1 FM - XHVT-FM - Telereportaje/XEVT - Villahermosa, Tabasco
-https://radio.golsystems.com.mx/8054/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/60/0c/600c1a1e138241853bf8bc925f0edf9a.jpg",XY 90.5 FM - Tegucigalpa, Honduras
-http://ice42.securenetsystems.net/XY905
