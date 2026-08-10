@@ -2688,6 +2688,9 @@ https://radios.radiohd.com.mx:8264/stream
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k4ntM98G/stereofresnillo.jpg",STEREO FRESNILLO 91.1 (Fresnillo) - 91.1 FM - XHRRA-FM - Grupo Radiofónico ZER - Fresnillo, Zacatecas
 https://cast.zuperdns.net/8018/stream/
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/3JNPz6JB/stereomax.png",STEREO MAX 98.1 (San Martín Texmelucan) - 98.1 FM - XHMAXX-FM - Cinco Radio - San Martín Texmelucan, Puebla
+https://sg.centrocibernetico.com/stereomaxx981
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90986/images/logod.png",STEREO SALTILLO 93.5 (Saltillo) - 93.5 FM - XHQC-FM - Multimedios Radio - Saltillo, Coahuila
 https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio
 
@@ -2819,6 +2822,9 @@ https://virgin.live.stream.broadcasting.news/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s329845/images/logod.png",VIVE 106.1 (Morelia) - 106.1 FM - XHSCCN-FM - RM Morelia - Morelia, Michoacán
 https://s2.mexside.net/8080/vive
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/15fHyKQP/vivefm.png",VIVE FM 106.3 (Tehuacán) - 106.3 FM - XHETE-FM - Cinco Radio - Tehuacán, Puebla
+https://sg.centrocibernetico.com/vive106.3
 
 #EXTINF:1 radio="true" tvg-logo="https://radiocanon.com.mx/wp-content/uploads/2026/01/Vox-760-AM.png",VOX AM Radio Hits (CDMX) - 760 AM - XEABC-AM - Radiópolis - Ciudad de México
 https://streamingcwsradio30.com/8292/stream
@@ -2993,9 +2999,3 @@ https://stream.zeno.fm/60pg6mi67hytv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/8zsPkYC7/wow.png",WOW (Mérida) - Online - www.cadenarasa.com - Cadena RASA - Mérida, Yucatán
 https://stream.zeno.fm/jf0uuhbqekguv
-
-#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-wow-101-1-fm-torreon-mexico.webp",WOW 101.1 (Torreón) - 101.1 FM - XHDN-FM - GPS Media - Torreón, Coahuila
-https://stream.zeno.fm/z2hquf0sa6wvv
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s231944d.png",WVBC-LP 96.9 The Voice of Bessemer City Schools
-https://streaming.live365.com/a03195
