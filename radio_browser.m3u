@@ -54,6 +54,9 @@ https://streaming.ticktock.radio/tt/1950/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="",WDR Sportschau - 2. Fussball Bundesliga-Konferenz LIVE
 http://wdr-sportschau-liga2konferenz.icecastssl.wdr.de/wdr/sportschau/liga2konferenz/mp3/high
 
+#EXTINF:1 radio="true" tvg-logo="",WREK Atlanta 91.1
+https://streaming.wrek.org/main/320kb.mp3
+
 #EXTINF:1 radio="true" tvg-logo="http://liveam.tv/img/2494.jpg",Европа Плюс
 http://ep256.hostingradio.ru:8052/europaplus256.mp3
 
@@ -128,6 +131,9 @@ http://s1.audiorama.mx:6678/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/68507f96166c04a064910e82",CHILANGO RADIO: La Radio Que Viene, Viene
 https://stream.radio.co/s938b68214/listen
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/KYMcttZ6/cultura1060.png",CULTURA 1060 AM: La radio de las culturas de México
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8172/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4d5tgGsH/cultura965.png",CULTURA 96.5 FM: La Radio Cultural de México
 https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream
@@ -269,6 +275,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f64ba55e89ed47267cc5b52",NEW CENTURY by Match: Pop y rock del nuevo siglo
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR04_s01AAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Hx08h5Qt/nofmradio.jpg",NOFM RADIO: Todo Menos Miedo
+https://securestreams7.autopo.st/?uri=https://s2.voscast.com:8163/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/ZqmMHRdP/opus94.jpg",OPUS 94: Travesía Sonora
 https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8016/stream
@@ -2026,9 +2035,6 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a01759c5aa2b85d66b59
 https://mdstrm.com/audio/66b0f440b47ad3416c6a654a/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k5Lz0ryM/luciernagas.jpg",LUCIÉRNAGAS 1350 (CDMX) - 1350 AM - XEQK-AM - IMER - Ciudad de México
-
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k5Lz0ryM/luciernagas.jpg",LUCIÉRNAGAS 1350 (CDMX) - 1350 AM - XEQK-AM - IMER - Ciudad de México
 https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8026/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://grupozer.mx/images/portada/logos/301.png",LUPE 560 (Manzanillo) - 560 AM - XEMZA-AM - Grupo Radiofónico ZER - Manzanillo, Colima
@@ -2201,6 +2207,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMVSFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="",Nightwave Plaza
 https://radio.plaza.one/ogg
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Hx08h5Qt/nofmradio.jpg",NOFM RADIO (CDMX) - Online - www.nofm-radio.com - Todo Menos Miedo - Ciudad de México
+https://securestreams7.autopo.st/?uri=https://s2.voscast.com:8163/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s26289/images/logod.png",NOTICIAS Y DEPORTES 1330 (Los Ángeles) - 1330 AM - KWKW - Lotus Communications - Los Ángeles, California, EUA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
@@ -2474,6 +2483,9 @@ http://stream-287.surfernetwork.com/4xwhyk6xr98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdH
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-mexicana-nuestras-noticias-1300-am-chihuahua-mexico.webp",RADIO MEXICANA Nuestras Noticias 1300 (Ciudad Juárez) - 1300 AM - XEP-AM - Radiorama - Ciudad Juárez, Chihuahua
 https://stream.zeno.fm/9b3xff05dkhvv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/vTmYjpyx/radiomexicointernacional.png",RADIO MEXICO INTERNACIONAL (CDMX) - Online - www.imer.mx - IMER - Ciudad de México
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8020/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cloudfront-arc.cienradios.com/radiomitre/favicons/apple-icon-120x120.png",Radio Mitre
 http://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC_SC
@@ -2987,15 +2999,3 @@ https://streaming.servicioswebmx.com/8294/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/358/radio-canon-1100-am.71915044.jpg",W RADIO 94.3 (Fresnillo) - 94.3 FM - XHPFRZ-FM - Grupo Radio Cañon - Fresnillo, Zacatecas
 https://streaming.servicioswebmx.com/8300/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/358/radio-canon-1100-am.71915044.jpg",W RADIO 94.3 (Fresnillo) - 94.3 FM - XHPFRZ-FM - Grupo Radio Cañón - Fresnillo, Zacatecas
-https://streaming.servicioswebmx.com/8294/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s44051/images/logod.png",W RADIO 940 (Mexicali) - 940 AM - XEMMM-AM - Grupo Radio Cañón - Mexicali, Baja California
-https://streaming.servicioswebmx.com/8284/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87880/images/logod.jpg",W RADIO 95.7 (Oaxaca) - 95.7 FM - XHCE-FM - Grupo Encuentro - Oaxaca, Oaxaca
-https://www.encuentroradiotv.com:8443/oaxaca957.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/wTPPDVHV/wradio959.png",W RADIO 95.9 (Torreón) - 95.9 FM - XHCCAR-FM - Grupo Radio Cañón - Torreón, Coahuila
-https://streaming.servicioswebmx.com/8204/stream
