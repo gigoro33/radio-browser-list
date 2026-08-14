@@ -861,6 +861,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEWGAMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88438/images/logod.png",CRYSTAL 93.3 (Toluca) - 93.3 FM - XHEDT-FM - Grupo Siete - Toluca, Estado de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEDTFMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://radioeducacion.edu.mx/",CULTURA 1060 (CDMX) - 1060 AM - XECPAE-AM - Radio Educación - Ciudad de México
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8172/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4d5tgGsH/cultura965.png",CULTURA 1060 (CDMX) - 1060 AM - XECPAE-AM - Radio Educación - Ciudad de Mexico
+https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8172/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4d5tgGsH/cultura965.png",CULTURA 96.5 (CDMX) - 96.5 FM - XHEP-FM - Radio Educación - Ciudad de México
 https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8174/stream
 
@@ -2706,6 +2712,9 @@ http://154.38.167.185:8040/;
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88337/images/logod.png",STEREO 100.3 (Hermosillo) - 100.3 FM - XHSD-FM - Uniradio - Hermosillo, Sonora
 https://streamingcwsradio30.com:7026/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/XHNOE_Stereo91_logo.png",STEREO 91 91.3 (Nuevo Laredo) - 91.3 FM - XHNOE-FM - Nuevo Laredo, Tamaulipas
+http://216.251.65.74:8000/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24567/images/logog.jpg",STEREO CIEN 100.1 (CDMX) - 100.1 FM - XHMM-FM - NRM Comunicaciones - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
 
@@ -2990,12 +2999,3 @@ https://streaming.servicioswebmx.com/8256/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cache.usercontentapp.com/logo/57278.png",W RADIO 92.1 (Puebla) - 92.1 FM - XHEG-FM - Grupo Radio Cañón - Puebla, Puebla
 https://streaming.servicioswebmx.com/8212/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/emisoras-com-mx/w-radio-victoria-de-durango.png",W RADIO 92.5 (Durango) - 92.5 FM - XHCCAU-FM - Grupo Radio Cañón - Durango, Durango
-https://streaming.servicioswebmx.com/8264/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90136/images/logod.png",W RADIO 92.9 (Xalapa) - 92.9 FM - XHJH-FM - Grupo Radio Cañón - Xalapa, Veracruz
-https://streaming.servicioswebmx.com/8294/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/358/radio-canon-1100-am.71915044.jpg",W RADIO 94.3 (Fresnillo) - 94.3 FM - XHPFRZ-FM - Grupo Radio Cañon - Fresnillo, Zacatecas
-https://streaming.servicioswebmx.com/8300/stream
