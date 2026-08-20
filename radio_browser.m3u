@@ -2505,6 +2505,9 @@ https://cento02.mipanelradio.com/proxy/radiomu5?mp=/stream
 #EXTINF:1 radio="true" tvg-logo="https://www.navahang.com/apple-touch-icon.png",Radio Navahang
 https://navairan.com/;stream.nsv
 
+#EXTINF:1 radio="true" tvg-logo="",Radio of Russia - Moscow
+https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
+
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-ranchito-99-7-fm-aguascalientes-mexico.webp",RADIO RANCHITO 99.7 (Calvillo) - 99.7 FM - XHPLVI-FM - Grupo ULTRA México - Calvillo, Aguascalientes
 https://streamingcwsradio30.com:7006/stream.mp3
 
@@ -2996,6 +2999,3 @@ https://streaming.servicioswebmx.com/8248/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/887/abc-radio-puebla.99b63f30.png",W RADIO 92.1 (Chetumal) - 92.1 FM - XHCCBQ-FM - Grupo Radio Cañón - Chetumal, Quintana Roo
 https://streaming.servicioswebmx.com/8256/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://cache.usercontentapp.com/logo/57278.png",W RADIO 92.1 (Puebla) - 92.1 FM - XHEG-FM - Grupo Radio Cañón - Puebla, Puebla
-https://streaming.servicioswebmx.com/8212/stream
