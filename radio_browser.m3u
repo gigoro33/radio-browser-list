@@ -426,6 +426,9 @@ https://stream.revma.ihrhls.com/zc2341/hls.m3u8
 #EXTINF:1 radio="true" tvg-logo="",101.9 ROCK
 https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy?environment=tunein&args=tunein_01
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/X7zd03d4/love300x300.png",103.7 LOVE FM (Veracruz) - 103.7 FM - XHCS-FM - Radio SA - Veracruz, Veracruz
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://radiogrupo.com/wp-content/uploads/2020/06/Grupo-2882@2x-1024x687.png",105 DIGITAL 105.3 (Aguascalientes) - 105.3 FM - XHUZ-FM - Radiogrupo - Aguascalientes, Aguascalientes
 http://201.159.48.106:8080/
 
@@ -1424,6 +1427,9 @@ https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.player
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s77960/images/logod.png",KISSTORY: Non-Stop Old Skool & Anthems
 https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/tCpvdn5N/kvoz.jpg",KVOZ 93.1 (San José del Cabo) - 93.1 FM - XHESJC-FM - San José del Cabo, Baja California Sur
+https://stream.zeno.fm/v37442hf9s8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s342438/images/logod.png",KY 104.3 (Ciudad Juárez) - 104.3 FM - XHTO-FM - Grupo Audiorama Comunicaciones - Ciudad Juárez, Chihuahua
 https://sg.centrocibernetico.com/audiorama-xhto
@@ -2670,6 +2676,9 @@ https://59d39900ebfb8.streamlock.net/rytqroradio2/rytqroradio2/playlist.m3u8
 #EXTINF:1 radio="true" tvg-logo="",Russian Punk rock
 http://79.120.77.11:8000/punkru
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/bwYc3BzX/sabrosita590.png",SABROSITA 590 (CDMX) - 590 AM - XEPH-AM - NRM Comunicaciones - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://play-lh.googleusercontent.com/0XMM-2Dh3GdjsEdw0DvNvDuNdNMRDiYVdDxX0SuuPqlTXhI2mijGcRD_2Qr25IyVdCSh=w240-h480-rw",SABROSITA 590 y 1410 (CDMX) - 590 AM / 1410 AM - XEPH-AM / XEBS-AM - NRM Comunicaciones - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEPHAMAAC.aac
 
@@ -2990,12 +2999,3 @@ https://playradio.mx/proxy/los40jose?mp=/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90971/images/logod.jpg",W RADIO 90.3 (Puerto Vallarta) - 90.3 FM - XHPVA-FM - GlobalMedia - Puerto Vallarta, Jalisco
 https://playradio.mx/proxy/wvallarta?mp=/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/1zr0Dyq3/xew.png",W RADIO 900 (CDMX) - 900 AM - XEW-AM - Radiópolis - Ciudad de México
-https://playerservices.streamtheworld.com/api/livestream-redirect/W_RADIOAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91948/images/logod.png",W RADIO 91.5 (Tapachula) - 91.5 FM - XHTAC-FM - Grupo Radio Cañón - Tapachula, Chiapas
-https://streaming.servicioswebmx.com/8248/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/887/abc-radio-puebla.99b63f30.png",W RADIO 92.1 (Chetumal) - 92.1 FM - XHCCBQ-FM - Grupo Radio Cañón - Chetumal, Quintana Roo
-https://streaming.servicioswebmx.com/8256/stream
