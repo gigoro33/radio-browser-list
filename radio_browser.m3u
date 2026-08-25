@@ -309,6 +309,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XEQR_AMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/CL2stsxj/radiochapultepec.png",RADIO CHAPULTEPEC: UNA RADIO MEXICANA
 https://cast6.asurahosting.com/proxy/radchap0mx/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/kM6xS574/radiocongreso1650.png",RADIO CONGRESO: Medio de comunicación del Poder Legislativo de México
+https://ccstreaming.packet.mx/LiveApp/streams/Radio_kd5oiNTTWO0gEOFc23dr762145.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/0QzYbY7z/disney.png",RADIO DISNEY: Te Llega
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac
 
@@ -1041,6 +1044,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHRICAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/yx5Cf25H/exa1021.jpg",EXA FM 102.1 (San Luis Potosí) - 102.1 FM - XHESL-FM - MG Radio - San Luis Potosí, San Luis Potosí
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHESLAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s12586/images/logog.png",EXA FM 102.7 (Nogales) - 102.7 FM - XHQT-FM - MVS Radio - Nogales, Sonora
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHQTAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87783/images/logod.jpg",EXA FM 102.9 (Tehuacán) - 102.9 FM - XHWJ-FM - Radio TH Comunicación - Tehuacán, Puebla
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHWJ_EXAAAC.aac
 
@@ -1232,6 +1238,9 @@ https://strcdn.klm99.com/8132/stream
 
 #EXTINF:1 radio="true" tvg-logo="",FM BAND NEWS 89.5
 https://streaming01.shockmedia.com.ar:10486/
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90995/images/logod.png",FM CENTRO 100.3 (Apizaco) - 100.3 FM - XHXZ-FM - Apizaco, Tlaxcala
+
 
 #EXTINF:1 radio="true" tvg-logo="https://ceresdiario.com/home/wp-content/uploads/2019/02/cropped-logo-ceresdiarioss-1-32x32.jpg",FM CERES  98.7
 https://streaming.escuchanosonline.com/8410/stream
@@ -1680,6 +1689,9 @@ https://stream-290.surfernetwork.com/u2vpn3hh5pkvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s349278/images/logod.jpg",LA MÁQUINA 97.7 (Xalapa) - 97.7 FM - XHOT-FM - AvanRadio - Xalapa, Veracruz
 https://cast3.my-control-panel.com/proxy/xhot
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s325459/images/logod.png",LA MAS PELIGROSA 1370 (Huamantla) - 1370 AM - XECCBI-AM - La Más Peligrosa Radio - Huamantla, Tlaxcala
+https://stream.zeno.fm/ktezveaxxjzvv
+
 #EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/de/53/de5362728a4c73f5b6fbaf2c807971e5.png",LA MÁS PICUDA 104.7 (Parral) - 104.7 FM - XHEHB-FM - Radiorama Parral - Hidalgo del Parral, Chihuahua
 https://stream-288.surfernetwork.com/p45k5uz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNDVrNXV6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkxDYzhzWVdjUl9LN0doNHJxZnpuekEiLCJpYXQiOjE3ODczNDMwMjksImV4cCI6MTc4NzM0MzA4OX0.E-akAqv5M6PsfqetelVr32Xt5orF-ga5Lp8AbY3gNko
 
@@ -2052,6 +2064,12 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a01759c5aa2b85d66b59
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/PJ9dpgpn/lovefm931.jpg",LOVE FM 93.1 (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora
 https://mdstrm.com/audio/66b0f440b47ad3416c6a654a/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Klasikët e muzikës pop nga vitet '80 deri në ditët e sotme
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: کلاسیک های پاپ از دهه 80 تا امروز
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k5Lz0ryM/luciernagas.jpg",LUCIÉRNAGAS 1350 (CDMX) - 1350 AM - XEQK-AM - IMER - Ciudad de México
 https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8026/stream
 
@@ -2348,6 +2366,9 @@ http://stream.rabe.ch/livestream/rabe-hd.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s149818/images/logod.jpg",RADIO BI 88.7 (Aguascalientes) - 88.7 FM - XHBI-FM - Radiogrupo - Aguascalientes, Aguascalientes
 http://201.159.48.107:2860/
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87824/images/logod.jpg",RADIO CALPULALPAN 94.3 (Calpulalpan) - 94.3 FM - XHCAL-FM - CORACYT - Calpulalpan, Tlaxcala
+https://radio11.mega00.com/8006/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/588/radio-canon-580-am.50c211e1.png",RADIO CAÑÓN 580 (GDL) - 580 AM - XEAV-AM - Grupo Radio Cañón - Guadalajara, Jalisco
 https://streaming.servicioswebmx.com/8266/stream
@@ -2978,24 +2999,3 @@ https://stream9.mexiserver.com:8418/stream/
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s242860/images/logod.png",W RADIO 107.9 (Querétaro) - 107.9 FM - XHQG-FM - Global Media - Querétaro, Querétaro
 https://playradio.mx/proxy/xhqg?mp=/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/w-radio-1310-am-queretaro-mexico.webp",W RADIO 1310 (Querétaro) - 1310 AM - XEQRMD-AM - GlobalMedia - Querétaro, Querétaro
-http://playradio.mx/proxy/wqueretaro?mp=/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/611/w-radio-885-fm.7743dece.png",W RADIO 740 (Villahermosa) - 740 AM - XEKV-AM - Grupo Radio Cañón - Villahermosa, Tabasco
-https://streamingcwsradio30.com/8274/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/w-radio-770-am-zacatecas-mexico.webp",W RADIO 770 (Zacatecas) - 770 AM - XEFRTM-AM - GlobalMedia - Zacatecas, Zacatecas
-http://playradio.mx/proxy/wzacatecas?mp=/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/611/w-radio-885-fm.7743dece.png",W RADIO 88.5 (Villahermosa) - 88.5 FM - XHKV-FM - Grupo Radio Cañon - Villahermosa, Tabasco
-https://streamingcwsradio30.com/8274/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://radiocanon.com.mx/estaciones/w88-5-740/",W RADIO 88.5 (Villahermosa) - 88.5 FM - XHKV-FM - Grupo Radio Cañón - Villahermosa, Tabasco
-https://streaming.servicioswebmx.com/8256/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/611/w-radio-885-fm.7743dece.png",W RADIO 88.5 (Villahermosa) - 88.5 FM - XHKV-FM - Grupo Radio Cañón - Villahermosa, Tabasco.
-https://streaming.servicioswebmx.com/8256/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/j5rtcchp/wradiosji.jpg",W RADIO 90.1 (San José Iturbide) - 90.1 FM - XHPSJI-FM - GlobalMedia - San Jose Iturbide, Guanajuato
-https://playradio.mx/proxy/los40jose?mp=/stream
