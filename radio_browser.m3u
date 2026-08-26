@@ -1083,11 +1083,17 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/020sJTSv/exa935.jpg",EXA FM 93.5 (Irapuato) - 93.5 FM - XHNY-FM - Irapuato, Guanajuato
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHNYAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s306779/images/logod.png",EXA FM 94.1 (Puebla) - 94.1 FM - XHJE-FM - MVS Radio - Puebla, Puebla
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHJEFMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91207/images/logod.png",EXA FM 94.5 (Ciudad Victoria) - 94.5 FM - XHBJ-FM - ORT Radio - Ciudad Victoria, Tamaulipas
 https://cast1.my-control-panel.com/proxy/exavictoria/stream/;stream.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91312/images/logod.png",EXA FM 95.3 (Tampico) - 95.3 FM - XHOX-FM - MVS Radio - Tampico, Tamaulipas
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHOXAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/N00LcWMS/exafm955.png",EXA FM 95.5 (Querétaro) - 95.5 FM - XHOE-FM - Multimundo Radio - Querétaro, Querétaro
+
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87669/images/logod.png",EXA FM 95.5 (Torreón) - 95.5 FM - XHMP-FM - Grupo Radio Estéreo Mayrán (GREM) - Torreón, Coahuila
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHMPAAC.aac
@@ -2064,7 +2070,16 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a01759c5aa2b85d66b59
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/PJ9dpgpn/lovefm931.jpg",LOVE FM 93.1 (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora
 https://mdstrm.com/audio/66b0f440b47ad3416c6a654a/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Clásicos pop en español de los 80s a hoy
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Klasikët e muzikës pop nga vitet '80 deri në ditët e sotme
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Musika lauiloa i le gagana Sipaniolo
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: أغاني البوب ​​الكلاسيكية من الثمانينيات وحتى الآن
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: کلاسیک های پاپ از دهه 80 تا امروز
@@ -2219,6 +2234,9 @@ https://29306.live.streamtheworld.com:443/XHGVAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/c6d5e262-600f-457d-b681-b8b4da6f40d1",MIX 580 (Cancún) - 580 AM - XEYI-AM - Grupo ACIR - Cancún, Quintana Roo
 https://14923.live.streamtheworld.com:443/XHYIFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/cd0f1c63-8349-45d6-ab41-3281bea2cccb",MIX 90.1 (Toluca) - 90.1 FM - XHENO-FM - Grupo ACIR - Toluca, Estado de México
+
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bd34da7b81494900fc9e152",MIX 91.7 (Puebla) - 91.7 FM - XHRC-FM - Grupo ACIR - Puebla, Puebla
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHRCFMAAC.aac
@@ -2981,21 +2999,3 @@ https://streaming.servicioswebmx.com/8300/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/w-radio-1030-am-guanajuato-mexico.webp",W RADIO 1030 (León) - 1030 AM - XEROPJ-AM - GlobalMedia - Lagos de Moreno, Jalisco
 https://playradio.mx/proxy/wleon?mp=/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4xyp6t5x/wradio1043.jpg",W RADIO 104.3 (Mazatlán) - 104.3 FM - XHENX-FM - Grupo Radio Cañón - Mazatlán, Sinaloa
-https://streaming.servicioswebmx.com/8278/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s185059/images/logod.png",W RADIO 104.5 (Córdoba) - 104.5 FM - XHEVC-FM - Grupo Radio Cañón - Córdoba, Veracruz
-https://streaming.servicioswebmx.com/8262/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/QxHFjnLk/wradio1049.png",W RADIO 104.9 (Zacatecas y Guadalupe) - 104.9 FM - XHCCFL-FM - Grupo Radio Cañón - Zacatecas, Zacatecas
-https://streaming.servicioswebmx.com/8300/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91618/images/logod.png",W RADIO 105.1 (Chilpancingo) - 105.1 FM - XHEZUM-FM - Grupo Radio Cañón - Chilpancingo, Guerrero
-https://streamingcwsradio30.com/8122/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s242860/images/logod.png",W RADIO 107.9 (Irapuato) - 107.9 FM - XHWE-FM - Radio Grupo Antonio Contreras - Irapuato, Guanajuato
-https://stream9.mexiserver.com:8418/stream/
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s242860/images/logod.png",W RADIO 107.9 (Querétaro) - 107.9 FM - XHQG-FM - Global Media - Querétaro, Querétaro
-https://playradio.mx/proxy/xhqg?mp=/stream
