@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://www.arrow.nl/wp-content/uploads/2020/08/logo.png",Arrow Classic Rock
 http://stream.gal.io/arrow
 
@@ -17,6 +20,9 @@ http://67.249.184.45:8015/
 
 #EXTINF:1 radio="true" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2174/2023/09/26121503/launch_icon.png",KLVZ Legends 810AM/95.3 FM - Denver, CO
 https://ais-sa8.cdnstream1.com/p1w7r97sb0k/c2g93fu0iqz
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love / Amor en cada canción
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="http://www.radio.bialystok.pl/favicon.ico",Polskie Radio Bialystok
 http://stream4.nadaje.com:15476/radiobialystok
@@ -605,6 +611,9 @@ https://stream.zeno.fm/179rk7f9d78uv
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-arroba-fm-99-7-fm-durango-mexico.webp",ARROBA FM 99.7 (Durango) - 99.7 FM - XHOH-FM - Radiorama Durango - Durango, Durango
 https://stream.zeno.fm/pp1aypg9d78uv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/C5RNtC13/arya.png",ARYA 88.5 (Mérida) - 88.5 FM - XHRRF-FM - Península Studios - Mérida, Yucatán
+
 
 #EXTINF:1 radio="true" tvg-logo="",ASPOR
 http://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
@@ -2094,6 +2103,9 @@ https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/66a01759c5aa2b85d66b59
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/PJ9dpgpn/lovefm931.jpg",LOVE FM 93.1 (Hermosillo) - 93.1 FM - XHEPB-FM - Grupo RADIO SA - Hermosillo, Sonora
 https://mdstrm.com/audio/66b0f440b47ad3416c6a654a/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM:  Músicas pop espanholas clássicas dos anos 80, 90 e 2000
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Clásicos pop en español de los 80s a hoy
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
@@ -2589,6 +2601,9 @@ https://strcdn.klm99.com/8118/stream/1/
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6245d46c4d5d887d2360b449",RADIO MUNDO 89.3 (Mérida) - 89.3 FM - XHMIA-FM - Mérida, Yucatán
 https://cento02.mipanelradio.com/proxy/radiomu5?mp=/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pLVZsDNM/radiomundo.jpg",RADIO MUNDO 89.3 (Mérida) - 89.3 FM - XHMIA-FM - Mérida, Yucatan
+https://securestreams7.autopo.st/?uri=https://s6.voscast.com:11825/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://www.navahang.com/apple-touch-icon.png",Radio Navahang
 https://navairan.com/;stream.nsv
 
@@ -2639,6 +2654,9 @@ https://tv.radiohosting.online:9484/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/65tD4f54/radioujed.png",RADIO UNIVERSIDAD 100.5 (Durango) - 100.5 FM - XHHD-FM - Universidad Juárez del Estado de Durango (UJED) - Durango, Durango
 https://streaming.radio.ujed.mx/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/HL87zt2r/radiouniversidad.png",RADIO UNIVERSIDAD 103.9 (Mérida) - 103.9 FM - XHRUY-FM - Universidad Autónoma de Yucatán - Mérida, Yucatán
+
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/7Y2jBZbq/radiouniversidad1053.png",RADIO UNIVERSIDAD 105.3 (Chihuahua) - 105.3 FM - XHRU-FM - Universidad Autónoma de Chihuahua - Chihuahua, Chihuahua
 https://stream.zeno.fm/e2px6k3kwzzuv
@@ -2981,21 +2999,3 @@ https://streamingcwsradio30.com/8292/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fUUCyJC8RU.png",VOX FM 101.7 (Honduras) - 101.7 FM - HRTX - Emisoras Unidas - Tegucigalpa, Honduras
 https://ice42.securenetsystems.net/VOXFM
-
-#EXTINF:1 radio="true" tvg-logo="https://www.medios.gt/galeriausuarios/salvador/imagenesmessage/imagem030130151105917.jpg",VOX FM 94.5 (El Salvador) - 94.5 FM - YSEC - San Salvador, El Salvador
-https://cast3.asurahosting.com/proxy/gabriel/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fUUCyJC8RU.png",Vox FM Honduras - Tegucigalpa 101.7 FM - San Pedro Sula 106.1 FM
-https://ice42.securenetsystems.net/VOXFM
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sgFMnDtk/vox1001fm.png",VOX FM Radio Hits 100.1 (Cuernavaca) - 100.1 FM - XHTIX-FM - Cuernavaca, Morelos
-https://stream9.mexiserver.com:8342/steam
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90135/images/logod.png",VOX FM Radio Hits 89.3 (Tampico) - 89.3 FM - XHTOT-FM - Grupo Radio Cañón - Tampico, Tamaulipas
-https://streaming.servicioswebmx.com/8280/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90132/images/logod.png",VOX FM Radio Hits 95.9 (GDL) - 95.9 FM - XHABCJ-FM - Grupo Radio Cañón - Guadalajara, Jalisco
-https://streaming.servicioswebmx.com/8272/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/HsXBYwFD/vox965.png",VOX FM Radio Hits 96.5 (Villahermosa) - 96.5 FM - XHOP-FM - Grupo Radio Cañón - Villahermosa, Tabasco
-https://streaming.servicioswebmx.com/8298/stream
