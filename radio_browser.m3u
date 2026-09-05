@@ -675,6 +675,9 @@ https://stream.zeno.fm/ayrbxv13gd0uv
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s237811/images/logod.png",BFM 99.5 (Hermosillo) - 99.5 FM - XHFEM-FM - Bura Multimedia - Hermosillo, Sonora
 https://app.sonicpanelradio.com:8520/stream
 
+#EXTINF:1 radio="true" tvg-logo="",Bisrat FM 101.1 Addis Ababa · 101.1 FM
+https://bisratfm-atunwadigital.streamguys1.com/bisratfm
+
 #EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/d4/40/d4409aeae99360c5c556e5f5f82e2d4c.png",BJB 570 (Monterrey) - 570 AM - XEBJB-AM - Grupo Radio Alegría - Monterrey, Nuevo León
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROMANTICA_1340AMAAC.aac
 
@@ -2996,6 +2999,3 @@ https://sg.centrocibernetico.com/vive106.3
 
 #EXTINF:1 radio="true" tvg-logo="https://radiocanon.com.mx/wp-content/uploads/2026/01/Vox-760-AM.png",VOX AM Radio Hits (CDMX) - 760 AM - XEABC-AM - Radiópolis - Ciudad de México
 https://streamingcwsradio30.com/8292/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fUUCyJC8RU.png",VOX FM 101.7 (Honduras) - 101.7 FM - HRTX - Emisoras Unidas - Tegucigalpa, Honduras
-https://ice42.securenetsystems.net/VOXFM
