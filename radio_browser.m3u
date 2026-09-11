@@ -93,6 +93,9 @@ https://vip1.fhbf9.com/20210705/63Zb2fOi/index.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://radiomix360.cl/favicon.png",Radio Mix 360                                        |
 https://sp001.servidoresph.com:7035/stream
 
+#EXTINF:1 radio="true" tvg-logo="",Radio Tiempo Cali 89.5 FM
+https://26583.live.streamtheworld.com/RT_CALIAAC_SC
+
 #EXTINF:1 radio="true" tvg-logo="https://media.live365.com/download/b6b2cf5d-7596-471f-8aa4-fb4edd25612f.jpg",Squirrel FM
 http://s25.myradiostream.com:10092/stream
 
@@ -121,7 +124,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR39_s01AAC.
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR03_s01AAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/FKgrF3cw/amor.jpg",AMOR: Sólo Música Romántica
-https://29309.live.streamtheworld.com:443/XHSHFMAAC.aac
+https://18433.live.streamtheworld.com:443/XHSHFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-arroba-fm-stream-ciudad-de-mexico-mexico.webp",ARROBA FM: Te Conecta
 https://stream.zeno.fm/6vtcayf9d78uv
@@ -529,7 +532,7 @@ https://webprod.sipse.com.mx:8080/amor
 https://sp3.servidorrprivado.com/4474/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/643dd080e2d2e0af20722663",AMOR 103.1 (León) - 103.1 FM - XHXF-FM - Grupo ACIR - León, Guanajuato
-https://14993.live.streamtheworld.com:443/XHXFAAC.aac
+https://18533.live.streamtheworld.com:443/XHXFAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bce05d59803f27603c24984?ops=fit(240%2C240)",AMOR 103.3 (Puebla) - 103.3 FM - XHRH-FM - Grupo ACIR - Puebla, Puebla
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHRHFMAAC.aac
@@ -769,7 +772,7 @@ http://sp3.servidorrprivado.com:3334/stream
 https://stream.zeno.fm/nv2zf1kc4p8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/RZR4BYFm/candela941.png",CANDELA 94.1 (San Luis Potosí) - 94.1 FM - XHRASA-FM - Cadena RASA - San Luis Potosí, San Luis Potosí
-https://stream-204.surfernetwork.com/q8mt825e0chvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOG10ODI1ZTBjaHZ2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ii1XZngxOEFSUmN5Mm92OEhtbDlBVmciLCJpYXQiOjE3ODg2NDQ3NzYsImV4cCI6MTc4ODY0NDgzNn0.LMzZruKlRrHFoYmQ2gHyfAIFU0p-KhfwjWJm4ViN82U
+https://stream-284.surfernetwork.com/q8mt825e0chvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOG10ODI1ZTBjaHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVYNUtSQ0gtUktTalVQZFcxSVJxNEEiLCJpYXQiOjE3ODkwODA5ODYsImV4cCI6MTc4OTA4MTA0Nn0.Eww9dQfqlp6VC_R4NlHqsXHXOrVMbMiMotajm7Ls3M8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/nV0dDx8c/candela941fm.png",CANDELA 94.1 (Zamora) - 94.1 FM - XHGT-FM - Cadena RASA - Zamora, Michoacán
 https://stream.zeno.fm/9t73skxn8k8uv
@@ -1228,10 +1231,10 @@ https://stream-204.surfernetwork.com/476gbad3ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 https://stream-284.surfernetwork.com/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ing2bFBXclVtVExlTk5NTlZxUndRcGciLCJpYXQiOjE3ODg2Nzg4NTAsImV4cCI6MTc4ODY3ODkxMH0.SV4EazdeiXn8RtPCZjEL_g5Be4yuFYbQCPSRQu04Ey4
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/8cdcZybt/xhsb.jpg",EXTASIS DIGITAL 94.9 (Parral) - 94.9 FM - XHSB-FM - Radiorama Parral - Parral, ChihuahuaRadiorama
-https://stream-289.surfernetwork.com/3c5ctyyv538uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzYzVjdHl5djUzOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlNGUUlka3BrU3lxS3UtZGJlTXdTbWciLCJpYXQiOjE3ODg2NDQ0NDYsImV4cCI6MTc4ODY0NDUwNn0.KOV_JMimUUREMx1w9RBOToMAvl5vQDiPoZnlI_ozFxU
+https://stream-289.surfernetwork.com/3c5ctyyv538uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzYzVjdHl5djUzOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InlCbWo1R2FGUkFPZFVYdnhGY2Q3d0EiLCJpYXQiOjE3ODkwNzkyNTgsImV4cCI6MTc4OTA3OTMxOH0.i2sMW5UDpBFjsNh1WmbBDM1xCRW2t5YeYYsG6ZJNh6o
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-extasis-digital-95-9-fm-guanajuato-mexico.webp",EXTASIS DIGITAL 95.9 (León) - 95.9 FM - XHGTO-FM - Radiorama Bajío - León, Guanajuato
-https://stream-283.surfernetwork.com/gcdxabxx5rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnY2R4YWJ4eDVyaHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik9MT1Z3M1c0UVNLRFdZcWFmN1VNY3ciLCJpYXQiOjE3ODg2MzA3ODYsImV4cCI6MTc4ODYzMDg0Nn0.9c6b_kWMjptgTsm8BK2KqG9Mwml3DX00tBmZh-QjMIo
+https://stream-283.surfernetwork.com/gcdxabxx5rhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnY2R4YWJ4eDVyaHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjNuWFJKUDdqVHBhYThuV0R2YWJIYVEiLCJpYXQiOjE3ODkwNjUzODQsImV4cCI6MTc4OTA2NTQ0NH0.WUbdzJBTQmU-fs6xtVSaEnpLFFI3CQBrpV8bnfthQZE
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/NG9cNmDK/EXTASIS-DIGITAL-CHIHUAHUA.jpg",EXTASIS DIGITAL 96.5 (Chihuahua) - 96.5 FM - XHFI-FM - Radiorama Chihuahua - Chihuahua, Chihuahua
 https://stream-284.surfernetwork.com/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjZaNWRFRnJGUVNtTkhPVUs1TUNhQVEiLCJpYXQiOjE3ODg2OTEzMTEsImV4cCI6MTc4ODY5MTM3MX0.w4WitrAmtiZ7KulndtXUv5CVw-ToN2d0hlQ4WG848Ko
@@ -1669,7 +1672,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENAAAC.aac
 https://secure.radiorama.mx:2170/
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91096/images/logod.png",LA KEBUENA 94.3 (Apatzingán) - 94.3 FM - XHCJ-FM - Cadena RASA - Apatzingán, Michoacán
-https://stream-204.surfernetwork.com/s1ay1szrzv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzMWF5MXN6cnp2OHV2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkVmZHl0cVE2UVJ1TnoxNjd5Z1d0bXciLCJpYXQiOjE3ODg2MjcwMDgsImV4cCI6MTc4ODYyNzA2OH0.kpEihdP7HOyhd8yGI9ZtaBsRktJvl54PpxniEDMUdDQ
+https://stream-282.surfernetwork.com/s1ay1szrzv8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzMWF5MXN6cnp2OHV2IiwiaG9zdCI6InN0cmVhbS0yODIuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImhMeXZUWGtYUlA2elpvR09ZdTkwVFEiLCJpYXQiOjE3ODkwNjMwMzIsImV4cCI6MTc4OTA2MzA5Mn0.YZcw8zUIFBfEtQOFYlndSGT2tcQt9xZI8y1cbF6tMXs
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/DzBDJJPg/lakebuena949.jpg",LA KEBUENA 94.9 (Durango) - 94.9 FM - XHCCAV-FM - GPM Grupo Promomedios - Durango, Durango
 https://radioweb.stream/durango.durango/xhccav.aac/icecast.audio
@@ -1735,7 +1738,7 @@ https://cast3.my-control-panel.com/proxy/xhot
 https://stream.zeno.fm/ktezveaxxjzvv
 
 #EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/de/53/de5362728a4c73f5b6fbaf2c807971e5.png",LA MÁS PICUDA 104.7 (Parral) - 104.7 FM - XHEHB-FM - Radiorama Parral - Hidalgo del Parral, Chihuahua
-https://stream-288.surfernetwork.com/p45k5uz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNDVrNXV6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InF2cTI0eG5RU1Q2UzBkSFZzU2hjS1EiLCJpYXQiOjE3ODg2NTgzMTcsImV4cCI6MTc4ODY1ODM3N30.w8fhatro0nMLEGDmkIjIFi8z1a8YEuWE49C-_MpciUs
+https://stream-288.surfernetwork.com/p45k5uz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNDVrNXV6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkV1LWtsLTZyUzRlZGo4U2gtUE1ZMnciLCJpYXQiOjE3ODkwOTE0MDUsImV4cCI6MTc4OTA5MTQ2NX0.wF92EcZOInqqZHzn7nIwb_t1fOc8LeYnF0koJq3Rhe4
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/GhXJTxBr/lamaxi102.png",LA MAXI 102.5 (Los Mochis) - 102.5 FM - XHMAX-FM - Grupo Chávez Radio - Los Mochis, Sinaloa
 https://noticieroaltavoz.com:8443/listen/la_maxi_(102.5)/radio.mp3
@@ -2671,7 +2674,7 @@ https://stream.zeno.fm/b55avvu0x1zuv
 https://estaciones.uaq.mx:8000/radio.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/483/radio-udeg-autlan.b7c05912.png",RADIO UNIVERSIDAD DE GDL 102.3 (Autlán) - 102.3 FM - XHANU-FM - Universidad de Guadalajara - Autlán, Jalisco
-https://stream-288.surfernetwork.com/h6x4srz92hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoNng0c3J6OTJoaHZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Im9mUVR3bDBlU1RPdGMtM05tWlRrLUEiLCJpYXQiOjE3ODg2MzA3ODcsImV4cCI6MTc4ODYzMDg0N30.cfHIxb_DUQpZF4GtyRi9OfpSlxYFIyZT9qEpVCb3uH8
+https://stream-288.surfernetwork.com/h6x4srz92hhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoNng0c3J6OTJoaHZ2IiwiaG9zdCI6InN0cmVhbS0yODguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InpRMDVVSGtGU3hHR1dHZm12cG4zYWciLCJpYXQiOjE3ODkwNjU5MjgsImV4cCI6MTc4OTA2NTk4OH0.aWiHNGnVOuiEqnRXE6dAmV6jqCbNmIYdmBMFeFs9fSA
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/684/radio-udeg-ameca.79dc5ead.png",RADIO UNIVERSIDAD DE GDL 105.5 (Ameca) - 105.5 FM - XHUGA-FM - Universidad de Guadalajara - Ameca, Jalisco
 https://stream.zeno.fm/cu717gz92hhvv
@@ -2974,13 +2977,13 @@ https://ss1.audiorama.com.mx:6670/stream
 http://stream.zeno.fm/47zpzaa0fkhvv
 
 #EXTINF:1 radio="true" tvg-logo="https://radioramapozarica.mx/wp-content/uploads/2020/05/vida-romantica.png",VIDA ROMÁNTICA 100.9 (Poza Rica) - 100.9 FM - XHEJD-FM - Radiorama Poza Rica - Poza Rica, Veracruz
-https://stream-281.surfernetwork.com/ub9sy68zfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YjlzeTY4emZraHZ2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1TQU13eDFFU1FtWDR1Z1cwYlp6aUEiLCJpYXQiOjE3ODg2NTIyMjIsImV4cCI6MTc4ODY1MjI4Mn0.NxKNTWAWYxxLVyUoj3Uq5HeivO6xiEopJfuS0hqYvro
+https://stream-281.surfernetwork.com/ub9sy68zfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YjlzeTY4emZraHZ2IiwiaG9zdCI6InN0cmVhbS0yODEuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImQxUGNYbFJJUU8tTWE0amw4NU1hM3ciLCJpYXQiOjE3ODkwODk4MzIsImV4cCI6MTc4OTA4OTg5Mn0.EqWAQxz-kZigeeSqCaqjbcgO6YPggZQ027OByoOqkxU
 
 #EXTINF:1 radio="true" tvg-logo="",VIDA ROMÁNTICA 104.5 (Durango) - 104.5 FM - XHDRD-FM - Radiorama Durango - Durango, Durango
 https://stream-283.surfernetwork.com/g1c3rka6dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMWMzcmthNmRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkdoSjBjQ1BrUzFtQzhwUW9ueEd2OXciLCJpYXQiOjE3ODg2NTg1OTgsImV4cCI6MTc4ODY1ODY1OH0.tZrjcIiPfxqjtbLpPhV_6uROOKBeNjf6xUJVGuN4DJc
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/TP315xCz/Vida-Rom-ntica-Piedras-Negras.jpg",VIDA ROMÁNTICA 105.5 (Piedras Negras) - 105.5 FM - XHRE-FM - Radiorama Piedras Negras - Piedras Negras, Coahuila
-https://stream-283.surfernetwork.com/8e2a8v35dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZTJhOHYzNWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik0ySjhMWTNMUVYtdkZubEhhVHdKMVEiLCJpYXQiOjE3ODg2NDQwMTQsImV4cCI6MTc4ODY0NDA3NH0.qBzfCNEcdiV8hiVQPiYUyaksHNhjC5PuxwgkdYGFlGI
+https://stream-283.surfernetwork.com/8e2a8v35dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZTJhOHYzNWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImwzM0JkTzhJUklPRWROZVRnNzFqX3ciLCJpYXQiOjE3ODkwODY5MzQsImV4cCI6MTc4OTA4Njk5NH0.FbJAM1LQzWRs1KeyVUr_OJ8VWKqlH_gmI5O67dcObPg
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/MKS1T7dN/vidaromantica993.jpg",VIDA ROMÁNTICA 99.3 (Tampico) - 99.3 FM - XHETU-FM - Radio Resultados - Tampico, Tamaulipas
 https://stream-285.surfernetwork.com/621e7h6zfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MjFlN2g2emZraHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkM5RDA4enRnUlVTbWNaeXVRNjB0ZHciLCJpYXQiOjE3ODg4Nzc0NTAsImV4cCI6MTc4ODg3NzUxMH0.JpZ9_rq36P8I8M8M6TSbLw03NkHKOidk79dwZVI4JaA
@@ -2996,6 +2999,3 @@ https://s2.mexside.net/8080/vive
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/15fHyKQP/vivefm.png",VIVE FM 106.3 (Tehuacán) - 106.3 FM - XHETE-FM - Cinco Radio - Tehuacán, Puebla
 https://sg.centrocibernetico.com/vive106.3
-
-#EXTINF:1 radio="true" tvg-logo="https://radiocanon.com.mx/wp-content/uploads/2026/01/Vox-760-AM.png",VOX AM Radio Hits (CDMX) - 760 AM - XEABC-AM - Radiópolis - Ciudad de México
-https://streamingcwsradio30.com/8292/stream
