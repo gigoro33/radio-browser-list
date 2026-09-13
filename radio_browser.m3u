@@ -24,6 +24,12 @@ https://ais-sa8.cdnstream1.com/p1w7r97sb0k/c2g93fu0iqz
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love / Amor en cada canción
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Amor en cada canción / Clásicos del pop
+
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Clásicos pop de los 80s, 90s y 2000s a hoy
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="http://www.radio.bialystok.pl/favicon.ico",Polskie Radio Bialystok
 http://stream4.nadaje.com:15476/radiobialystok
 
@@ -2193,6 +2199,9 @@ https://cast3.my-control-panel.com/proxy/maslatina/stream
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s339608/images/logod.png",MAS QUE RADIO 90.1 (Aguascalientes) - 90.1 FM - XHPEFD-FM - Comunicación Integral para la Familia, A.C. - Aguascalientes, Aguascalientes
 https://streaming.servicioswebmx.com:8014/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s355767/images/logod.png",MAS QUE RADIO 97.7 (Calvillo) - 97.7 FM - XHCIF-FM - Comunicación Integral para la Familia, A.C. (Ags Now) - Calvillo, Aguascalientes
+
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/LsFyGjQW/masradio.png",MAS RADIO 107.9 (Nogales) - 107.9 FM - KCKO-FM - Mas Medios Nogales - Nogales, Sonora
 https://s5.mexside.net:8000/stream
 
@@ -2327,6 +2336,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://gpmtuportal.com/wp-content/uploads/2023/12/NRGY-FINAL-1-1-1.png",NRGY 88.1 (Culiacán) - 88.1 FM - XHCSEB-FM - GPM (Grupo Promomedios) - Culiacán, Sinaloa
 https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/rmdQChSq/nvradio.jpg",NV RADIO 94.1 (Pabellón de Arteaga) - 94.1 FM - XHSCGX-FM - Medios Digitales Sociales y Culturales de Aguascalientes, A.C. - Pabellón de Arteaga, Aguascalientes
+
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s18771/images/logod.jpg",ONDAS DE VIDA 1440 (CDMX) - 1440 AM - XEEST-AM - Grupo Siete - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac
@@ -2619,6 +2631,9 @@ https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-ranchito-99-7-fm-aguascalientes-mexico.webp",RADIO RANCHITO 99.7 (Calvillo) - 99.7 FM - XHPLVI-FM - Grupo ULTRA México - Calvillo, Aguascalientes
 https://streamingcwsradio30.com:7006/stream.mp3
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/C1W9NcN3/radioranchito997.png",RADIO RANCHITO 99.7 (Calvillo) - 99.7 FM - XHPLVI-FM - Grupo ULTRA Mexico - Calvillo, Aguascalientes
+
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90693/images/logog.png",RADIO RECUERDO 860 (MTY) - 860 AM - XENL-AM - Multimedios Radio - Monterrey, Nuevo León
 https://mdstrm.com/audio/672a5df773078862801f389f/icecast.audio
 
@@ -2765,6 +2780,9 @@ https://ss1.audiorama.com.mx:6658/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-retro-93-9-fm-mexico.webp",RETRO FM 93.9 (Ciudad del Carmen) - 93.9 FM - XHPMEN-FM - Grupo Audiorama Comunicaciones - Ciudad del Carmen, Campeche
 https://ss1.audiorama.com.mx:6572/
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s342567/images/logod.jpg",RMX 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones / Grupo Imagen - Guadalajara, Jalisco
+https://ss1.audiorama.com.mx:6574/rmx
 
 #EXTINF:1 radio="true" tvg-logo="",Rodnoe radio VT
 https://c6.radioboss.fm/stream/234/
@@ -2981,21 +2999,3 @@ https://stream-281.surfernetwork.com/ub9sy68zfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 
 #EXTINF:1 radio="true" tvg-logo="",VIDA ROMÁNTICA 104.5 (Durango) - 104.5 FM - XHDRD-FM - Radiorama Durango - Durango, Durango
 https://stream-283.surfernetwork.com/g1c3rka6dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMWMzcmthNmRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1wQ1ZzUVFKVFZxemdmQTlkOXloTkEiLCJpYXQiOjE3ODkxMzA0MDcsImV4cCI6MTc4OTEzMDQ2N30.URvmszsfiXO9LtbVIXHcLuLX_R_ZeSdzT5Tl45nnBPU
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/TP315xCz/Vida-Rom-ntica-Piedras-Negras.jpg",VIDA ROMÁNTICA 105.5 (Piedras Negras) - 105.5 FM - XHRE-FM - Radiorama Piedras Negras - Piedras Negras, Coahuila
-https://stream-283.surfernetwork.com/8e2a8v35dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZTJhOHYzNWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImwzM0JkTzhJUklPRWROZVRnNzFqX3ciLCJpYXQiOjE3ODkwODY5MzQsImV4cCI6MTc4OTA4Njk5NH0.FbJAM1LQzWRs1KeyVUr_OJ8VWKqlH_gmI5O67dcObPg
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/MKS1T7dN/vidaromantica993.jpg",VIDA ROMÁNTICA 99.3 (Tampico) - 99.3 FM - XHETU-FM - Radio Resultados - Tampico, Tamaulipas
-https://stream-285.surfernetwork.com/621e7h6zfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MjFlN2g2emZraHZ2IiwiaG9zdCI6InN0cmVhbS0yODUuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkM5RDA4enRnUlVTbWNaeXVRNjB0ZHciLCJpYXQiOjE3ODg4Nzc0NTAsImV4cCI6MTc4ODg3NzUxMH0.JpZ9_rq36P8I8M8M6TSbLw03NkHKOidk79dwZVI4JaA
-
-#EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/XHCDMX_Violeta106.1radio_logo.png",VIOLETA RADIO 106.1 (CDMX) - 106.1 FM - XHCDMX-FM - Alianza por el Derecho Humano de las Mujeres a Comunicar, A.C. - Ciudad de México
-https://flujos.mazorca.org/violetaradio.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s266113/images/logod.png",VIRGIN RADIO UK: Rock‘n’Roll Radio From The Top Of The Tower
-https://virgin.live.stream.broadcasting.news/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s329845/images/logod.png",VIVE 106.1 (Morelia) - 106.1 FM - XHSCCN-FM - RM Morelia - Morelia, Michoacán
-https://s2.mexside.net/8080/vive
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/15fHyKQP/vivefm.png",VIVE FM 106.3 (Tehuacán) - 106.3 FM - XHETE-FM - Cinco Radio - Tehuacán, Puebla
-https://sg.centrocibernetico.com/vive106.3
