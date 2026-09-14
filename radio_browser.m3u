@@ -25,7 +25,7 @@ https://ais-sa8.cdnstream1.com/p1w7r97sb0k/c2g93fu0iqz
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Amor en cada canción / Clásicos del pop
-
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Clásicos pop de los 80s, 90s y 2000s a hoy
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
@@ -1231,7 +1231,7 @@ https://stream.zeno.fm/ct70b7m1qa0uv
 https://stream-280.surfernetwork.com/u3pd78exzuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M3BkNzhleHp1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Inh0MmhxX2VoVDYtb1RqQ2c0NzY4SkEiLCJpYXQiOjE3ODkxMjQzOTQsImV4cCI6MTc4OTEyNDQ1NH0.W1epI5axxyHpuSBDuoegJOeEgYf5aURDtMLkbU0acMY
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-extasis-digital-107-7-fm-morelos-mexico.webp",EXTASIS DIGITAL 107.7 (Cuernavaca) - 107.7 FM - XHASM-FM - Radiorama Morelos - Cuernavaca, Morelos
-https://stream-204.surfernetwork.com/476gbad3ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NzZnYmFkM2VraHZ2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlB2RkV6RERNU1VxS0FJYV9qVlJSb3ciLCJpYXQiOjE3ODg3NTU1MTAsImV4cCI6MTc4ODc1NTU3MH0.E6aaSAXCtxEHy4jrVuFHj9mMkunLts7jX9RZE2AiC7A
+https://stream-289.surfernetwork.com/476gbad3ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NzZnYmFkM2VraHZ2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjVaUS1Va2EtUlpxcU5Wb3VsUEQ1THciLCJpYXQiOjE3ODkzMDQ4NDQsImV4cCI6MTc4OTMwNDkwNH0.A_ym4WbKqqqhxDYz4qAPug1dYm6ARHT-KthxDulFraw
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/NG9cNmDK/EXTASIS-DIGITAL-CHIHUAHUA.jpg",ÉXTASIS DIGITAL 580 (Chihuahua) - 580 AM - XEFI-AM - Radiorama Chihuahua - Chihuahua, Chihuahua
 https://stream-284.surfernetwork.com/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlpmOG9kaE5mUWVtSE1MdWpZYVFocmciLCJpYXQiOjE3ODkxMTc1NzMsImV4cCI6MTc4OTExNzYzM30.Js7Jf8Hl_XSgjayGxVjLep-hhZ2a8oZmvi5c-1ftvUU
@@ -1280,9 +1280,6 @@ https://strcdn.klm99.com/8132/stream
 
 #EXTINF:1 radio="true" tvg-logo="",FM BAND NEWS 89.5
 https://streaming01.shockmedia.com.ar:10486/
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90995/images/logod.png",FM CENTRO 100.3 (Apizaco) - 100.3 FM - XHXZ-FM - Apizaco, Tlaxcala
-
 
 #EXTINF:1 radio="true" tvg-logo="https://ceresdiario.com/home/wp-content/uploads/2019/02/cropped-logo-ceresdiarioss-1-32x32.jpg",FM CERES  98.7
 https://streaming.escuchanosonline.com/8410/stream
@@ -2200,7 +2197,7 @@ https://cast3.my-control-panel.com/proxy/maslatina/stream
 https://streaming.servicioswebmx.com:8014/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s355767/images/logod.png",MAS QUE RADIO 97.7 (Calvillo) - 97.7 FM - XHCIF-FM - Comunicación Integral para la Familia, A.C. (Ags Now) - Calvillo, Aguascalientes
-
+https://streaming.servicioswebmx.com:8200/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/LsFyGjQW/masradio.png",MAS RADIO 107.9 (Nogales) - 107.9 FM - KCKO-FM - Mas Medios Nogales - Nogales, Sonora
 https://s5.mexside.net:8000/stream
@@ -2338,7 +2335,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
 https://radioweb.stream/sinaloa.culiacan/xhcpfw.aac/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/rmdQChSq/nvradio.jpg",NV RADIO 94.1 (Pabellón de Arteaga) - 94.1 FM - XHSCGX-FM - Medios Digitales Sociales y Culturales de Aguascalientes, A.C. - Pabellón de Arteaga, Aguascalientes
-
+https://radio.cimaspeed.com/8184/;
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s18771/images/logod.jpg",ONDAS DE VIDA 1440 (CDMX) - 1440 AM - XEEST-AM - Grupo Siete - Ciudad de México
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEESTAMAAC.aac
@@ -2632,7 +2629,7 @@ https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 https://streamingcwsradio30.com:7006/stream.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/C1W9NcN3/radioranchito997.png",RADIO RANCHITO 99.7 (Calvillo) - 99.7 FM - XHPLVI-FM - Grupo ULTRA Mexico - Calvillo, Aguascalientes
-
+https://streamingcwsradio30.com:7006/stream.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90693/images/logog.png",RADIO RECUERDO 860 (MTY) - 860 AM - XENL-AM - Multimedios Radio - Monterrey, Nuevo León
 https://mdstrm.com/audio/672a5df773078862801f389f/icecast.audio
@@ -2999,3 +2996,6 @@ https://stream-281.surfernetwork.com/ub9sy68zfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 
 #EXTINF:1 radio="true" tvg-logo="",VIDA ROMÁNTICA 104.5 (Durango) - 104.5 FM - XHDRD-FM - Radiorama Durango - Durango, Durango
 https://stream-283.surfernetwork.com/g1c3rka6dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnMWMzcmthNmRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik1wQ1ZzUVFKVFZxemdmQTlkOXloTkEiLCJpYXQiOjE3ODkxMzA0MDcsImV4cCI6MTc4OTEzMDQ2N30.URvmszsfiXO9LtbVIXHcLuLX_R_ZeSdzT5Tl45nnBPU
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/TP315xCz/Vida-Rom-ntica-Piedras-Negras.jpg",VIDA ROMÁNTICA 105.5 (Piedras Negras) - 105.5 FM - XHRE-FM - Radiorama Piedras Negras - Piedras Negras, Coahuila
+https://stream-283.surfernetwork.com/8e2a8v35dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI4ZTJhOHYzNWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImwzM0JkTzhJUklPRWROZVRnNzFqX3ciLCJpYXQiOjE3ODkwODY5MzQsImV4cCI6MTc4OTA4Njk5NH0.FbJAM1LQzWRs1KeyVUr_OJ8VWKqlH_gmI5O67dcObPg
