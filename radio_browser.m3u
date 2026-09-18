@@ -27,6 +27,9 @@ https://ais-sa8.cdnstream1.com/p1w7r97sb0k/c2g93fu0iqz
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love / Amor en cada canción
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love / Música Romántica
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Amor en cada canción / Clásicos del pop
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
@@ -1728,6 +1731,9 @@ https://mdstrm.com/audio/672cfce4fdabb2c0423a9937/icecast.audio
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62aa82bef5cfcda6329f5772",LA LUPE 89.5 (Fortín) - 89.5 FM - XHFTI-FM - Multimedios Radio - Fortín de las Flores, Veracruz
 https://mdstrm.com/audio/672cec266ac145ede1027a7b/icecast.audio
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62aa13f78cf35d83aff9906a",LA LUPE 94.7 (Ensenada) - 94.7 FM - XHPENS-FM - Multimedios Radio - Ensenada, Baja California
+https://mdstrm.com/audio/672ce72c8997d8ee6a17c240/icecast.audio
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91474/images/logod.png",LA LUPE 95.3 (Chetumal) - 95.3 FM - XHROO-FM - Multimedios Radio / Grupo SIPSE Radio - Chetumal, Quintana Roo
 https://cast4.asurahosting.com/proxy/radiocan/stream
 
@@ -2094,6 +2100,9 @@ http://cento02.mipanelradio.com/proxy/abadillo
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s141437/images/logod.png",LOS40 95.7 (Aguascalientes) - 95.7 FM - XHAGA-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
 https://cast.zuperdns.net/8030/stream/
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/mrJH7zRH/los40ensenada.jpg",LOS40 96.9 (Ensenada) - 96.9 FM - XHPSEN-FM - Radiópolis - Ensenada, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ENSENADAAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s186233/images/logod.jpg",LOS40 96.9 (Mérida) - 96.9 FM - XHUL-FM - Cadena RASA - Mérida, Yucatán
 https://stream.zeno.fm/44t6wqmc4p8uv
 
@@ -2378,6 +2387,9 @@ https://visual.shoutca.st/stream/piccadillyradio261
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2377/images/logod.png",PLANET ROCK: Where Rock Lives
 https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/HkB5kWLq/playfm979.jpg",PLAY FM (Ensenada) - 97.9 FM - XHEBC-FM - Radio Cadena Enciso (RCE) - Ensenada, Baja California
+https://edge.mixlr.com/channel/evyhv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4xsPG2L7/playfm.jpg",PLAY FM 93.3 (Cuernavaca) - 93.3 FM - XHTB-FM - Radiorama Morelos - Cuernavaca, Morelos
 https://stream.zeno.fm/yt2efgg9d78uv
@@ -2958,6 +2970,9 @@ https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8030/stream
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/0NMZnfdx/tuchtlanfm.png",TUCHTLÁN FM 93.9 (Tuxtla) - 93.9 FM - XHTGU-FM - Sistema Chiapaneco de Radio, Televisión y Cinematografía - Tuxtla Gutiérrez, Chiapas
 http://streamingcwsradio10.com:9340/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4NNrhm3b/uabcradio.jpg",UABC RADIO 104.1 (Mexicali) - 104.1 FM - XHBA-FM - Universidad Autónoma De Baja California - Mexicali, Baja California
+https://envivo.uabc.mx/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/UAMRadio-logo.jpg",UAM RADIO 94.1 (CDMX) - 94.1 FM - XHUAM-FM - UAM (Universidad Autónoma Metropolitana) - Ciudad de México
 https://stream5.mexiserver.com:1124/
 
@@ -2984,18 +2999,3 @@ https://sp5.servidorrprivado.com:10982/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/PxGfwFh8/vibra951.png",VIBRA RADIO 95.1 (Guamúchil) - 95.1 FM - XHCCCI-FM - Grupo Vibra Medios - Guamúchil, Sinaloa
 https://sp3.servidorrprivado.com:10829/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Y00tSWcP/vida1370.png",VIDA 1370 (Mexicali) - 1370 AM - XEHG-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
-https://sg.centrocibernetico.com/audiorama-xehg
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/YCrw3Pqs/vida897.png",VIDA 89.7 (Acapulco) - 89.7 FM - XHKJ-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
-https://sg.centrocibernetico.com/audiorama-xhkj
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s342572/images/logod.png",VIDA 99.9 (Piedras Negras) - 99.9 FM - XHSG-FM - Grupo Audiorama Comunicaciones - Piedras Negras, Coahuila
-https://ss1.audiorama.com.mx:6670/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/b4/14/b4142e9275d74e8cfbce0692822e56f9.jpg",VIDA AZUL 99.5 (Tuxpan) - 99.5 FM - XHTVR-FM - Radiorama - Tuxpan, Veracruz
-http://stream.zeno.fm/47zpzaa0fkhvv
-
-#EXTINF:1 radio="true" tvg-logo="https://radioramapozarica.mx/wp-content/uploads/2020/05/vida-romantica.png",VIDA ROMÁNTICA 100.9 (Poza Rica) - 100.9 FM - XHEJD-FM - Radiorama Poza Rica - Poza Rica, Veracruz
-https://stream-280.surfernetwork.com/ub9sy68zfkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YjlzeTY4emZraHZ2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkpxampoMXhKVHdLbzBuRXc2RTNoY0EiLCJpYXQiOjE3ODk1MjM5NTAsImV4cCI6MTc4OTUyNDAxMH0.w-qwYC5TbWY3DtbLK8ClTyMUKZtpSdb-wSYvFe9PYig
