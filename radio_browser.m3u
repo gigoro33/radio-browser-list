@@ -28,7 +28,7 @@ https://ais-sa8.cdnstream1.com/p1w7r97sb0k/c2g93fu0iqz
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love / Clásicos del pop
-
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love / Música Romántica
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
@@ -636,6 +636,9 @@ https://stream.zeno.fm/179rk7f9d78uv
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-arroba-fm-99-7-fm-durango-mexico.webp",ARROBA FM 99.7 (Durango) - 99.7 FM - XHOH-FM - Radiorama Durango - Durango, Durango
 https://stream.zeno.fm/pp1aypg9d78uv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/C5RNtC13/arya.png",ARYA 88.5 (Mérida) - 88.5 FM - XHRRF-FM - Península Studios - Mérida, Yucatán
+https://securestreams7.autopo.st/?uri=https://s1.voscast.com:10271/stream
+
 #EXTINF:1 radio="true" tvg-logo="",ASPOR
 http://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
 
@@ -1045,7 +1048,7 @@ https://radioweb.stream/ags.ags/xhmr.aac/icecast.audio
 https://stream.zeno.fm/rkh7xul6uf8vv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/NM1F613G/estereosol.jpg",ESTÉREO SOL 101.1 (Ensenada) - 101.1 FM - XHAT-FM - Radio Cadena Enciso (RCE) - Ensenada, Baja California
-
+https://edge.mixlr.com/channel/gdjut
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/q7YgvmFQ/estereotiempo.png",ESTÉREO TIEMPO 100.3 (Monclova) - 100.3 FM - XHTF-FM - Monclova, Coahuila
 https://stream9.mexiserver.com/8246/stream
@@ -2996,6 +2999,3 @@ https://icecastultra.duckdns.org/ultraup
 
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/XHUVA_UVA90.5_logo.png",UVA 90.5 (Aguascalientes) - 90.5 FM - XHUVA-FM - Radiogrupo - Aguascalientes, Aguascalientes
 http://201.159.48.106:1407/
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/6pCtsH2P/xecsac.jpg",VALLES DIGITAL RADIO 1210 (El Arenal) - 1210 AM - XECSAC-AM - El Arenal, Jalisco
-https://shoutcast.uplinkmx.com:8000/;stream/1
