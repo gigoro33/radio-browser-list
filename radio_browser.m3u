@@ -1113,6 +1113,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHQTAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87783/images/logod.jpg",EXA FM 102.9 (Tehuacán) - 102.9 FM - XHWJ-FM - Radio TH Comunicación - Tehuacán, Puebla
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHWJ_EXAAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91437/images/logod.png",EXA FM 104.1 (Ensenada) - 104.1 FM - XHADA-FM - MVS Radio - Ensenada, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHADAAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s92121/images/logod.jpg",EXA FM 104.5 (Celaya) - 104.5 FM - XHZN-FM - TVR Comunicaciones - Celaya, Guanajuato
 http://144.217.67.108:9148/;
 
@@ -1295,6 +1298,9 @@ https://stream.zeno.fm/2r1xxtznq68uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/tTvqfH4x/fiestamexicana1029.jpg",FIESTA MEXICANA 102.9 (Celaya) - 102.9 FM - XHNC-FM - Radiorama Bajío - Celaya, Guanajuato
 https://stream.zeno.fm/uwcg6hb6dkhvv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/y8jFwzJ7/fiestamexicana1055.png",FIESTA MEXICANA 105.5 (Irapuato) - 105.5 FM - XHNC-FM - Radiorama Bajío - Irapuato, Guanajuato
+https://stream.zeno.fm/b19663h6dkhvv
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s2996/images/logod.jpg",FIESTA MEXICANA 92.3 (GDL) - 92.3 FM - XHBIO-FM  - Grupo Promomedios - Guadalajara, Jalisco
 https://stream.promomedios.com:8002/stream
@@ -1562,6 +1568,12 @@ https://cast2.my-control-panel.com/proxy/smashco1/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/321/la-campera-929.aef70a35.jpg",LA CAMPERA 92.9 (Jiménez) - 92.9 FM - XHJZ-FM - VMedia Comunicaciones - Jiménez, Chihuahua
 https://stream.zeno.fm/4nmspyoqrjdvv
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/bvn0SZyC/lachula983.png",LA CHULA 98.3 (San Quintín) - 98.3 FM - XHBAJA-FM - Grupo Uvizra - San Quintín, Baja California
+https://sudominiohoy.com:18352/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/9fNM2b5S/lachula987.png",LA CHULA 98.7 (Ensenada) - 98.7 FM - XHPEDV-FM - Grupo Uvizra - Ensenada, Baja California
+https://sudominiohoy.com:18355/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91343/images/logod.png",LA COMADRE 100.3 (Orizaba) - 100.3 FM - XHPP-FM - Valanci Media Group - Orizaba, Veracruz
 http://hd.digitalradio.mx:6121/lacomadreorizaba
@@ -2013,6 +2025,9 @@ https://us9.maindigitalstream.com/ssl/latop102
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s91471g.png",LA TREMENDA 560 (Santiago Papasquiaro) - 560 AM - XESRD-AM - Grupo Garza Limón - Santiago Papasquiaro, Durango
 https://radio.latremenda.com.mx/Santiago
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/L81VtFJr/launik.jpg",LA UNI-K 89.3 (Texcoco) - 89.3 FM - XHOEX-FM - Omega Experimental, A.C. - Texcoco, Estado de México
+http://uk21freenew.listen2myradio.com:12007/;
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/QdvwrXMc/launika.png",LA UNIKA 105.7 (Ciudad Obregón) - 105.7 FM - XHOS-FM - Radio Grupo García de León - Ciudad Obregón, Sonora
 https://streamingcwsradio30.com:7059/stream
 
@@ -2033,6 +2048,9 @@ https://stream.zeno.fm/9liwkbahprctv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/tg05G1Fs/lavozdelpitic.png",LA VOZ DEL PITIC 88.1 (Hermosillo) - 88.1 FM - XHRMO-FM - Democracia y Deliberación Desértica, A.C. - Hermosillo, Sonora
 https://s5.mexside.net:8080/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/GmDfjhqr/lavozdelvalle.png",LA VOZ DEL VALLE 95.1 (San Quintín) - 95.1 FM - XHSQB-FM - Instituto Nacional de los Pueblos Indígenas - San Quintín, Baja California
+
 
 #EXTINF:1 radio="true" tvg-logo="https://rcradio105.com/wp-content/uploads/2024/04/LA-Z-MARCA-1-scaled.jpg",LA Z 105.5 (Atotonilco) - 105.5 FM - XHHE-FM - XHHE Radio / Grupo Radio Centro - Atotonilco, Jalisco
 https://stream.zeno.fm/0q28d4beczctv
@@ -2981,21 +2999,3 @@ http://stream.radiojar.com/a5qpu2en3p8uv
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ec71c6cc405ed8eed73d0a7",TRIÓN 90.1 (San Luis Potosí) - 90.1 FM - XHSMR-FM - GlobalMedia / Grupo Fórmula - San Luis Potosí, San Luis Potosí
 https://playradio.mx/proxy/trion?mp=/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ea788257ba15486d603ab74",Trión Ciudad de México - 103.3 HD4 - XERFR-FM - Grupo Fórmula - Ciudad de México
-https://stream.radiojar.com/4f89tufzv9duv
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/KzjcKRJ8/tropicalisima.png",TROPICALÍSIMA 660 (CDMX) - 660 AM - XEDTL-AM - IMER - Ciudad de México
-https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8030/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/0NMZnfdx/tuchtlanfm.png",TUCHTLÁN FM 93.9 (Tuxtla) - 93.9 FM - XHTGU-FM - Sistema Chiapaneco de Radio, Televisión y Cinematografía - Tuxtla Gutiérrez, Chiapas
-http://streamingcwsradio10.com:9340/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4NNrhm3b/uabcradio.jpg",UABC RADIO 104.1 (Mexicali) - 104.1 FM - XHBA-FM - Universidad Autónoma De Baja California - Mexicali, Baja California
-https://envivo.uabc.mx/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/UAMRadio-logo.jpg",UAM RADIO 94.1 (CDMX) - 94.1 FM - XHUAM-FM - UAM (Universidad Autónoma Metropolitana) - Ciudad de México
-https://stream5.mexiserver.com:1124/
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s8289/images/logog.png",ULTRA 101.3 (Toluca) - 101.3 FM - XHZA-FM - Grupo ULTRA - Toluca, Estado de México
-https://icecastultra.duckdns.org/livetol
