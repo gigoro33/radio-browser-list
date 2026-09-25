@@ -2433,6 +2433,9 @@ https://edge.mixlr.com/channel/evyhv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4xsPG2L7/playfm.jpg",PLAY FM 93.3 (Cuernavaca) - 93.3 FM - XHTB-FM - Radiorama Morelos - Cuernavaca, Morelos
 https://stream.zeno.fm/yt2efgg9d78uv
 
+#EXTINF:1 radio="true" tvg-logo="http://23613.live.streamtheworld.com/POP90AAC_SC",POP 90
+http://23613.live.streamtheworld.com/POP90AAC_SC
+
 #EXTINF:1 radio="true" tvg-logo="https://manager.uber.radio/static/uploads/station/127496a8-d79b-4b7b-9981-a7112fb3922c.png",Positively Stress Relief -om
 https://streaming.positivity.radio/pr/stressrelief/icecast.audio
 
@@ -2996,6 +2999,3 @@ https://mdstrm.com/audio/672a61c2bef01359b6913aea/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s90559d.png",TOP MUSIC 91.7 (Querétaro) - 91.7 FM - XHKH-FM - Respuesta Radiofónica - Querétaro, Querétaro
 https://secure.radiorama.mx:2125/
-
-#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ec71348c405ed8eed73d099",TRIÓN 106.1 (Veracruz) - 106.1 FM - XHETF-FM - Grupo Fórmula - Boca del Río, Veracruz
-http://stream.radiojar.com/a5qpu2en3p8uv
