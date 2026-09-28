@@ -36,6 +36,9 @@ https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥ Amor en tu radio
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥ Clásicos del pop
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
@@ -1971,6 +1974,9 @@ https://stream.zeno.fm/wqmax4y0ra0uv
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s181492/images/logod.png",LA RANCHERITA 89.1 (Ensenada) - 89.1 FM - XHEPF-FM - Radio Cadena Enciso (RCE) - Ensenada, Baja California
 https://edge.mixlr.com/channel/caifk
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jSyVVVHm/larancherita985.jpg",LA RANCHERITA 98.5 (Fresnillo) - 98.5 FM - XHYQ-FM - Grupo Radiofónico ZER - Fresnillo, Zacatecas
+https://cast.zuperdns.net/8004/stream/
+
 #EXTINF:1 radio="true" tvg-logo="",La Rancherita 99.1 (Villahermosa) - 99.1 FM - XHVHT-FM - Grupo AS Comunicación - Villahermosa, Tabasco
 https://stream-150.zeno.fm/hhorff0ftxguv
 
@@ -2382,6 +2388,9 @@ https://radio.plaza.one/ogg
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Hx08h5Qt/nofmradio.jpg",NOFM RADIO (CDMX) - Online - www.nofm-radio.com - Todo Menos Miedo - Ciudad de México
 https://securestreams7.autopo.st/?uri=https://s2.voscast.com:8163/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/XEMX_Noticias1120Mexicali_logo.jpg",NOTICIAS MVS 1120 (Mexicali) - 1120 AM - XEMX-AM - MVS Radio - Mexicali, Baja California
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEMXAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s26289/images/logod.png",NOTICIAS Y DEPORTES 1330 (Los Ángeles) - 1330 AM - KWKW - Lotus Communications - Los Ángeles, California, EUA
 https://playerservices.streamtheworld.com/api/livestream-redirect/KWKWAMAAC.aac
 
@@ -2664,6 +2673,9 @@ https://radios.radiohd.com.mx/8270/;
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-metropoli-1150-am-mexico.webp",RADIO METRÓPOLI 1150 (GDL) - 1150 AM - XEAD-AM - Grupo Unidifusión - Guadalajara, Jalisco
 https://s2.yesstreaming.net:9088/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/vmW66mW7/radiomexicana.jpg",RADIO MEXICANA 910 (Mexicali) - 910 AM - XEAO-AM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+https://cdn1.onstream.audio/proxy/xeao/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4xD8BQpG/radiomexicana989.png",RADIO MEXICANA 98.9 (Mérida) - 98.9 FM - XHYW-FM - Valanci Media Group - Mérida, Yucatán
 http://stream-287.surfernetwork.com/4xwhyk6xr98uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0eHdoeWs2eHI5OHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlZzY0FJaC1TUmNTUV9qd2NyTU5TWXciLCJpYXQiOjE3OTAzOTk4MzYsImV4cCI6MTc5MDM5OTg5Nn0.5cuIjOoOw6Tzjd_sDG5VLoMkF3K_wfE8IrQf7knwJ7o
 
@@ -2847,6 +2859,9 @@ https://ss1.audiorama.com.mx:6572/
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s342567/images/logod.jpg",RMX 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones / Grupo Imagen - Guadalajara, Jalisco
 https://ss1.audiorama.com.mx:6574/rmx
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jjgCfJD6/rocola.png",ROCOLA 990 (Mexicali) - 990 AM - XECL-AM - Radiorama Mexicali - Mexicali, Baja California
+http://stream.zeno.fm/bcbs57s5dkhvv
+
 #EXTINF:1 radio="true" tvg-logo="",Rodnoe radio VT
 https://c6.radioboss.fm/stream/234/
 
@@ -2984,18 +2999,3 @@ https://stream.techno.fm/radio1-320k.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/j5JqRGN7/technoloversvocaltrance.jpg",Techno Lovers FM Vocal Trance
 https://stream.technolovers.fm/vocal-trance
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s167335/images/logod.png?t=636196552593670000",TEPLOE RADIO NETOP FM
-https://listen.teploe.net:8001/netopfm
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn.instant.audio/images/logos/radiosaovivo-net/terra-gaucha.png",Terra Gaúcha
-https://5a57bda70564a.streamlock.net/terragaucha/terragaucha.stream/playlist.m3u8
-
-#EXTINF:1 radio="true" tvg-logo="https://mybighornbasin.com/favicon.ico",The Eagle KVGL 105.7 (aka, KYTS, 105.7 FM)
-https://ice25.securenetsystems.net/KVGL
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s337003/images/logod.png",TITÁN 106.3 (Villahermosa) - 106.3 FM - XHRVI-FM - PUBLILUM (PubliLu Medios) - Villahermosa, Tabasco
-http://master.shoutcast.com:8000/titan-fm-106-3
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/V6Wm0Yq4/tkr.png",TKR (MTY) - Online - www.mmradio.com - Multimedios Radio - Monterrey, Nuevo León
-https://mdstrm.com/audio/672a61c2bef01359b6913aea/icecast.audio
