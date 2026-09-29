@@ -1056,6 +1056,9 @@ https://radios.radiohd.com.mx/8272/stream
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90638/images/logod.png",ESENCIA RADIO 107.1 (Zitácuaro) - 107.1 FM - XHETA-FM - Grupo Radio Zitácuaro - Zitácuaro, Michoacán
 http://stream.zeno.fm/tou6mhyhcueuv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/gJxDT20x/estereobaja.png",ESTÉREO BAJA 1550 (Tijuana) - 1550 AM - XEBG-AM - Esquina 32 Radio - Tijuana, Baja California
+https://cast6.asurahosting.com/proxy/estereo/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s346806/images/logod.jpg",ESTÉREO MENDEL 103.7 (Aguascalientes) - 103.7 FM - XHMR-FM - Instituto Mendel - Aguascalientes, Aguascalientes
 https://radioweb.stream/ags.ags/xhmr.aac/icecast.audio
 
@@ -1270,7 +1273,7 @@ https://stream.zeno.fm/ct70b7m1qa0uv
 https://stream-280.surfernetwork.com/u3pd78exzuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1M3BkNzhleHp1aHZ2IiwiaG9zdCI6InN0cmVhbS0yODAuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImFTWXczZDRsUzd5MHlhNmVXX2NLTUEiLCJpYXQiOjE3OTA0MjE5OTIsImV4cCI6MTc5MDQyMjA1Mn0.Aw_DxlDHBJJdl8CjpGYY_C3o3sw_ppCeUsB4zdLxjZI
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-extasis-digital-107-7-fm-morelos-mexico.webp",EXTASIS DIGITAL 107.7 (Cuernavaca) - 107.7 FM - XHASM-FM - Radiorama Morelos - Cuernavaca, Morelos
-https://stream-289.surfernetwork.com/476gbad3ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NzZnYmFkM2VraHZ2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjZfZEZrZ2xvUjEtdFFqTmJVUFBhZkEiLCJpYXQiOjE3OTAxOTAwMjksImV4cCI6MTc5MDE5MDA4OX0.M_XgNMZSuxC3SlFILx-gGmsK_Ab7Cxbxpbc2AeKGf-M
+https://stream-289.surfernetwork.com/476gbad3ekhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0NzZnYmFkM2VraHZ2IiwiaG9zdCI6InN0cmVhbS0yODkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6InF3ZnNjU3FXUkdXU0FxTkdfbGJpeVEiLCJpYXQiOjE3OTA2MjIxMDQsImV4cCI6MTc5MDYyMjE2NH0.aZ4ezWFAkj-Vwrbc_tCMkVUSsltDTtKKE49AwVxNNvA
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/NG9cNmDK/EXTASIS-DIGITAL-CHIHUAHUA.jpg",ÉXTASIS DIGITAL 580 (Chihuahua) - 580 AM - XEFI-AM - Radiorama Chihuahua - Chihuahua, Chihuahua
 https://stream-204.surfernetwork.com/n5bw2cz5dkhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJuNWJ3MmN6NWRraHZ2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkM0TU5VMUxYU0h5NWR6RGFSbW5JNVEiLCJpYXQiOjE3OTA0MTQzMDgsImV4cCI6MTc5MDQxNDM2OH0.3gYUSwu9rRiRef2O_JNCybBEPaPBe1ZZQ5eI8WUkvxQ
@@ -2996,6 +2999,3 @@ https://stream.zeno.fm/0kfnwylndhsuv
 
 #EXTINF:1 radio="true" tvg-logo="https://techno.fm/favicon.ico",Techno - FM - Channel
 https://stream.techno.fm/radio1-320k.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/j5JqRGN7/technoloversvocaltrance.jpg",Techno Lovers FM Vocal Trance
-https://stream.technolovers.fm/vocal-trance
