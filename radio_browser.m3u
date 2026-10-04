@@ -42,6 +42,9 @@ https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥ Clásicos del pop
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥ Clásicos románticos
+
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Amor en cada canción / Clásicos del pop
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
@@ -153,6 +156,9 @@ https://server2.sit-mexico.com:2199/proxy/acustik
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/4dmFn1tf/alfa.png",ALFA: Donde Todo Nace
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHFAJ_FMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",ALTERNATIVA by Mix: Rock Alternativo
+
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/628567ce99976dea53e52661",AMOR EN CONCIERTO: Éxitos en vivo en español
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR39_s01AAC.aac
 
@@ -176,6 +182,12 @@ http://s1.audiorama.mx:6678/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/68507f96166c04a064910e82",CHILANGO RADIO: La Radio Que Viene, Viene
 https://stream.radio.co/s938b68214/listen
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/bJfMDLb9/codigo21.jpg",CODIGO 21: Lo que tienes que escuchar
+
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/SNB7fzby/convoy.png",CONVOY: No somos radio, somos Convoy
+
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/KYMcttZ6/cultura1060.png",CULTURA 1060 AM: La radio de las culturas de México
 https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8172/stream
@@ -363,6 +375,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/MpjBZP9H/radio-felicidad.jpg",RADIO FELICIDAD: Los Mejores Momentos
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/bYHpqSbz/radioipn.png",RADIO IPN 🆕: Pasa La Voz...
+
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s10687/images/logod.png",RADIO IPN: Pasa La Voz...
 https://broadcast.radio.ipn.mx/RadioIPN
 
@@ -531,6 +546,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ABC_NOTICIAS_6
 #EXTINF:1 radio="true" tvg-logo="https://grupoabcmedia.com/wp-content/uploads/2025/01/noticias.png",ABC NOTICIAS 1310 (MTY) - 1310 AM - XEVB-AM - Grupo Radio Alegría - Monterrey, Nuevo León
 https://playerservices.streamtheworld.com/api/livestream-redirect/REGIONAL_MEXICANA_570AMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s339375/images/logod.jpg",ACCESO TOTAL (Mexicali) - Online - www.eltoquefm.com - El Toque FM - Mexicali, Baja California
+
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91373/images/logod.jpg",ACUSTIK RADIO 1150 (CDMX) - 1150 AM - XEJP-AM - Grupo Acustik - Ciudad de México
 https://server2.sit-mexico.com:2199/proxy/acustik?mp=/stream&1769272990469
 
@@ -665,6 +683,9 @@ https://stream-282.surfernetwork.com/0zqsdz9xoamuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzd
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s335644/images/logod.png",AZTLÁN RADIO 550 (Tepic) - 550 AM - XEGNAY-AM - Sistema de Radio y Televisión de Nayarit - Tepic, Nayarit
 https://stream-286.surfernetwork.com/h1t89686h0hvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJoMXQ4OTY4NmgwaHZ2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjhMaldURlliU1hLay1FSXlVMk90OHciLCJpYXQiOjE3OTA4ODM4OTksImV4cCI6MTc5MDg4Mzk1OX0.YOYTMDSsVtOEpv16a0typIg4n9dfhW2JEEvSCp0desc
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5bc5ed95c7977ca1c9302289",AZUL 89 (CDMX) - Online - www.iheart.com - Grupo ACIR / iHeart Radio México - Ciudad de México
+
 
 #EXTINF:1 radio="true" tvg-logo="https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png",B105 105.3 Brisbane
 https://wz4liw.scahw.com.au/live/4bbb_128.stream/playlist.m3u8
@@ -2157,6 +2178,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MTYAAC.a
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/66L07Bwy/los40mtz.jpg",LOS40 89.9 (Martínez de la Torre) - 89.9 FM - XHHU-FM - Grupo MS Multimedios - Martínez de la Torre, Veracruz
 http://cento02.mipanelradio.com/proxy/abadillo
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/ZKWJN8q4/los40mexicali.jpg",LOS40 90.7 (Mexicali) - 90.7 FM - XHMOE-FM - Radiópolis - Mexicali, Baja California
+
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s141437/images/logod.png",LOS40 95.7 (Aguascalientes) - 95.7 FM - XHAGA-FM - Grupo Radiofónico ZER - Aguascalientes, Aguascalientes
 https://cast.zuperdns.net/8030/stream/
 
@@ -2399,6 +2423,9 @@ https://radio.plaza.one/ogg
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Hx08h5Qt/nofmradio.jpg",NOFM RADIO (CDMX) - Online - www.nofm-radio.com - Todo Menos Miedo - Ciudad de México
 https://securestreams7.autopo.st/?uri=https://s2.voscast.com:8163/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/nLpLJ8ct/norte.png",NORTE 800 (Tijuana) - 800 AM - XESPN-AM - Esquina 32 Radio - Tijuana, Baja California
+
 
 #EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f7/XEMX_Noticias1120Mexicali_logo.jpg",NOTICIAS MVS 1120 (Mexicali) - 1120 AM - XEMX-AM - MVS Radio - Mexicali, Baja California
 https://playerservices.streamtheworld.com/api/livestream-redirect/XEMXAAC.aac
@@ -2654,6 +2681,9 @@ https://c22.radioboss.fm:8144/GamePlay
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s10687/images/logod.png",RADIO IPN 95.7 (CDMX) - 95.7 FM - XHIPN-FM - IPN (Instituto Politécnico Nacional) - Ciudad de México
 https://broadcast.radio.ipn.mx/RadioIPN
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s10687/images/logod.png",RADIO IPN 95.7 (CDMX) - 95.7 FM - XHIPN-FM - IPN (Instituto Politécnico Nacional) - Ciudad de Mexico 🆕
+
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90232/images/logod.png",RADIO JEREZ 89.1 (Jerez) - 89.1 FM - XHXM-FM - Grupo Radiofónico ZER - Jerez, Zacatecas
 https://cast.zuperdns.net/8016/stream/
@@ -2969,33 +2999,3 @@ https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88358/images/logod.jpg",STEREO UNO 100.3 (Mazatlán) - 100.3 FM - XHZS-FM - Luz Network - Mazatlán, Sinaloa
 https://audiostreaming.luz.network/stream/13/
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/C5rqJc0t/stereobit.png",STEREOBIT 103.7 (Ciudad Valles) - 103.7 FM - XHIR-FM - Organización Radio Valles - Ciudad Valles, San Luis Potosí
-https://sp2.servidorrprivado.com:10997/;
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jS5mFrLM/stereorey.jpg",STEREOREY (CDMX) - Online - www.stereorey.com - MVS Radio - Ciudad de México
-https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/8PPTN97V/stereorey1009.jpg",STEREOREY 100.9 (Aguascalientes) - 100.9 FM - XHCAA-FM - Radio Universal - AGuascalientes, Aguascalientes
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHCAAAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s190003/images/logod.png",STEREOREY 100.9 (Aguascalientes) - 100.9 FM - XHCAA-FM - Radio Universal - Aguascalientes, Aguascalientes
-https://hls.gvstream.live/radiouniversal/life1009.stream/playlist.m3u8
-
-#EXTINF:1 radio="true" tvg-logo="",STEREOREY: La Máxima Dimensión del Radio.
-https://playerservices.streamtheworld.com/api/livestream-redirect/STEREOREYAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/htng9tSn/studio1049.png",STUDIO 104.9 (Ciudad Obregón) - 104.9 FM - XHESO-FM - Radiorama Sonora - Ciudad Obregón, Sonora
-https://stream.freepi.io/8406/live
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/KvbYDgXR/studio899.webp",STUDIO 89.9 (Nogales) - 89.9 FM - XHHN-FM - Radiorama Sonora - Nogales, Sonora
-https://stream.freepi.io:8412/live
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s88130d.png",SUPER ESTELAR 107.9 (Piedras Negras) - 107.9 FM - XHCP-FM - Grupo Radio Zócalo - Piedras Negras, Coahuila
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPCFMAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="http://img.sedoparking.com/templates/logos/sedo_logo.png",super nova trzebnica
-http://ic1.smcdn.pl/1510-1.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/PfRb8bhf/superstereo.png",SUPER STEREO 100.5 (Tula) - 100.5 FM - XHIDO-FM - NRM Comunicaciones - Tula de Allende, Hidalgo
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHIDOFMGAVCAAC.aac
