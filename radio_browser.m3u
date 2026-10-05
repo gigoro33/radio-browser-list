@@ -18,9 +18,6 @@ http://stream.funradio.sk:8000/fun128.mp3
 #EXTINF:1 radio="true" tvg-logo="",Hard Rock Radio FM
 http://67.249.184.45:8015/
 
-#EXTINF:1 radio="true" tvg-logo="",Hot 97.1 KBCQ
-
-
 #EXTINF:1 radio="true" tvg-logo="https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2174/2023/09/26121503/launch_icon.png",KLVZ Legends 810AM/95.3 FM - Denver, CO
 https://ais-sa8.cdnstream1.com/p1w7r97sb0k/c2g93fu0iqz
 
@@ -1586,6 +1583,9 @@ https://ss1.audiorama.com.mx:6584/
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/0QDZTtHk/labestiagrupera903.png",LA BESTIA GRUPERA 90.3 (León) - 90.3 FM - XHML-FM - Grupo Audiorama Comunicaciones - León, Guanajuato
 https://cdn1.onstream.audio/proxy/xhml/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Gmqf9snm/labestiagrupera923.png",LA BESTIA GRUPERA 92.3 (Mexicali) - 92.3 FM - XHMMF-FM - Grupo Audiorama Comunicaciones - Mexicali, Baja California
+
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s90519d.png",LA BESTIA GRUPERA 95.3 (Acapulco) - 95.3 FM - XHEVP-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
 https://sg.centrocibernetico.com/audiorama-xhevp
