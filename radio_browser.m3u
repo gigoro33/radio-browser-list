@@ -2964,6 +2964,9 @@ https://stream.zeno.fm/uemgdeyam5zuv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/rw1YJjDh/soyfm939.png",SOY FM 93.9 (Tuxpan) - 93.9 FM - XHTXA-FM - Grupo FM Multimedios - Tuxpan, Veracruz
 https://stream.zeno.fm/0f3dzzp3f78uv
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/97201.v16.png",Spinning WHAX Radio 1690 AM - Ringgold, Georgia
+
+
 #EXTINF:1 radio="true" tvg-logo="https://static.wixstatic.com/media/837828_8ad6426e19624af38be7a52e88671f1c~mv2.jpeg",StarStream Radio - The Vinyl Vibe
 https://streaming.live365.com/a29175
 
@@ -2996,6 +2999,3 @@ https://sg.centrocibernetico.com/stereomaxx981
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90986/images/logod.png",STEREO SALTILLO 93.5 (Saltillo) - 93.5 FM - XHQC-FM - Multimedios Radio - Saltillo, Coahuila
 https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88358/images/logod.jpg",STEREO UNO 100.3 (Mazatlán) - 100.3 FM - XHZS-FM - Luz Network - Mazatlán, Sinaloa
-https://audiostreaming.luz.network/stream/13/
