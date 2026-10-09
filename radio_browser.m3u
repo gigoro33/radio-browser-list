@@ -531,6 +531,9 @@ https://sp04.servidorrprivado.com/2358/stream
 #EXTINF:1 radio="true" tvg-logo="",96.7 2HGR Hume Radio
 https://stream.2ghr.org.au:8000/2ghr
 
+#EXTINF:1 radio="true" tvg-logo="",A Cor da Vida
+
+
 #EXTINF:1 radio="true" tvg-logo="https://jazzgumboradio.com/favicon.ico",A Fine Jazz Gumbo Radio
 https://streaming.smartradio.ch:9502/stream
 
@@ -2996,6 +2999,3 @@ https://radios.radiohd.com.mx:8264/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k4ntM98G/stereofresnillo.jpg",STEREO FRESNILLO 91.1 (Fresnillo) - 91.1 FM - XHRRA-FM - Grupo Radiofónico ZER - Fresnillo, Zacatecas
 https://cast.zuperdns.net/8018/stream/
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/3JNPz6JB/stereomax.png",STEREO MAX 98.1 (San Martín Texmelucan) - 98.1 FM - XHMAXX-FM - Cinco Radio - San Martín Texmelucan, Puebla
-https://sg.centrocibernetico.com/stereomaxx981
