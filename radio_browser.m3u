@@ -45,6 +45,9 @@ https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥ Clásicos románticos
 
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥ Música con Amor
+
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Amor en cada canción / Clásicos del pop
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
@@ -1178,6 +1181,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCBB.mp3
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/fLh4vmCg/Exa-FM-Acambaro.jpg",EXA FM 90.5 (Acámbaro) - 90.5 FM - XHVW-FM - Organización Radiofónica de Acámbaro - Acámbaro, Guanajuato
 https://radios.radiohd.com.mx:7140/;
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s12599/images/logod.png",EXA FM 91.5 (Ciudad Acuña) - 91.5 FM - XHDH-FM - Grupo Región - Ciudad Acuña, Coahuila
+
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s12589/images/logod.png",EXA FM 91.5 (Mexicali) - 91.5 FM - XHJC-FM - MVS Radio - Mexicali, Baja California
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHJCFMAAC.aac
@@ -2993,9 +2999,3 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/624f52a70315729495f3b4fe",STEREO CRISTAL 101.1 (Querétaro) - 101.1 FM - XHJHS-FM - Grupo Radar - Querétaro, Querétaro
 https://radios.radiohd.com.mx:8274/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65c430f7e0d5b6bdb0583cf5",STEREO CRISTAL 96.7 (Celaya) - 96.7 FM - XHY-FM - Grupo Radar - Celaya, Guanajuato
-https://radios.radiohd.com.mx:8264/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k4ntM98G/stereofresnillo.jpg",STEREO FRESNILLO 91.1 (Fresnillo) - 91.1 FM - XHRRA-FM - Grupo Radiofónico ZER - Fresnillo, Zacatecas
-https://cast.zuperdns.net/8018/stream/
