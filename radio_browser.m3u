@@ -577,7 +577,7 @@ https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8088/lapaz
 https://streamingcwsradio30.com/8016/stream/1/;
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ceb5aa23a3ce4f7d3a1371c",ALTERNATIVA BY MIX (CDMX) - Online - Grupo ACIR / iHeart Radio México - Ciudad de México
-
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91299/images/logod.jpg",AMOR  91.7 (Xalapa) - 91.7 FM - XHOZ-FM - Quatro Media - Xalapa, Veracruz
 https://streaming.servicioswebmx.com/8126/stream
@@ -2586,9 +2586,6 @@ https://stream.radio.co/s938b68214/listen
 #EXTINF:1 radio="true" tvg-logo="https://public-rf-upload.minhawebradio.net/250444/logo/c9f6c0e472e2023c1d2cf8744f78a973.png",Rádio Cidade Maracaju 104.3 FM
 https://servidor33-5.brlogic.com:7078/live
 
-#EXTINF:1 radio="true" tvg-logo="",Radio Commando Belgrade Serbia
-
-
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/kM6xS574/radiocongreso1650.png",RADIO CONGRESO 1650 (CDMX) - 1650 AM - XECPCM-AM - Congreso General de los Estados Unidos Mexicanos - Ciudad de México
 https://ccstreaming.packet.mx/LiveApp/streams/Radio_kd5oiNTTWO0gEOFc23dr762145.m3u8
 
@@ -2999,3 +2996,6 @@ https://cast.zuperdns.net/8018/stream/
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/3JNPz6JB/stereomax.png",STEREO MAX 98.1 (San Martín Texmelucan) - 98.1 FM - XHMAXX-FM - Cinco Radio - San Martín Texmelucan, Puebla
 https://sg.centrocibernetico.com/stereomaxx981
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90986/images/logod.png",STEREO SALTILLO 93.5 (Saltillo) - 93.5 FM - XHQC-FM - Multimedios Radio - Saltillo, Coahuila
+https://mdstrm.com/audio/6737a5d1405919f792cf355e/icecast.audio
