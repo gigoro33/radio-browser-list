@@ -52,7 +52,7 @@ https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥ Música romántica
-
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: Amor en cada canción / Clásicos del pop
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
@@ -897,6 +897,9 @@ http://79.111.14.76:8000/chamberpop
 #EXTINF:1 radio="true" tvg-logo="",Cherry FM
 https://cherry.akiyaresearch.com:444/stream/89/
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91388/images/logod.jpg",CHETUMAL FM 100.9 (Chetumal) - 100.9 FM - XHCHE-FM - SQCS (Sistema Quintanarroense de Comunicación Social) - Chetumal, Quintana Roo
+
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/68507f96166c04a064910e82",CHILANGO RADIO 105.3 (CDMX) - 105.3 FM - XHINFO-FM - Capital Digital - Ciudad de México
 https://stream.radio.co/s938b68214/listen
 
@@ -1031,6 +1034,9 @@ https://sp2.servidorrprivado.com:10947/;
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/sfm6v57s/xhscas.jpg",DSS RADIO 107.9 (Chilpancingo) - 107.9 FM - XHSCAS-FM - Digital con Sentido Social 106.3, A.C. - Chilpancingo, Guerrero
 https://cast3.my-control-panel.com/proxy/dssradio?mp=/;
+
+#EXTINF:1 radio="true" tvg-logo="https://elclubdelapluma.esenvivo.com.ar/imagenes/logo.jpg",EL CLUB DE LA PLUMA
+
 
 #EXTINF:1 radio="true" tvg-logo="",EL FONÓGRAFO - 690 AM - XEN-AM - Grupo Radio Centro - Ciudad de México
 https://18063.live.streamtheworld.com:443/XEN_AMAAC.aac
@@ -1189,7 +1195,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHCCBB.mp3
 https://radios.radiohd.com.mx:7140/;
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90981/images/logod.png",EXA FM 91.3 (Córdoba) - 91.3 FM - XHPT-FM - Radio Comunicaciones de las Altas Montañas - Córdoba, Veracruz
-
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPTAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s12599/images/logod.png",EXA FM 91.5 (Ciudad Acuña) - 91.5 FM - XHDH-FM - Grupo Región - Ciudad Acuña, Coahuila
 https://streamingcwsradio30.com:7184/stream
@@ -1722,6 +1728,9 @@ https://stream.zeno.fm/l7kg7tzzq44vv
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/X7pJRnjJ/lahz.jpg",LA HZ 105.5 (La Paz) - 105.5 FM - XHHZ-FM - Promomedios California - La Paz, Baja California
 https://stream.zeno.fm/y8uxwx3je0nvv
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/qMtdHPpM/lainigualable.jpg",LA INIGUALABLE 91.3 (Amatepec) - 91.3 FM - XHPAMM-FM - Amatepec, Estado de Mexico
+http://streaming.dinesat.com:7026/stream
+
 #EXTINF:1 radio="true" tvg-logo="https://www.allradio.net/500/7xbmF_FvuVag4AvuuuvMA.webp",LA INIGUALABLE 91.3 (Amatepec) - 91.3 FM - XHPAMM-FM - Amatepec, Estado de México
 http://streaming.dinesat.com:7026/stream
 
@@ -1766,6 +1775,9 @@ https://streaming.servicioswebmx.com/8146/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/zvbvs8VM/lakebuena1051.png",LA KEBUENA 105.1 (Mazatlán) - 105.1 FM - XHERJ-FM - GPM (Grupo Promomedios) - Mazatlán, Sinaloa
 https://radioweb.stream/sinaloa.mazatlan/xerj.aac/icecast.audio
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/j5P59PWN/lakebuena820.jpg",LA KEBUENA 820 (Mexicali) - 820 AM - XEABCA-AM - Grupo Radio Cañón - Mexicali, Baja California
+
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/qMXpMh0h/lakebuena889.jpg",LA KEBUENA 88.9 (Guasave) - 88.9 FM - XHPGVS-FM - GPM (Grupo Promomedios) - Guasave, Sinaloa
 https://radioweb.stream/sinaloa.guasave/xhpgvs.aac/icecast.audio
@@ -2987,15 +2999,3 @@ https://ice2.somafm.com/sf1033-128-aac
 
 #EXTINF:1 radio="true" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png",Sky News Australia Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png",SmoothJazz.com 64k aac+
-https://smoothjazz.cdnstream1.com/2585_64.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s8105/images/logod.png",SOL FM 101.3 (Atlixco) - 101.3 FM - XHVP-FM - Cinco Radio - Atlixco, Puebla
-https://sg.centrocibernetico.com/solfm1013
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/g0TrXT6t/solfm.png",SOL FM 103.9 (Ciudad Hidalgo) - 103.9 FM - XHESOL-FM - Medios Radiofónicos Michoacán - Ciudad Hidalgo, Michoacán
-https://s4.voscast.com:8757/cdhidalgo.mp3
-
-#EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-sol-stereo-97-7-fm-chetumal-mexico.webp",SOL STEREO 97.7 (Chetumal) - 97.7 FM - XHWO-FM - Grupo Sol Comunicaciones - Chetumal, Quintana Roo
-https://securestream.mxradio.xyz/chetumal/
