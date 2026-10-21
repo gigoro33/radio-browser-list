@@ -37,7 +37,7 @@ https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥ Clásicos con Amor
-
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥ Clásicos de Amor
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
@@ -1783,7 +1783,7 @@ https://streaming.servicioswebmx.com/8146/stream
 https://radioweb.stream/sinaloa.mazatlan/xerj.aac/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/j5P59PWN/lakebuena820.jpg",LA KEBUENA 820 (Mexicali) - 820 AM - XEABCA-AM - Grupo Radio Cañón - Mexicali, Baja California
-
+http://streaming.servicioswebmx.com/8286/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/qMXpMh0h/lakebuena889.jpg",LA KEBUENA 88.9 (Guasave) - 88.9 FM - XHPGVS-FM - GPM (Grupo Promomedios) - Guasave, Sinaloa
 https://radioweb.stream/sinaloa.guasave/xhpgvs.aac/icecast.audio
@@ -1858,7 +1858,7 @@ https://mdstrm.com/audio/672ce72c8997d8ee6a17c240/icecast.audio
 https://cast4.asurahosting.com/proxy/radiocan/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s42269/images/logod.png",LA LUPE 95.3 (Tijuana) - 95.3 FM - XHHIT-FM - Multimedios Radio - Tijuana, Baja California
-
+https://mdstrm.com/audio/6737c55f827a7efae201a949/icecast.audio
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s323162/images/logod.png",LA LUPE 99.9 (GDL) - 99.9 FM - XHKB-FM - Multimedios Radio - Guadalajara, Jalisco
 https://mdstrm.com/audio/6737875eb61ca2fa731a2891/icecast.audio
@@ -2824,7 +2824,7 @@ https://navairan.com/;stream.nsv
 https://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90069/images/logod.png",RADIO RANCHITO 1420 (Tijuana) - 1420 AM - XEXX-AM - Radio Cadena Enciso - Tijuana, Baja California
-
+https://edge.mixlr.com/channel/lhkft
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-ranchito-99-7-fm-aguascalientes-mexico.webp",RADIO RANCHITO 99.7 (Calvillo) - 99.7 FM - XHPLVI-FM - Grupo ULTRA México - Calvillo, Aguascalientes
 https://streamingcwsradio30.com:7006/stream.mp3
