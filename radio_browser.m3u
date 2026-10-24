@@ -33,6 +33,9 @@ https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥ Amor en la radio
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",LOVE FM: All you need is Love ♥ Amor en mi radio
 https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
@@ -2996,6 +2999,3 @@ https://ss1.audiorama.com.mx:6572/
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s342567/images/logod.jpg",RMX 107.5 (GDL) - 107.5 FM - XHVOZ-FM - Grupo Audiorama Comunicaciones / Grupo Imagen - Guadalajara, Jalisco
 https://ss1.audiorama.com.mx:6574/rmx
-
-#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/jjgCfJD6/rocola.png",ROCOLA 990 (Mexicali) - 990 AM - XECL-AM - Radiorama Mexicali - Mexicali, Baja California
-http://stream.zeno.fm/bcbs57s5dkhvv
