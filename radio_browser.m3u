@@ -2584,7 +2584,7 @@ https://streamingcwsradio30.com:7021/stream
 https://stream.punkrockers-radio.de:8443/prr.ogg
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/tJ6JVfQN/quevivamexico.png",QUE VIVA MÉXICO! (MTY) - Online - www.quevivamexico.com - Grupo Digital Retroland - Monterrey, Nuevo León
-https://panel.retrolandigital.com:8160/listen
+https://panel.retrolandigital.com/listen/que_viva_mexico/listen
 
 #EXTINF:1 radio="true" tvg-logo="https://valeverdefm.com.br/img/b1477f6674fb80a945ea178ecb46e51c.png",R.VALE VERDE FM 96,66
 https://f100.fabricahost.com.br/valeverdefm?f=1792623568N01M5GB1S6ARJ9BR8H1W9GD0HJK&tid=01M5GB1S6AG8J3025M20ZX2G6V
