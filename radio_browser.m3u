@@ -117,6 +117,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR12_s01AAC.
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/62313335be123875849470d1",AMOR DE DIVAS: Baladas de y para mujeres
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR01_s01AAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/6231337bbe123875849470d7",AMOR DE DOS: Duetos en español, música romántica
+https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR02_s01AAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/628567ce99976dea53e52661",AMOR EN CONCIERTO: Éxitos en vivo en español
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR39_s01AAC.aac
 
@@ -174,17 +177,14 @@ https://16643.live.streamtheworld.com:443/ACIR15_S01AAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/NGpmV3PJ/exafm.jpg",EXA FM: En Todas Partes
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHEXAAAC.aac
 
-#EXTINF:1 radio="true" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/exa.jpg",EXA FM: En Todas Partes Ponte Exa
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2",EXA FM: POP MUSIC in Spanish and English
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
-
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/MGTJJFtv/frecuencia.jpg",FRECUENCIA 🆕: Radio Comunitaria
 https://radio.streamexico.com/listen/frecuencia/radio.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/MGTJJFtv/frecuencia.jpg",FRECUENCIA: Radio Comunitaria
 https://5c001c2729b09.streamlock.net:4443/live/_definst_/frecuencia.stream/playlist.m3u8
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s161252/images/logod.png",GRUPERA: La más tremenda 🤠
+https://mdstrm.com/audio/66be5c00b6bf50d01ecf55c2/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-formula-103-3-fm-mexico.webp",GRUPO FÓRMULA (103.3): Abriendo la Conversación
 https://mdstrm.com/audio/6102ce7ef33d0b0830ec3adc/live.m3u8
@@ -234,6 +234,9 @@ https://sg.centrocibernetico.com/audiorama-xewf
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/mD0WQyvV/la-comadre.png",LA COMADRE: Puros Éxitos!!!
 https://playerservices.streamtheworld.com/api/livestream-redirect/XELAMAAC.aac
 
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/x8PBpyhh/lakaliente.png",LA KALIENTE: Préndete con La Kaliente 🔥
+https://mdstrm.com/audio/6715e0158ec04cb1e32dabdc/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s25263/images/logod.png",LA KEBUENA: ¡Aquí Suena La KeBuena!
 https://playerservices.streamtheworld.com/api/livestream-redirect/KEBUENAAAC.aac
 
@@ -260,6 +263,9 @@ https://mdstrm.com/audio/69373baa6d5fd824ec8440c5/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://los40es00.epimg.net/iconos/v3.x/v1.0/cabeceras/logo_40.png",LOS40: La Radio de los Conciertos
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_MEXICOAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s91984/images/logod.png",LOVE: All you need is love
+https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k5Lz0ryM/luciernagas.jpg",LUCIÉRNAGAS: Encendemos las voces
 https://securestreams7.autopo.st/?uri=https://s2.mexside.net/8026/stream
@@ -488,9 +494,6 @@ https://sp04.servidorrprivado.com/2358/stream
 
 #EXTINF:1 radio="true" tvg-logo="",96.7 2HGR Hume Radio
 https://stream.2ghr.org.au:8000/2ghr
-
-#EXTINF:1 radio="true" tvg-logo="",A Cor da Vida
-
 
 #EXTINF:1 radio="true" tvg-logo="https://jazzgumboradio.com/favicon.ico",A Fine Jazz Gumbo Radio
 https://streaming.smartradio.ch:9502/stream
@@ -1173,9 +1176,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHGLXAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90288/images/logod.png",EXA FM 91.9 (Ciudad Mante) - 91.9 FM - XHRLM-FM - ORT Radio - Ciudad Mante, Tamaulipas
 https://cast1.my-control-panel.com/proxy/examante/stream/;stream.mp3
 
-#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90984/images/logod.png?t=637460020780000000",EXA FM 93.3 (Veracruz) - 93.3 FM - XHPS-FM - MVS Radio - Veracruz, Veracruz
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
-
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/020sJTSv/exa935.jpg",EXA FM 93.5 (Irapuato) - 93.5 FM - XHNY-FM - Irapuato, Guanajuato
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHNYAAC.aac
 
@@ -1242,28 +1242,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/XHCOCFMAAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://exafm.com/u/plantillas/p/exa-fm/imgs/favicons//apple-touch-icon.png?v2",EXA FM Honduras: Tegucigalpa 100.5 FM / San Pedro Sula 89.3 FM / Choluteca 95.9 FM / Litoral 93.9 FM
 https://stream.zeno.fm/0n4tnx3wd5zuv
 
-#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",EXA FM: Música pop em inglês e espanhol
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://exafm.com/favicon.ico",EXA FM: Música Pop en Español e Inglés
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.exafm.com/favicon.ico",EXA FM: Muzikë pop në anglisht dhe spanjisht
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/fG1gxdB/Exa-FM-Veracruz.webp",EXA FM: Pop Music in Spanish and English
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",EXA FM: Pop music in Spanish and English
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
-
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s90984/images/logog.png",EXA FM: Popmusik på engelska och spanska
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://www.exafm.com/favicon.ico",EXA FM: په انګلیسي او هسپانوي کې پاپ موزیک
-https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
-
-#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f9883c7cde5eff19e6eabac",EXA FM: موسيقى البوب ​​باللغتين الإنجليزية والإسبانية
 https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://manager.uber.radio/static/uploads/brand/af0845bf-87b2-4abd-a401-8e0029bb2696.png",Exclusively Madonna
@@ -2999,3 +2978,24 @@ https://streaming.live365.com/a29175
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s329513/images/logod.jpg",STEREO 100 99.9 (Morelia) - 99.9 FM - XHSCHP-FM - FH Comunicadores de Michoacán - Morelia/Tarímbaro, Michoacán
 http://154.38.167.185:8040/;
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s88337/images/logod.png",STEREO 100.3 (Hermosillo) - 100.3 FM - XHSD-FM - Uniradio - Hermosillo, Sonora
+https://streamingcwsradio30.com:7026/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/XHNOE_Stereo91_logo.png",STEREO 91 91.3 (Nuevo Laredo) - 91.3 FM - XHNOE-FM - Nuevo Laredo, Tamaulipas
+http://216.251.65.74:8000/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s24567/images/logog.jpg",STEREO CIEN 100.1 (CDMX) - 100.1 FM - XHMM-FM - NRM Comunicaciones - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/485/stereo-cien-1001-fm.640ab4a2.jpg",STEREO CIEN 1000 (CDMX) - 1000 AM - XEOY-AM - NRM Comunicaciones - Ciudad de México
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMMFMAAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/624f52a70315729495f3b4fe",STEREO CRISTAL 101.1 (Querétaro) - 101.1 FM - XHJHS-FM - Grupo Radar - Querétaro, Querétaro
+https://radios.radiohd.com.mx:8274/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65c430f7e0d5b6bdb0583cf5",STEREO CRISTAL 96.7 (Celaya) - 96.7 FM - XHY-FM - Grupo Radar - Celaya, Guanajuato
+https://radios.radiohd.com.mx:8264/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k4ntM98G/stereofresnillo.jpg",STEREO FRESNILLO 91.1 (Fresnillo) - 91.1 FM - XHRRA-FM - Grupo Radiofónico ZER - Fresnillo, Zacatecas
+https://cast.zuperdns.net/8018/stream/
