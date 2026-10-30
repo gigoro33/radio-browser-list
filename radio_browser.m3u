@@ -2488,7 +2488,7 @@ https://streamingcwsradio30.com:7021/stream
 https://stream.punkrockers-radio.de:8443/prr.ogg
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/tJ6JVfQN/quevivamexico.png",QUE VIVA MÉXICO! (MTY) - Online - www.quevivamexico.com - Grupo Digital Retroland - Monterrey, Nuevo León
-https://panel.retrolandigital.com/listen/que_viva_mexico/listen
+https://panel.retrolandigital.com:8160/listen
 
 #EXTINF:1 radio="true" tvg-logo="https://valeverdefm.com.br/img/b1477f6674fb80a945ea178ecb46e51c.png",R.VALE VERDE FM 96,66
 https://f100.fabricahost.com.br/valeverdefm?f=1793057467N01M5X8VB9B63859X83NWJQD93A&tid=01M5X8VB9BZCHS989F2MQ00AKS
@@ -2787,9 +2787,6 @@ https://tv.radiohosting.online:9486/stream
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-unam-860-am-ciudad-de-mexico-mexico.webp",RADIO UNAM 860 (CDMX) - 860 AM - XEUN-AM - UNAM (Universidad Autónoma de México) - Ciudad de México
 https://tv.radiohosting.online:9486/stream
 
-#EXTINF:1 radio="true" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24539d.png",RADIO UNAM 96.1 (CDMX) - 96.1 FM - XEUN-FM - UNAM (Universidad Autónoma de México) - Ciudad de México
-https://tv.radiohosting.online:9484/stream
-
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/65tD4f54/radioujed.png",RADIO UNIVERSIDAD 100.5 (Durango) - 100.5 FM - XHHD-FM - Universidad Juárez del Estado de Durango (UJED) - Durango, Durango
 https://streaming.radio.ujed.mx/stream
 
@@ -2999,3 +2996,6 @@ https://radios.radiohd.com.mx:8264/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/k4ntM98G/stereofresnillo.jpg",STEREO FRESNILLO 91.1 (Fresnillo) - 91.1 FM - XHRRA-FM - Grupo Radiofónico ZER - Fresnillo, Zacatecas
 https://cast.zuperdns.net/8018/stream/
+
+#EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/3JNPz6JB/stereomax.png",STEREO MAX 98.1 (San Martín Texmelucan) - 98.1 FM - XHMAXX-FM - Cinco Radio - San Martín Texmelucan, Puebla
+https://sg.centrocibernetico.com/stereomaxx981
