@@ -24,6 +24,9 @@ http://stream4.nadaje.com:15476/radiobialystok
 #EXTINF:1 radio="true" tvg-logo="https://lh6.ggpht.com/dU5W-XpgWgEgtIt3Ho990I9bre5IZTq7AK2ffSt_bXTDTNQ6eUkTG-WqERh6c_EHPb8=w300",psyradio * fm - progressive
 http://streamer.psyradio.org:8010/;listen.mp3
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s337424/images/logod.png",RADIO ACTIVA 89.7 FM ⚡ Hermosillo, Sonora
+https://mdstrm.com/audio/66ad14f0917845e9b7570bf2/live.m3u8
+
 #EXTINF:1 radio="true" tvg-logo="",radio brume
 https://www.radioking.com/play/brume-campus-lyon/546695
 
@@ -2996,6 +2999,3 @@ https://streaming.servicioswebmx.com/8248/stream
 
 #EXTINF:1 radio="true" tvg-logo="https://static-media.streema.com/media/cache/d6/c0/d6c0cdb6435c89c502bb0c7f56100e71.jpg",W RADIO 101.5 (Acapulco) - 101.5 FM - XHBB-FM - Grupo Radio Cañón - Acapulco, Guerrero
 https://streaming.servicioswebmx.com/8302/stream
-
-#EXTINF:1 radio="true" tvg-logo="https://wradio.com.mx/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fprisaradiomx%2FZCW5NZTRPRNTHPQPRO3W2LMI7Q.jpg?auth=da97d332a5bbe53636ef6416437fd7e2ea0f5407ea73692c56ec2282081a03b0&height=545&width=545&quality=70&smart=true",W RADIO 101.5 (GDL) - 101.5 FM - XHWK-FM - Radiópolis - Guadalajara, Jalisco
-https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_GDLAAC.aac
