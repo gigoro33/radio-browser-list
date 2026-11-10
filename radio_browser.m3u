@@ -45,6 +45,9 @@ https://26583.live.streamtheworld.com/RT_CALIAAC_SC
 #EXTINF:1 radio="true" tvg-logo="https://media.live365.com/download/b6b2cf5d-7596-471f-8aa4-fb4edd25612f.jpg",Squirrel FM
 http://s25.myradiostream.com:10092/stream
 
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/ce6ef23e-2cdd-44a2-b139-c2b08f9365e3?ops=fit(240%2C240)",88.9 NOTICIAS: Información Que Sirve
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHMFMAAC.aac
+
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5c769b2fe7770a23546c3d7f",90S DANCE by Mix: Dance de los 90
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR11_s01AAC.aac
 
@@ -72,6 +75,9 @@ https://19273.live.streamtheworld.com:443/ACIR15_S01AAC.aac
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s161252/images/logod.png",GRUPERA: La más tremenda 🤠
 https://mdstrm.com/audio/66be5c00b6bf50d01ecf55c2/live.m3u8
 
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s50611/images/logod.png",IBERO 90.9 FM: El Milagro de la Radio
+http://noasrv.caster.fm:10182/stream
+
 #EXTINF:1 radio="true" tvg-logo="",ICE RADIO
 https://stream.iceradio.nl/iceradiohq?ver=30283
 
@@ -98,6 +104,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR13_s01AAC.
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/Hx08h5Qt/nofmradio.jpg",NOFM RADIO: Todo Menos Miedo
 https://securestreams7.autopo.st/?uri=https://s2.voscast.com:8163/stream
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6917643285bca6ccd93e91a1",OYE 89.7: Oye se oye
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC_SC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/68cf4e9742d32d36188fbbc4",PA BAILAR: Banda y grupera para la fiesta
 https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR08_s01AAC.aac
@@ -134,6 +143,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR22_s01AAC.
 
 #EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/assets.streams/664fdc66d654e5b9dff60ccd",TRÍOS Y BOLEROS de Radio Felicidad: Clásicos de los 50s y 60s
 https://16643.live.streamtheworld.com:443/ACIR17_S01AAC.aac
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0b2287ec97a064f3322c7",UNIVERSAL: La estación de los clásicos
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHRED_FMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/9fZ9LHcm/vox.png",VOX: Radio Hits
 https://streamingcwsradio30.com/8292/vox
@@ -266,6 +278,9 @@ https://stream.bollenstreekomroep.nl/live-mp3-192-stereo
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s344311/images/logod.jpg",BONITA 91.1 (Ciudad Mante) - 91.1 FM - XHECM-FM - ORT Radio - Ciudad Mante, Tamaulipas
 https://cast1.my-control-panel.com/proxy/bonita/stream/
+
+#EXTINF:1 radio="true" tvg-logo="",Bruce-Radio
+https://stream.bruce-radio.be/bruce-classic-rock
 
 #EXTINF:1 radio="true" tvg-logo="https://thumbnail.anii.io/mx/radio-buenisiima-103-9-fm-acapulco-mexico.webp",BUENISIIMA 103.9 (Acapulco) - 103.9 FM - XHPO-FM - Grupo Audiorama Comunicaciones - Acapulco, Guerrero
 https://ss1.audiorama.com.mx:6606/stream
@@ -1493,6 +1508,9 @@ https://stream5.mexiserver.com:1124/
 
 #EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s8289/images/logog.png",ULTRA 101.3 (Toluca) - 101.3 FM - XHZA-FM - Grupo ULTRA - Toluca, Estado de México
 https://icecastultra.duckdns.org/livetol
+
+#EXTINF:1 radio="true" tvg-logo="https://i.iheart.com/v3/re/new_assets/5ef0b2287ec97a064f3322c7",UNIVERSAL 88.1 (CDMX) - 88.1 FM - XHRED-FM - Grupo Radio Centro - Ciudad de México
+
 
 #EXTINF:1 radio="true" tvg-logo="https://i.postimg.cc/6pCtsH2P/xecsac.jpg",VALLES DIGITAL RADIO 1210 (El Arenal) - 1210 AM - XECSAC-AM - El Arenal, Jalisco
 https://shoutcast.uplinkmx.com:8000/;stream/1
@@ -2981,21 +2999,3 @@ https://stream.0nlineradio.com/grandprix?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="",0nlineradio GREATEST HITS
 https://stream.0nlineradio.com/greatest-hits?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/y8Pcv7T/HA-NDEL-NEW.jpg",0nlineradio HÄNDEL
-https://stream.0nlineradio.com/haendel?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",0nlineradio HOUSE
-https://stream.0nlineradio.com/house?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/CJkTX9Q/karneval.jpg",0nlineradio KARNEVAL
-https://stream.0nlineradio.com/karneval?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",0nlineradio LATIN
-https://stream.0nlineradio.com/latin?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",0nlineradio LO-FI
-https://stream.0nlineradio.com/lo-fi?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",0nlineradio LOVEHITS
-https://stream.0nlineradio.com/lovehits?ref=radiobrowser
