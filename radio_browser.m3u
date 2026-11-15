@@ -2325,6 +2325,9 @@ https://server5.mediasector.es:8180/moda.mp3
 #EXTINF:1 radio="true" tvg-logo="https://i.ibb.co/jbJkcvt/BREAKZ-FM-LOGO.png",!REMIX! MASHUP RADIO
 https://breakz-high.rautemusik.fm/?ref=radiobrowser27
 
+#EXTINF:1 radio="true" tvg-logo="https://radio.sandrokob.online/icon-512.png",????? ?????? - Prayer Radio
+https://radio.sandrokob.online/stream
+
 #EXTINF:1 radio="true" tvg-logo="",??????? ????? (RUSSIAN WAVE)
 http://ru1.volna.top/RuWave48
 
@@ -2627,6 +2630,9 @@ http://anonradio.net:8000/anonradio
 
 #EXTINF:1 radio="true" tvg-logo="https://mlp.radio/static/uploads/browser_icon/180.1732808201.png",/mlpfm/
 https://dash.mlp.radio:8020/radio.mp3
+
+#EXTINF:1 radio="true" tvg-logo="https://cdn-profiles.tunein.com/s87618/images/logod.jpg",\tBEAT 100. 9 FM: La música se elije
+http://playerservices.streamtheworld.com/api/livestream-redirect/XHSONFMAAC.aac
 
 #EXTINF:1 radio="true" tvg-logo="https://static.wixstatic.com/media/f361b3_a5ce07773ea14d209785044fbeb26dca~mv2.jpg",# 100 GREATEST HEAVY METAL
 https://cast1.torontocast.com:4660/stream
@@ -2993,9 +2999,3 @@ https://stream.0nlineradio.com/deutschrock?ref=radiobrowser
 
 #EXTINF:1 radio="true" tvg-logo="",0nlineradio GOSPEL
 https://stream.0nlineradio.com/gospel?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",0nlineradio GRAN PRIX
-https://stream.0nlineradio.com/grandprix?ref=radiobrowser
-
-#EXTINF:1 radio="true" tvg-logo="",0nlineradio GREATEST HITS
-https://stream.0nlineradio.com/greatest-hits?ref=radiobrowser
