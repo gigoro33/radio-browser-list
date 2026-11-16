@@ -1662,7 +1662,7 @@ https://12punks-high.rautemusik.fm/?ref=radiobrowser
 #EXTINF:1 radio="true" tvg-logo="",__1oldies
 https://stream.laut.fm/80sexitos
 
-#EXTINF:1 radio="true" tvg-logo="",__80 EXITOS
+#EXTINF:1 radio="true" tvg-logo="https://assets.laut.fm/51443b263d4b82dd4e7c24b811b8ddd7?t=_640x640",__80 EXITOS
 https://80sexitos.stream.laut.fm/80sexitos
 
 #EXTINF:1 radio="true" tvg-logo="",__80 HITS
